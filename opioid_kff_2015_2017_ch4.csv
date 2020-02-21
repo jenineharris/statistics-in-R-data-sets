@@ -1,0 +1,16 @@
+"","year","policy","states"
+"1","2015","quantLim",46
+"2","2016","quantLim",46
+"3","2017","quantLim",48
+"4","2015","priorAuth",45
+"5","2016","priorAuth",45
+"6","2017","priorAuth",48
+"7","2015","clinCrit",42
+"8","2016","clinCrit",42
+"9","2017","clinCrit",43
+"10","2015","therapyReq",31
+"11","2016","therapyReq",32
+"12","2017","therapyReq",36
+"13","2015","monitor",12
+"14","2016","monitor",18
+"15","2017","monitor",26

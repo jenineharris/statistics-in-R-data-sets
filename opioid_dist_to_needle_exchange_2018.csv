@@ -1,0 +1,3215 @@
+STATEFP,COUNTYFP,YEAR,INDICATOR,VALUE,STATE,STATEABBREVIATION,COUNTY
+1,1,2018,dist_SSP,153.67,Alabama,AL,Autauga County
+1,3,2018,dist_SSP,146.5,Alabama,AL,Baldwin County
+1,5,2018,dist_SSP,144.25,Alabama,AL,Barbour County
+1,7,2018,dist_SSP,163.25,Alabama,AL,Bibb County
+1,9,2018,dist_SSP,127.12,Alabama,AL,Blount County
+1,11,2018,dist_SSP,135.67,Alabama,AL,Bullock County
+1,13,2018,dist_SSP,196.5,Alabama,AL,Butler County
+1,15,2018,dist_SSP,82.83,Alabama,AL,Calhoun County
+1,17,2018,dist_SSP,79.5,Alabama,AL,Chambers County
+1,19,2018,dist_SSP,77.5,Alabama,AL,Cherokee County
+1,21,2018,dist_SSP,147.43,Alabama,AL,Chilton County
+1,23,2018,dist_SSP,179.2,Alabama,AL,Choctaw County
+1,25,2018,dist_SSP,180.78,Alabama,AL,Clarke County
+1,27,2018,dist_SSP,90.83,Alabama,AL,Clay County
+1,29,2018,dist_SSP,61,Alabama,AL,Cleburne County
+1,31,2018,dist_SSP,188,Alabama,AL,Coffee County
+1,33,2018,dist_SSP,115,Alabama,AL,Colbert County
+1,35,2018,dist_SSP,199.2,Alabama,AL,Conecuh County
+1,37,2018,dist_SSP,117.6,Alabama,AL,Coosa County
+1,39,2018,dist_SSP,208.7,Alabama,AL,Covington County
+1,41,2018,dist_SSP,175.67,Alabama,AL,Crenshaw County
+1,43,2018,dist_SSP,137.5,Alabama,AL,Cullman County
+1,45,2018,dist_SSP,176,Alabama,AL,Dale County
+1,47,2018,dist_SSP,183.38,Alabama,AL,Dallas County
+1,49,2018,dist_SSP,96.53,Alabama,AL,DeKalb County
+1,51,2018,dist_SSP,133.44,Alabama,AL,Elmore County
+1,53,2018,dist_SSP,181.75,Alabama,AL,Escambia County
+1,55,2018,dist_SSP,98.36,Alabama,AL,Etowah County
+1,57,2018,dist_SSP,177.17,Alabama,AL,Fayette County
+1,59,2018,dist_SSP,137.14,Alabama,AL,Franklin County
+1,61,2018,dist_SSP,200.62,Alabama,AL,Geneva County
+1,63,2018,dist_SSP,212,Alabama,AL,Greene County
+1,65,2018,dist_SSP,199.6,Alabama,AL,Hale County
+1,67,2018,dist_SSP,162.2,Alabama,AL,Henry County
+1,69,2018,dist_SSP,184.82,Alabama,AL,Houston County
+1,71,2018,dist_SSP,102.12,Alabama,AL,Jackson County
+1,73,2018,dist_SSP,141.6,Alabama,AL,Jefferson County
+1,75,2018,dist_SSP,180.67,Alabama,AL,Lamar County
+1,77,2018,dist_SSP,100.25,Alabama,AL,Lauderdale County
+1,79,2018,dist_SSP,115.33,Alabama,AL,Lawrence County
+1,81,2018,dist_SSP,97.73,Alabama,AL,Lee County
+1,83,2018,dist_SSP,96.4,Alabama,AL,Limestone County
+1,85,2018,dist_SSP,171,Alabama,AL,Lowndes County
+1,87,2018,dist_SSP,123.67,Alabama,AL,Macon County
+1,89,2018,dist_SSP,99.18,Alabama,AL,Madison County
+1,91,2018,dist_SSP,205.89,Alabama,AL,Marengo County
+1,93,2018,dist_SSP,156.17,Alabama,AL,Marion County
+1,95,2018,dist_SSP,115.78,Alabama,AL,Marshall County
+1,97,2018,dist_SSP,124.76,Alabama,AL,Mobile County
+1,99,2018,dist_SSP,194.27,Alabama,AL,Monroe County
+1,101,2018,dist_SSP,146.53,Alabama,AL,Montgomery County
+1,103,2018,dist_SSP,118.56,Alabama,AL,Morgan County
+1,105,2018,dist_SSP,191,Alabama,AL,Perry County
+1,107,2018,dist_SSP,212.2,Alabama,AL,Pickens County
+1,109,2018,dist_SSP,163.43,Alabama,AL,Pike County
+1,111,2018,dist_SSP,68.2,Alabama,AL,Randolph County
+1,113,2018,dist_SSP,108.25,Alabama,AL,Russell County
+1,115,2018,dist_SSP,111.92,Alabama,AL,St. Clair County
+1,117,2018,dist_SSP,135.19,Alabama,AL,Shelby County
+1,119,2018,dist_SSP,214,Alabama,AL,Sumter County
+1,121,2018,dist_SSP,109,Alabama,AL,Talladega County
+1,123,2018,dist_SSP,100,Alabama,AL,Tallapoosa County
+1,125,2018,dist_SSP,185,Alabama,AL,Tuscaloosa County
+1,127,2018,dist_SSP,160.31,Alabama,AL,Walker County
+1,129,2018,dist_SSP,149.79,Alabama,AL,Washington County
+1,131,2018,dist_SSP,204.33,Alabama,AL,Wilcox County
+1,133,2018,dist_SSP,145.43,Alabama,AL,Winston County
+2,13,2018,dist_SSP,521,Alaska,AK,Aleutians East Borough
+2,16,2018,dist_SSP,714.57,Alaska,AK,Aleutians West Census Area
+2,20,2018,dist_SSP,116.76,Alaska,AK,Anchorage Municipality
+2,50,2018,dist_SSP,162.54,Alaska,AK,Bethel Census Area
+2,60,2018,dist_SSP,197,Alaska,AK,Bristol Bay Borough
+2,68,2018,dist_SSP,219.2,Alaska,AK,Denali Borough
+2,70,2018,dist_SSP,185.71,Alaska,AK,Dillingham Census Area
+2,90,2018,dist_SSP,150.25,Alaska,AK,Fairbanks North Star Borough
+2,100,2018,dist_SSP,71,Alaska,AK,Haines Borough
+2,105,2018,dist_SSP,66,Alaska,AK,Hoonah-Angoon Census Area
+2,110,2018,dist_SSP,5,Alaska,AK,Juneau City and Borough
+2,122,2018,dist_SSP,60.07,Alaska,AK,Kenai Peninsula Borough
+2,130,2018,dist_SSP,227,Alaska,AK,Ketchikan Gateway Borough
+2,150,2018,dist_SSP,150,Alaska,AK,Kodiak Island Borough
+2,158,2018,dist_SSP,194,Alaska,AK,Kusilvak Census Area
+2,164,2018,dist_SSP,256.54,Alaska,AK,Lake and Peninsula Borough
+2,170,2018,dist_SSP,168.33,Alaska,AK,Matanuska-Susitna Borough
+2,180,2018,dist_SSP,279.07,Alaska,AK,Nome Census Area
+2,185,2018,dist_SSP,268.82,Alaska,AK,North Slope Borough
+2,188,2018,dist_SSP,290,Alaska,AK,Northwest Arctic Borough
+2,195,2018,dist_SSP,121,Alaska,AK,Petersburg Borough
+2,198,2018,dist_SSP,202.75,Alaska,AK,Prince of Wales-Hyder Census Area
+2,220,2018,dist_SSP,100,Alaska,AK,Sitka City and Borough
+2,230,2018,dist_SSP,92,Alaska,AK,Skagway Municipality
+2,240,2018,dist_SSP,287,Alaska,AK,Southeast Fairbanks Census Area
+2,261,2018,dist_SSP,233.88,Alaska,AK,Valdez-Cordova Census Area
+2,275,2018,dist_SSP,179,Alaska,AK,Wrangell City and Borough
+2,282,2018,dist_SSP,202,Alaska,AK,Yakutat City and Borough
+2,290,2018,dist_SSP,140,Alaska,AK,Yukon-Koyukuk Census Area
+4,1,2018,dist_SSP,68.36,Arizona,AZ,Apache County
+4,3,2018,dist_SSP,72.05,Arizona,AZ,Cochise County
+4,5,2018,dist_SSP,114.57,Arizona,AZ,Coconino County
+4,7,2018,dist_SSP,57.56,Arizona,AZ,Gila County
+4,9,2018,dist_SSP,81.33,Arizona,AZ,Graham County
+4,11,2018,dist_SSP,112.5,Arizona,AZ,Greenlee County
+4,12,2018,dist_SSP,98.38,Arizona,AZ,La Paz County
+4,13,2018,dist_SSP,14.92,Arizona,AZ,Maricopa County
+4,15,2018,dist_SSP,37.08,Arizona,AZ,Mohave County
+4,17,2018,dist_SSP,102.07,Arizona,AZ,Navajo County
+4,19,2018,dist_SSP,15.04,Arizona,AZ,Pima County
+4,21,2018,dist_SSP,38.08,Arizona,AZ,Pinal County
+4,23,2018,dist_SSP,43.14,Arizona,AZ,Santa Cruz County
+4,25,2018,dist_SSP,62.93,Arizona,AZ,Yavapai County
+4,27,2018,dist_SSP,120.8,Arizona,AZ,Yuma County
+5,1,2018,dist_SSP,193.6,Arkansas,AR,Arkansas County
+5,3,2018,dist_SSP,186.29,Arkansas,AR,Ashley County
+5,5,2018,dist_SSP,97.2,Arkansas,AR,Baxter County
+5,7,2018,dist_SSP,29,Arkansas,AR,Benton County
+5,9,2018,dist_SSP,65,Arkansas,AR,Boone County
+5,11,2018,dist_SSP,199.5,Arkansas,AR,Bradley County
+5,13,2018,dist_SSP,187.75,Arkansas,AR,Calhoun County
+5,15,2018,dist_SSP,41.17,Arkansas,AR,Carroll County
+5,17,2018,dist_SSP,191.67,Arkansas,AR,Chicot County
+5,19,2018,dist_SSP,143.86,Arkansas,AR,Clark County
+5,21,2018,dist_SSP,146.27,Arkansas,AR,Clay County
+5,23,2018,dist_SSP,119.6,Arkansas,AR,Cleburne County
+5,25,2018,dist_SSP,180.33,Arkansas,AR,Cleveland County
+5,27,2018,dist_SSP,195.6,Arkansas,AR,Columbia County
+5,29,2018,dist_SSP,93,Arkansas,AR,Conway County
+5,31,2018,dist_SSP,182.17,Arkansas,AR,Craighead County
+5,33,2018,dist_SSP,30.3,Arkansas,AR,Crawford County
+5,35,2018,dist_SSP,208,Arkansas,AR,Crittenden County
+5,37,2018,dist_SSP,189.25,Arkansas,AR,Cross County
+5,39,2018,dist_SSP,164.33,Arkansas,AR,Dallas County
+5,41,2018,dist_SSP,214.38,Arkansas,AR,Desha County
+5,43,2018,dist_SSP,209.33,Arkansas,AR,Drew County
+5,45,2018,dist_SSP,112.82,Arkansas,AR,Faulkner County
+5,47,2018,dist_SSP,41.8,Arkansas,AR,Franklin County
+5,49,2018,dist_SSP,124.78,Arkansas,AR,Fulton County
+5,51,2018,dist_SSP,112.88,Arkansas,AR,Garland County
+5,53,2018,dist_SSP,149.6,Arkansas,AR,Grant County
+5,55,2018,dist_SSP,162.6,Arkansas,AR,Greene County
+5,57,2018,dist_SSP,153.86,Arkansas,AR,Hempstead County
+5,59,2018,dist_SSP,132.33,Arkansas,AR,Hot Spring County
+5,61,2018,dist_SSP,132,Arkansas,AR,Howard County
+5,63,2018,dist_SSP,142.36,Arkansas,AR,Independence County
+5,65,2018,dist_SSP,121.4,Arkansas,AR,Izard County
+5,67,2018,dist_SSP,167,Arkansas,AR,Jackson County
+5,69,2018,dist_SSP,166.8,Arkansas,AR,Jefferson County
+5,71,2018,dist_SSP,47.62,Arkansas,AR,Johnson County
+5,73,2018,dist_SSP,189.25,Arkansas,AR,Lafayette County
+5,75,2018,dist_SSP,163.15,Arkansas,AR,Lawrence County
+5,77,2018,dist_SSP,202.6,Arkansas,AR,Lee County
+5,79,2018,dist_SSP,191.33,Arkansas,AR,Lincoln County
+5,81,2018,dist_SSP,156,Arkansas,AR,Little River County
+5,83,2018,dist_SSP,57.78,Arkansas,AR,Logan County
+5,85,2018,dist_SSP,149.5,Arkansas,AR,Lonoke County
+5,87,2018,dist_SSP,22.5,Arkansas,AR,Madison County
+5,89,2018,dist_SSP,81,Arkansas,AR,Marion County
+5,91,2018,dist_SSP,186.5,Arkansas,AR,Miller County
+5,93,2018,dist_SSP,186.64,Arkansas,AR,Mississippi County
+5,95,2018,dist_SSP,185.6,Arkansas,AR,Monroe County
+5,97,2018,dist_SSP,100,Arkansas,AR,Montgomery County
+5,99,2018,dist_SSP,165,Arkansas,AR,Nevada County
+5,101,2018,dist_SSP,50.82,Arkansas,AR,Newton County
+5,103,2018,dist_SSP,180.6,Arkansas,AR,Ouachita County
+5,105,2018,dist_SSP,97.5,Arkansas,AR,Perry County
+5,107,2018,dist_SSP,211.73,Arkansas,AR,Phillips County
+5,109,2018,dist_SSP,127,Arkansas,AR,Pike County
+5,111,2018,dist_SSP,194.38,Arkansas,AR,Poinsett County
+5,113,2018,dist_SSP,110,Arkansas,AR,Polk County
+5,115,2018,dist_SSP,71.62,Arkansas,AR,Pope County
+5,117,2018,dist_SSP,167.8,Arkansas,AR,Prairie County
+5,119,2018,dist_SSP,129.36,Arkansas,AR,Pulaski County
+5,121,2018,dist_SSP,155.86,Arkansas,AR,Randolph County
+5,123,2018,dist_SSP,197.5,Arkansas,AR,St. Francis County
+5,125,2018,dist_SSP,129.5,Arkansas,AR,Saline County
+5,127,2018,dist_SSP,81.75,Arkansas,AR,Scott County
+5,129,2018,dist_SSP,76.71,Arkansas,AR,Searcy County
+5,131,2018,dist_SSP,54.46,Arkansas,AR,Sebastian County
+5,133,2018,dist_SSP,139.2,Arkansas,AR,Sevier County
+5,135,2018,dist_SSP,144.14,Arkansas,AR,Sharp County
+5,137,2018,dist_SSP,107.57,Arkansas,AR,Stone County
+5,139,2018,dist_SSP,196.38,Arkansas,AR,Union County
+5,141,2018,dist_SSP,95,Arkansas,AR,Van Buren County
+5,143,2018,dist_SSP,14.13,Arkansas,AR,Washington County
+5,145,2018,dist_SSP,140.06,Arkansas,AR,White County
+5,147,2018,dist_SSP,169.5,Arkansas,AR,Woodruff County
+5,149,2018,dist_SSP,77.9,Arkansas,AR,Yell County
+6,1,2018,dist_SSP,3.94,California,CA,Alameda County
+6,3,2018,dist_SSP,78.5,California,CA,Alpine County
+6,5,2018,dist_SSP,39.18,California,CA,Amador County
+6,7,2018,dist_SSP,27.83,California,CA,Butte County
+6,9,2018,dist_SSP,52.63,California,CA,Calaveras County
+6,11,2018,dist_SSP,34,California,CA,Colusa County
+6,13,2018,dist_SSP,8.4,California,CA,Contra Costa County
+6,15,2018,dist_SSP,8.75,California,CA,Del Norte County
+6,17,2018,dist_SSP,46.05,California,CA,El Dorado County
+6,19,2018,dist_SSP,21,California,CA,Fresno County
+6,21,2018,dist_SSP,42.33,California,CA,Glenn County
+6,23,2018,dist_SSP,13.09,California,CA,Humboldt County
+6,25,2018,dist_SSP,87.53,California,CA,Imperial County
+6,27,2018,dist_SSP,93.73,California,CA,Inyo County
+6,29,2018,dist_SSP,71.54,California,CA,Kern County
+6,31,2018,dist_SSP,36.57,California,CA,Kings County
+6,33,2018,dist_SSP,22.79,California,CA,Lake County
+6,35,2018,dist_SSP,39.36,California,CA,Lassen County
+6,37,2018,dist_SSP,7.99,California,CA,Los Angeles County
+6,39,2018,dist_SSP,17.17,California,CA,Madera County
+6,41,2018,dist_SSP,14.34,California,CA,Marin County
+6,43,2018,dist_SSP,18.88,California,CA,Mariposa County
+6,45,2018,dist_SSP,23.42,California,CA,Mendocino County
+6,47,2018,dist_SSP,42.53,California,CA,Merced County
+6,49,2018,dist_SSP,89.55,California,CA,Modoc County
+6,51,2018,dist_SSP,63.14,California,CA,Mono County
+6,53,2018,dist_SSP,33.03,California,CA,Monterey County
+6,55,2018,dist_SSP,16.1,California,CA,Napa County
+6,57,2018,dist_SSP,24.78,California,CA,Nevada County
+6,59,2018,dist_SSP,9.42,California,CA,Orange County
+6,61,2018,dist_SSP,31.9,California,CA,Placer County
+6,63,2018,dist_SSP,10.4,California,CA,Plumas County
+6,65,2018,dist_SSP,47,California,CA,Riverside County
+6,67,2018,dist_SSP,8.26,California,CA,Sacramento County
+6,69,2018,dist_SSP,25.25,California,CA,San Benito County
+6,71,2018,dist_SSP,56.45,California,CA,San Bernardino County
+6,73,2018,dist_SSP,15,California,CA,San Diego County
+6,75,2018,dist_SSP,1.3,California,CA,San Francisco County
+6,77,2018,dist_SSP,31.28,California,CA,San Joaquin County
+6,79,2018,dist_SSP,18.43,California,CA,San Luis Obispo County
+6,81,2018,dist_SSP,8.1,California,CA,San Mateo County
+6,83,2018,dist_SSP,10.09,California,CA,Santa Barbara County
+6,85,2018,dist_SSP,3.61,California,CA,Santa Clara County
+6,87,2018,dist_SSP,5.65,California,CA,Santa Cruz County
+6,89,2018,dist_SSP,23.72,California,CA,Shasta County
+6,91,2018,dist_SSP,22.62,California,CA,Sierra County
+6,93,2018,dist_SSP,46.83,California,CA,Siskiyou County
+6,95,2018,dist_SSP,16.4,California,CA,Solano County
+6,97,2018,dist_SSP,13.11,California,CA,Sonoma County
+6,99,2018,dist_SSP,47.46,California,CA,Stanislaus County
+6,101,2018,dist_SSP,17.38,California,CA,Sutter County
+6,103,2018,dist_SSP,33.92,California,CA,Tehama County
+6,105,2018,dist_SSP,30.62,California,CA,Trinity County
+6,107,2018,dist_SSP,55.67,California,CA,Tulare County
+6,109,2018,dist_SSP,50.93,California,CA,Tuolumne County
+6,111,2018,dist_SSP,14.63,California,CA,Ventura County
+6,113,2018,dist_SSP,23.72,California,CA,Yolo County
+6,115,2018,dist_SSP,15.27,California,CA,Yuba County
+8,1,2018,dist_SSP,12.24,Colorado,CO,Adams County
+8,3,2018,dist_SSP,65.33,Colorado,CO,Alamosa County
+8,5,2018,dist_SSP,12,Colorado,CO,Arapahoe County
+8,7,2018,dist_SSP,64.33,Colorado,CO,Archuleta County
+8,9,2018,dist_SSP,111,Colorado,CO,Baca County
+8,11,2018,dist_SSP,91.25,Colorado,CO,Bent County
+8,13,2018,dist_SSP,8.95,Colorado,CO,Boulder County
+8,14,2018,dist_SSP,14,Colorado,CO,Broomfield County
+8,15,2018,dist_SSP,75.6,Colorado,CO,Chaffee County
+8,17,2018,dist_SSP,118.5,Colorado,CO,Cheyenne County
+8,19,2018,dist_SSP,33,Colorado,CO,Clear Creek County
+8,21,2018,dist_SSP,65.57,Colorado,CO,Conejos County
+8,23,2018,dist_SSP,52.6,Colorado,CO,Costilla County
+8,25,2018,dist_SSP,52.75,Colorado,CO,Crowley County
+8,27,2018,dist_SSP,30.5,Colorado,CO,Custer County
+8,29,2018,dist_SSP,40.71,Colorado,CO,Delta County
+8,31,2018,dist_SSP,2.66,Colorado,CO,Denver County
+8,33,2018,dist_SSP,71,Colorado,CO,Dolores County
+8,35,2018,dist_SSP,20.64,Colorado,CO,Douglas County
+8,37,2018,dist_SSP,75.45,Colorado,CO,Eagle County
+8,39,2018,dist_SSP,45.2,Colorado,CO,Elbert County
+8,41,2018,dist_SSP,13.23,Colorado,CO,El Paso County
+8,43,2018,dist_SSP,42.11,Colorado,CO,Fremont County
+8,45,2018,dist_SSP,60,Colorado,CO,Garfield County
+8,47,2018,dist_SSP,19,Colorado,CO,Gilpin County
+8,49,2018,dist_SSP,37.62,Colorado,CO,Grand County
+8,51,2018,dist_SSP,89.55,Colorado,CO,Gunnison County
+8,53,2018,dist_SSP,96,Colorado,CO,Hinsdale County
+8,55,2018,dist_SSP,34.33,Colorado,CO,Huerfano County
+8,57,2018,dist_SSP,62,Colorado,CO,Jackson County
+8,59,2018,dist_SSP,12.64,Colorado,CO,Jefferson County
+8,61,2018,dist_SSP,102.25,Colorado,CO,Kiowa County
+8,63,2018,dist_SSP,121.5,Colorado,CO,Kit Carson County
+8,65,2018,dist_SSP,84,Colorado,CO,Lake County
+8,67,2018,dist_SSP,37.6,Colorado,CO,La Plata County
+8,69,2018,dist_SSP,17.11,Colorado,CO,Larimer County
+8,71,2018,dist_SSP,42.12,Colorado,CO,Las Animas County
+8,73,2018,dist_SSP,79.4,Colorado,CO,Lincoln County
+8,75,2018,dist_SSP,99,Colorado,CO,Logan County
+8,77,2018,dist_SSP,16.72,Colorado,CO,Mesa County
+8,79,2018,dist_SSP,83,Colorado,CO,Mineral County
+8,81,2018,dist_SSP,104.17,Colorado,CO,Moffat County
+8,83,2018,dist_SSP,50.38,Colorado,CO,Montezuma County
+8,85,2018,dist_SSP,55.12,Colorado,CO,Montrose County
+8,87,2018,dist_SSP,66.25,Colorado,CO,Morgan County
+8,89,2018,dist_SSP,53.17,Colorado,CO,Otero County
+8,91,2018,dist_SSP,83,Colorado,CO,Ouray County
+8,93,2018,dist_SSP,46.8,Colorado,CO,Park County
+8,95,2018,dist_SSP,138.5,Colorado,CO,Phillips County
+8,97,2018,dist_SSP,88.5,Colorado,CO,Pitkin County
+8,99,2018,dist_SSP,124.4,Colorado,CO,Prowers County
+8,101,2018,dist_SSP,16.42,Colorado,CO,Pueblo County
+8,103,2018,dist_SSP,71.5,Colorado,CO,Rio Blanco County
+8,105,2018,dist_SSP,94.33,Colorado,CO,Rio Grande County
+8,107,2018,dist_SSP,87.8,Colorado,CO,Routt County
+8,109,2018,dist_SSP,73.17,Colorado,CO,Saguache County
+8,111,2018,dist_SSP,74,Colorado,CO,San Juan County
+8,113,2018,dist_SSP,77,Colorado,CO,San Miguel County
+8,115,2018,dist_SSP,139.33,Colorado,CO,Sedgwick County
+8,117,2018,dist_SSP,51.8,Colorado,CO,Summit County
+8,119,2018,dist_SSP,19.6,Colorado,CO,Teller County
+8,121,2018,dist_SSP,93,Colorado,CO,Washington County
+8,123,2018,dist_SSP,26.66,Colorado,CO,Weld County
+8,125,2018,dist_SSP,131.43,Colorado,CO,Yuma County
+9,1,2018,dist_SSP,31.26,Connecticut,CT,Fairfield County
+9,3,2018,dist_SSP,82.92,Connecticut,CT,Hartford County
+9,5,2018,dist_SSP,67.59,Connecticut,CT,Litchfield County
+9,7,2018,dist_SSP,76.23,Connecticut,CT,Middlesex County
+9,9,2018,dist_SSP,57.34,Connecticut,CT,New Haven County
+9,11,2018,dist_SSP,95.26,Connecticut,CT,New London County
+9,13,2018,dist_SSP,99.13,Connecticut,CT,Tolland County
+9,15,2018,dist_SSP,113.86,Connecticut,CT,Windham County
+10,1,2018,dist_SSP,43.44,Delaware,DE,Kent County
+10,3,2018,dist_SSP,7.69,Delaware,DE,New Castle County
+10,5,2018,dist_SSP,76.64,Delaware,DE,Sussex County
+11,1,2018,dist_SSP,1.38,District of Columbia,DC,District of Columbia
+12,1,2018,dist_SSP,292.79,Florida,FL,Alachua County
+12,3,2018,dist_SSP,270.75,Florida,FL,Baker County
+12,5,2018,dist_SSP,252.92,Florida,FL,Bay County
+12,7,2018,dist_SSP,291.6,Florida,FL,Bradford County
+12,9,2018,dist_SSP,164.67,Florida,FL,Brevard County
+12,11,2018,dist_SSP,20.28,Florida,FL,Broward County
+12,13,2018,dist_SSP,235.75,Florida,FL,Calhoun County
+12,15,2018,dist_SSP,138.23,Florida,FL,Charlotte County
+12,17,2018,dist_SSP,249.21,Florida,FL,Citrus County
+12,19,2018,dist_SSP,294.43,Florida,FL,Clay County
+12,21,2018,dist_SSP,88,Florida,FL,Collier County
+12,23,2018,dist_SSP,272.2,Florida,FL,Columbia County
+12,27,2018,dist_SSP,136,Florida,FL,DeSoto County
+12,29,2018,dist_SSP,297.75,Florida,FL,Dixie County
+12,31,2018,dist_SSP,287.65,Florida,FL,Duval County
+12,33,2018,dist_SSP,169.18,Florida,FL,Escambia County
+12,35,2018,dist_SSP,258.75,Florida,FL,Flagler County
+12,37,2018,dist_SSP,272,Florida,FL,Franklin County
+12,39,2018,dist_SSP,218.86,Florida,FL,Gadsden County
+12,41,2018,dist_SSP,295,Florida,FL,Gilchrist County
+12,43,2018,dist_SSP,97.5,Florida,FL,Glades County
+12,45,2018,dist_SSP,268.5,Florida,FL,Gulf County
+12,47,2018,dist_SSP,238.67,Florida,FL,Hamilton County
+12,49,2018,dist_SSP,152,Florida,FL,Hardee County
+12,51,2018,dist_SSP,84.33,Florida,FL,Hendry County
+12,53,2018,dist_SSP,230.2,Florida,FL,Hernando County
+12,55,2018,dist_SSP,127.62,Florida,FL,Highlands County
+12,57,2018,dist_SSP,197.25,Florida,FL,Hillsborough County
+12,59,2018,dist_SSP,215.5,Florida,FL,Holmes County
+12,61,2018,dist_SSP,129,Florida,FL,Indian River County
+12,63,2018,dist_SSP,208.92,Florida,FL,Jackson County
+12,65,2018,dist_SSP,234,Florida,FL,Jefferson County
+12,67,2018,dist_SSP,265,Florida,FL,Lafayette County
+12,69,2018,dist_SSP,222.38,Florida,FL,Lake County
+12,71,2018,dist_SSP,113.33,Florida,FL,Lee County
+12,73,2018,dist_SSP,227.27,Florida,FL,Leon County
+12,75,2018,dist_SSP,279.56,Florida,FL,Levy County
+12,77,2018,dist_SSP,242.5,Florida,FL,Liberty County
+12,79,2018,dist_SSP,234.25,Florida,FL,Madison County
+12,81,2018,dist_SSP,179.44,Florida,FL,Manatee County
+12,83,2018,dist_SSP,257.36,Florida,FL,Marion County
+12,85,2018,dist_SSP,89.29,Florida,FL,Martin County
+12,86,2018,dist_SSP,9.12,Florida,FL,Miami-Dade County
+12,87,2018,dist_SSP,85.11,Florida,FL,Monroe County
+12,89,2018,dist_SSP,266.6,Florida,FL,Nassau County
+12,91,2018,dist_SSP,211.5,Florida,FL,Okaloosa County
+12,93,2018,dist_SSP,110.5,Florida,FL,Okeechobee County
+12,95,2018,dist_SSP,197.25,Florida,FL,Orange County
+12,97,2018,dist_SSP,177.17,Florida,FL,Osceola County
+12,99,2018,dist_SSP,53.69,Florida,FL,Palm Beach County
+12,101,2018,dist_SSP,217.35,Florida,FL,Pasco County
+12,103,2018,dist_SSP,208.62,Florida,FL,Pinellas County
+12,105,2018,dist_SSP,173.5,Florida,FL,Polk County
+12,107,2018,dist_SSP,272.57,Florida,FL,Putnam County
+12,109,2018,dist_SSP,289.9,Florida,FL,St. Johns County
+12,111,2018,dist_SSP,105.79,Florida,FL,St. Lucie County
+12,113,2018,dist_SSP,185.5,Florida,FL,Santa Rosa County
+12,115,2018,dist_SSP,163.04,Florida,FL,Sarasota County
+12,117,2018,dist_SSP,207.15,Florida,FL,Seminole County
+12,119,2018,dist_SSP,231.56,Florida,FL,Sumter County
+12,121,2018,dist_SSP,262.83,Florida,FL,Suwannee County
+12,123,2018,dist_SSP,269.5,Florida,FL,Taylor County
+12,125,2018,dist_SSP,283.33,Florida,FL,Union County
+12,127,2018,dist_SSP,228.69,Florida,FL,Volusia County
+12,129,2018,dist_SSP,251,Florida,FL,Wakulla County
+12,131,2018,dist_SSP,233.14,Florida,FL,Walton County
+12,133,2018,dist_SSP,231.8,Florida,FL,Washington County
+13,1,2018,dist_SSP,189.67,Georgia,GA,Appling County
+13,3,2018,dist_SSP,189.33,Georgia,GA,Atkinson County
+13,5,2018,dist_SSP,190,Georgia,GA,Bacon County
+13,7,2018,dist_SSP,167,Georgia,GA,Baker County
+13,9,2018,dist_SSP,81.5,Georgia,GA,Baldwin County
+13,11,2018,dist_SSP,57.67,Georgia,GA,Banks County
+13,13,2018,dist_SSP,41,Georgia,GA,Barrow County
+13,15,2018,dist_SSP,41.75,Georgia,GA,Bartow County
+13,17,2018,dist_SSP,155,Georgia,GA,Ben Hill County
+13,19,2018,dist_SSP,184.25,Georgia,GA,Berrien County
+13,21,2018,dist_SSP,75.45,Georgia,GA,Bibb County
+13,23,2018,dist_SSP,110,Georgia,GA,Bleckley County
+13,25,2018,dist_SSP,226.25,Georgia,GA,Brantley County
+13,27,2018,dist_SSP,204.25,Georgia,GA,Brooks County
+13,29,2018,dist_SSP,202.67,Georgia,GA,Bryan County
+13,31,2018,dist_SSP,173.83,Georgia,GA,Bulloch County
+13,33,2018,dist_SSP,130.5,Georgia,GA,Burke County
+13,35,2018,dist_SSP,40.67,Georgia,GA,Butts County
+13,37,2018,dist_SSP,155.75,Georgia,GA,Calhoun County
+13,39,2018,dist_SSP,253.17,Georgia,GA,Camden County
+13,43,2018,dist_SSP,166,Georgia,GA,Candler County
+13,45,2018,dist_SSP,41.56,Georgia,GA,Carroll County
+13,47,2018,dist_SSP,93,Georgia,GA,Catoosa County
+13,49,2018,dist_SSP,253,Georgia,GA,Charlton County
+13,51,2018,dist_SSP,210.77,Georgia,GA,Chatham County
+13,53,2018,dist_SSP,101.5,Georgia,GA,Chattahoochee County
+13,55,2018,dist_SSP,76,Georgia,GA,Chattooga County
+13,57,2018,dist_SSP,32.43,Georgia,GA,Cherokee County
+13,59,2018,dist_SSP,60.14,Georgia,GA,Clarke County
+13,61,2018,dist_SSP,148.67,Georgia,GA,Clay County
+13,63,2018,dist_SSP,13.56,Georgia,GA,Clayton County
+13,65,2018,dist_SSP,216.75,Georgia,GA,Clinch County
+13,67,2018,dist_SSP,15.53,Georgia,GA,Cobb County
+13,69,2018,dist_SSP,176.5,Georgia,GA,Coffee County
+13,71,2018,dist_SSP,181,Georgia,GA,Colquitt County
+13,73,2018,dist_SSP,96.83,Georgia,GA,Columbia County
+13,75,2018,dist_SSP,187,Georgia,GA,Cook County
+13,77,2018,dist_SSP,35,Georgia,GA,Coweta County
+13,79,2018,dist_SSP,72.33,Georgia,GA,Crawford County
+13,81,2018,dist_SSP,134,Georgia,GA,Crisp County
+13,83,2018,dist_SSP,99.67,Georgia,GA,Dade County
+13,85,2018,dist_SSP,48,Georgia,GA,Dawson County
+13,87,2018,dist_SSP,200.2,Georgia,GA,Decatur County
+13,89,2018,dist_SSP,9.36,Georgia,GA,DeKalb County
+13,91,2018,dist_SSP,131,Georgia,GA,Dodge County
+13,93,2018,dist_SSP,113.8,Georgia,GA,Dooly County
+13,95,2018,dist_SSP,152.75,Georgia,GA,Dougherty County
+13,97,2018,dist_SSP,20.75,Georgia,GA,Douglas County
+13,99,2018,dist_SSP,174.67,Georgia,GA,Early County
+13,101,2018,dist_SSP,225,Georgia,GA,Echols County
+13,103,2018,dist_SSP,191,Georgia,GA,Effingham County
+13,105,2018,dist_SSP,60,Georgia,GA,Elbert County
+13,107,2018,dist_SSP,145.43,Georgia,GA,Emanuel County
+13,109,2018,dist_SSP,181.33,Georgia,GA,Evans County
+13,111,2018,dist_SSP,56.4,Georgia,GA,Fannin County
+13,113,2018,dist_SSP,25,Georgia,GA,Fayette County
+13,115,2018,dist_SSP,58.43,Georgia,GA,Floyd County
+13,117,2018,dist_SSP,35.67,Georgia,GA,Forsyth County
+13,119,2018,dist_SSP,56.25,Georgia,GA,Franklin County
+13,121,2018,dist_SSP,9.41,Georgia,GA,Fulton County
+13,123,2018,dist_SSP,62.33,Georgia,GA,Gilmer County
+13,125,2018,dist_SSP,106,Georgia,GA,Glascock County
+13,127,2018,dist_SSP,244.57,Georgia,GA,Glynn County
+13,129,2018,dist_SSP,59.5,Georgia,GA,Gordon County
+13,131,2018,dist_SSP,197.33,Georgia,GA,Grady County
+13,133,2018,dist_SSP,74.5,Georgia,GA,Greene County
+13,135,2018,dist_SSP,23.94,Georgia,GA,Gwinnett County
+13,137,2018,dist_SSP,43.6,Georgia,GA,Habersham County
+13,139,2018,dist_SSP,49.8,Georgia,GA,Hall County
+13,141,2018,dist_SSP,87,Georgia,GA,Hancock County
+13,143,2018,dist_SSP,47,Georgia,GA,Haralson County
+13,145,2018,dist_SSP,75.25,Georgia,GA,Harris County
+13,147,2018,dist_SSP,49.5,Georgia,GA,Hart County
+13,149,2018,dist_SSP,53,Georgia,GA,Heard County
+13,151,2018,dist_SSP,24.8,Georgia,GA,Henry County
+13,153,2018,dist_SSP,94.12,Georgia,GA,Houston County
+13,155,2018,dist_SSP,165.5,Georgia,GA,Irwin County
+13,157,2018,dist_SSP,51.75,Georgia,GA,Jackson County
+13,159,2018,dist_SSP,49,Georgia,GA,Jasper County
+13,161,2018,dist_SSP,168.5,Georgia,GA,Jeff Davis County
+13,163,2018,dist_SSP,120.14,Georgia,GA,Jefferson County
+13,165,2018,dist_SSP,143.5,Georgia,GA,Jenkins County
+13,167,2018,dist_SSP,125,Georgia,GA,Johnson County
+13,169,2018,dist_SSP,70.5,Georgia,GA,Jones County
+13,171,2018,dist_SSP,46.5,Georgia,GA,Lamar County
+13,173,2018,dist_SSP,204,Georgia,GA,Lanier County
+13,175,2018,dist_SSP,121.5,Georgia,GA,Laurens County
+13,177,2018,dist_SSP,133.5,Georgia,GA,Lee County
+13,179,2018,dist_SSP,213.29,Georgia,GA,Liberty County
+13,181,2018,dist_SSP,78,Georgia,GA,Lincoln County
+13,183,2018,dist_SSP,209,Georgia,GA,Long County
+13,185,2018,dist_SSP,209.89,Georgia,GA,Lowndes County
+13,187,2018,dist_SSP,55,Georgia,GA,Lumpkin County
+13,189,2018,dist_SSP,100.5,Georgia,GA,McDuffie County
+13,191,2018,dist_SSP,235.75,Georgia,GA,McIntosh County
+13,193,2018,dist_SSP,98.75,Georgia,GA,Macon County
+13,195,2018,dist_SSP,69,Georgia,GA,Madison County
+13,197,2018,dist_SSP,91,Georgia,GA,Marion County
+13,199,2018,dist_SSP,52.83,Georgia,GA,Meriwether County
+13,201,2018,dist_SSP,180,Georgia,GA,Miller County
+13,205,2018,dist_SSP,174.75,Georgia,GA,Mitchell County
+13,207,2018,dist_SSP,59.33,Georgia,GA,Monroe County
+13,209,2018,dist_SSP,154.2,Georgia,GA,Montgomery County
+13,211,2018,dist_SSP,52.25,Georgia,GA,Morgan County
+13,213,2018,dist_SSP,73.75,Georgia,GA,Murray County
+13,215,2018,dist_SSP,90.62,Georgia,GA,Muscogee County
+13,217,2018,dist_SSP,33.2,Georgia,GA,Newton County
+13,219,2018,dist_SSP,53.33,Georgia,GA,Oconee County
+13,221,2018,dist_SSP,71.6,Georgia,GA,Oglethorpe County
+13,223,2018,dist_SSP,27.67,Georgia,GA,Paulding County
+13,225,2018,dist_SSP,84,Georgia,GA,Peach County
+13,227,2018,dist_SSP,49,Georgia,GA,Pickens County
+13,229,2018,dist_SSP,206.75,Georgia,GA,Pierce County
+13,231,2018,dist_SSP,47.2,Georgia,GA,Pike County
+13,233,2018,dist_SSP,45.67,Georgia,GA,Polk County
+13,235,2018,dist_SSP,113,Georgia,GA,Pulaski County
+13,237,2018,dist_SSP,65,Georgia,GA,Putnam County
+13,239,2018,dist_SSP,135,Georgia,GA,Quitman County
+13,241,2018,dist_SSP,22,Georgia,GA,Rabun County
+13,243,2018,dist_SSP,141,Georgia,GA,Randolph County
+13,245,2018,dist_SSP,106.22,Georgia,GA,Richmond County
+13,247,2018,dist_SSP,22.67,Georgia,GA,Rockdale County
+13,249,2018,dist_SSP,103,Georgia,GA,Schley County
+13,251,2018,dist_SSP,163.5,Georgia,GA,Screven County
+13,253,2018,dist_SSP,193.5,Georgia,GA,Seminole County
+13,255,2018,dist_SSP,32.67,Georgia,GA,Spalding County
+13,257,2018,dist_SSP,47.33,Georgia,GA,Stephens County
+13,259,2018,dist_SSP,115.25,Georgia,GA,Stewart County
+13,261,2018,dist_SSP,119.43,Georgia,GA,Sumter County
+13,263,2018,dist_SSP,74.5,Georgia,GA,Talbot County
+13,265,2018,dist_SSP,90,Georgia,GA,Taliaferro County
+13,267,2018,dist_SSP,175.4,Georgia,GA,Tattnall County
+13,269,2018,dist_SSP,84.5,Georgia,GA,Taylor County
+13,271,2018,dist_SSP,149.33,Georgia,GA,Telfair County
+13,273,2018,dist_SSP,134.25,Georgia,GA,Terrell County
+13,275,2018,dist_SSP,197.88,Georgia,GA,Thomas County
+13,277,2018,dist_SSP,165,Georgia,GA,Tift County
+13,279,2018,dist_SSP,158.33,Georgia,GA,Toombs County
+13,281,2018,dist_SSP,28,Georgia,GA,Towns County
+13,283,2018,dist_SSP,140,Georgia,GA,Treutlen County
+13,285,2018,dist_SSP,62,Georgia,GA,Troup County
+13,287,2018,dist_SSP,148.33,Georgia,GA,Turner County
+13,289,2018,dist_SSP,95.33,Georgia,GA,Twiggs County
+13,291,2018,dist_SSP,43,Georgia,GA,Union County
+13,293,2018,dist_SSP,57.67,Georgia,GA,Upson County
+13,295,2018,dist_SSP,91.33,Georgia,GA,Walker County
+13,297,2018,dist_SSP,38.4,Georgia,GA,Walton County
+13,299,2018,dist_SSP,207,Georgia,GA,Ware County
+13,301,2018,dist_SSP,99.5,Georgia,GA,Warren County
+13,303,2018,dist_SSP,107.17,Georgia,GA,Washington County
+13,305,2018,dist_SSP,205.5,Georgia,GA,Wayne County
+13,307,2018,dist_SSP,120.5,Georgia,GA,Webster County
+13,309,2018,dist_SSP,144,Georgia,GA,Wheeler County
+13,311,2018,dist_SSP,38.33,Georgia,GA,White County
+13,313,2018,dist_SSP,81.33,Georgia,GA,Whitfield County
+13,315,2018,dist_SSP,131.4,Georgia,GA,Wilcox County
+13,317,2018,dist_SSP,79.67,Georgia,GA,Wilkes County
+13,319,2018,dist_SSP,95.4,Georgia,GA,Wilkinson County
+13,321,2018,dist_SSP,150.8,Georgia,GA,Worth County
+15,1,2018,dist_SSP,190.89,Hawaii,HI,Hawaii County
+15,3,2018,dist_SSP,10.26,Hawaii,HI,Honolulu County
+15,5,2018,dist_SSP,57,Hawaii,HI,Kalawao County
+15,7,2018,dist_SSP,119.44,Hawaii,HI,Kauai County
+15,9,2018,dist_SSP,84.71,Hawaii,HI,Maui County
+16,1,2018,dist_SSP,197.8,Idaho,ID,Ada County
+16,3,2018,dist_SSP,127.25,Idaho,ID,Adams County
+16,5,2018,dist_SSP,135.9,Idaho,ID,Bannock County
+16,7,2018,dist_SSP,107.78,Idaho,ID,Bear Lake County
+16,9,2018,dist_SSP,49.5,Idaho,ID,Benewah County
+16,11,2018,dist_SSP,173.22,Idaho,ID,Bingham County
+16,13,2018,dist_SSP,216.43,Idaho,ID,Blaine County
+16,15,2018,dist_SSP,188.83,Idaho,ID,Boise County
+16,17,2018,dist_SSP,55.93,Idaho,ID,Bonner County
+16,19,2018,dist_SSP,186.22,Idaho,ID,Bonneville County
+16,21,2018,dist_SSP,93.5,Idaho,ID,Boundary County
+16,23,2018,dist_SSP,205,Idaho,ID,Butte County
+16,25,2018,dist_SSP,232,Idaho,ID,Camas County
+16,27,2018,dist_SSP,187.18,Idaho,ID,Canyon County
+16,29,2018,dist_SSP,134,Idaho,ID,Caribou County
+16,31,2018,dist_SSP,131.33,Idaho,ID,Cassia County
+16,33,2018,dist_SSP,191.5,Idaho,ID,Clark County
+16,35,2018,dist_SSP,93.67,Idaho,ID,Clearwater County
+16,37,2018,dist_SSP,178,Idaho,ID,Custer County
+16,39,2018,dist_SSP,228.5,Idaho,ID,Elmore County
+16,41,2018,dist_SSP,98.5,Idaho,ID,Franklin County
+16,43,2018,dist_SSP,218.29,Idaho,ID,Fremont County
+16,45,2018,dist_SSP,169.75,Idaho,ID,Gem County
+16,47,2018,dist_SSP,202,Idaho,ID,Gooding County
+16,49,2018,dist_SSP,103.77,Idaho,ID,Idaho County
+16,51,2018,dist_SSP,207.38,Idaho,ID,Jefferson County
+16,53,2018,dist_SSP,169.67,Idaho,ID,Jerome County
+16,55,2018,dist_SSP,35.67,Idaho,ID,Kootenai County
+16,57,2018,dist_SSP,68.08,Idaho,ID,Latah County
+16,59,2018,dist_SSP,130.22,Idaho,ID,Lemhi County
+16,61,2018,dist_SSP,88.75,Idaho,ID,Lewis County
+16,63,2018,dist_SSP,192.33,Idaho,ID,Lincoln County
+16,65,2018,dist_SSP,213,Idaho,ID,Madison County
+16,67,2018,dist_SSP,155,Idaho,ID,Minidoka County
+16,69,2018,dist_SSP,78.5,Idaho,ID,Nez Perce County
+16,71,2018,dist_SSP,106,Idaho,ID,Oneida County
+16,73,2018,dist_SSP,217.6,Idaho,ID,Owyhee County
+16,75,2018,dist_SSP,162.67,Idaho,ID,Payette County
+16,77,2018,dist_SSP,131.67,Idaho,ID,Power County
+16,79,2018,dist_SSP,68.33,Idaho,ID,Shoshone County
+16,81,2018,dist_SSP,211.75,Idaho,ID,Teton County
+16,83,2018,dist_SSP,173.12,Idaho,ID,Twin Falls County
+16,85,2018,dist_SSP,147.5,Idaho,ID,Valley County
+16,87,2018,dist_SSP,133.67,Idaho,ID,Washington County
+17,1,2018,dist_SSP,81.81,Illinois,IL,Adams County
+17,3,2018,dist_SSP,96.33,Illinois,IL,Alexander County
+17,5,2018,dist_SSP,40.43,Illinois,IL,Bond County
+17,7,2018,dist_SSP,36,Illinois,IL,Boone County
+17,9,2018,dist_SSP,57.67,Illinois,IL,Brown County
+17,11,2018,dist_SSP,75.42,Illinois,IL,Bureau County
+17,13,2018,dist_SSP,43.88,Illinois,IL,Calhoun County
+17,15,2018,dist_SSP,74,Illinois,IL,Carroll County
+17,17,2018,dist_SSP,32.83,Illinois,IL,Cass County
+17,19,2018,dist_SSP,11.41,Illinois,IL,Champaign County
+17,21,2018,dist_SSP,26.69,Illinois,IL,Christian County
+17,23,2018,dist_SSP,55.5,Illinois,IL,Clark County
+17,25,2018,dist_SSP,84.17,Illinois,IL,Clay County
+17,27,2018,dist_SSP,25.55,Illinois,IL,Clinton County
+17,29,2018,dist_SSP,40.33,Illinois,IL,Coles County
+17,31,2018,dist_SSP,9.73,Illinois,IL,Cook County
+17,33,2018,dist_SSP,63.14,Illinois,IL,Crawford County
+17,35,2018,dist_SSP,58.33,Illinois,IL,Cumberland County
+17,37,2018,dist_SSP,29.54,Illinois,IL,DeKalb County
+17,39,2018,dist_SSP,33.5,Illinois,IL,De Witt County
+17,41,2018,dist_SSP,24.33,Illinois,IL,Douglas County
+17,43,2018,dist_SSP,13.72,Illinois,IL,DuPage County
+17,45,2018,dist_SSP,37.75,Illinois,IL,Edgar County
+17,47,2018,dist_SSP,92.5,Illinois,IL,Edwards County
+17,49,2018,dist_SSP,73,Illinois,IL,Effingham County
+17,51,2018,dist_SSP,60.78,Illinois,IL,Fayette County
+17,53,2018,dist_SSP,26.11,Illinois,IL,Ford County
+17,55,2018,dist_SSP,65.81,Illinois,IL,Franklin County
+17,57,2018,dist_SSP,57.3,Illinois,IL,Fulton County
+17,59,2018,dist_SSP,105.17,Illinois,IL,Gallatin County
+17,61,2018,dist_SSP,44.8,Illinois,IL,Greene County
+17,63,2018,dist_SSP,27.22,Illinois,IL,Grundy County
+17,65,2018,dist_SSP,85,Illinois,IL,Hamilton County
+17,67,2018,dist_SSP,81.6,Illinois,IL,Hancock County
+17,69,2018,dist_SSP,103.75,Illinois,IL,Hardin County
+17,71,2018,dist_SSP,65.88,Illinois,IL,Henderson County
+17,73,2018,dist_SSP,71.73,Illinois,IL,Henry County
+17,75,2018,dist_SSP,26.35,Illinois,IL,Iroquois County
+17,77,2018,dist_SSP,60.13,Illinois,IL,Jackson County
+17,79,2018,dist_SSP,74.86,Illinois,IL,Jasper County
+17,81,2018,dist_SSP,60.55,Illinois,IL,Jefferson County
+17,83,2018,dist_SSP,33,Illinois,IL,Jersey County
+17,85,2018,dist_SSP,62.22,Illinois,IL,Jo Daviess County
+17,87,2018,dist_SSP,93.12,Illinois,IL,Johnson County
+17,89,2018,dist_SSP,12.41,Illinois,IL,Kane County
+17,91,2018,dist_SSP,10.06,Illinois,IL,Kankakee County
+17,93,2018,dist_SSP,29,Illinois,IL,Kendall County
+17,95,2018,dist_SSP,76.94,Illinois,IL,Knox County
+17,97,2018,dist_SSP,17.74,Illinois,IL,Lake County
+17,99,2018,dist_SSP,51.16,Illinois,IL,LaSalle County
+17,101,2018,dist_SSP,71.5,Illinois,IL,Lawrence County
+17,103,2018,dist_SSP,54.93,Illinois,IL,Lee County
+17,105,2018,dist_SSP,37.47,Illinois,IL,Livingston County
+17,107,2018,dist_SSP,29.29,Illinois,IL,Logan County
+17,109,2018,dist_SSP,71.36,Illinois,IL,McDonough County
+17,111,2018,dist_SSP,19.68,Illinois,IL,McHenry County
+17,113,2018,dist_SSP,41.96,Illinois,IL,McLean County
+17,115,2018,dist_SSP,35,Illinois,IL,Macon County
+17,117,2018,dist_SSP,34.9,Illinois,IL,Macoupin County
+17,119,2018,dist_SSP,21.7,Illinois,IL,Madison County
+17,121,2018,dist_SSP,55.55,Illinois,IL,Marion County
+17,123,2018,dist_SSP,74.38,Illinois,IL,Marshall County
+17,125,2018,dist_SSP,36.89,Illinois,IL,Mason County
+17,127,2018,dist_SSP,108.25,Illinois,IL,Massac County
+17,129,2018,dist_SSP,20,Illinois,IL,Menard County
+17,131,2018,dist_SSP,51.18,Illinois,IL,Mercer County
+17,133,2018,dist_SSP,17,Illinois,IL,Monroe County
+17,135,2018,dist_SSP,39.88,Illinois,IL,Montgomery County
+17,137,2018,dist_SSP,29.56,Illinois,IL,Morgan County
+17,139,2018,dist_SSP,40.4,Illinois,IL,Moultrie County
+17,141,2018,dist_SSP,52.25,Illinois,IL,Ogle County
+17,143,2018,dist_SSP,67.32,Illinois,IL,Peoria County
+17,145,2018,dist_SSP,43.6,Illinois,IL,Perry County
+17,147,2018,dist_SSP,22.7,Illinois,IL,Piatt County
+17,149,2018,dist_SSP,64.4,Illinois,IL,Pike County
+17,151,2018,dist_SSP,106,Illinois,IL,Pope County
+17,153,2018,dist_SSP,100,Illinois,IL,Pulaski County
+17,155,2018,dist_SSP,70.86,Illinois,IL,Putnam County
+17,157,2018,dist_SSP,31.07,Illinois,IL,Randolph County
+17,159,2018,dist_SSP,86.5,Illinois,IL,Richland County
+17,161,2018,dist_SSP,53.12,Illinois,IL,Rock Island County
+17,163,2018,dist_SSP,8.11,Illinois,IL,St. Clair County
+17,165,2018,dist_SSP,92,Illinois,IL,Saline County
+17,167,2018,dist_SSP,9.92,Illinois,IL,Sangamon County
+17,169,2018,dist_SSP,54.83,Illinois,IL,Schuyler County
+17,171,2018,dist_SSP,41.5,Illinois,IL,Scott County
+17,173,2018,dist_SSP,52.38,Illinois,IL,Shelby County
+17,175,2018,dist_SSP,89.17,Illinois,IL,Stark County
+17,177,2018,dist_SSP,51.29,Illinois,IL,Stephenson County
+17,179,2018,dist_SSP,53.33,Illinois,IL,Tazewell County
+17,181,2018,dist_SSP,80.43,Illinois,IL,Union County
+17,183,2018,dist_SSP,28.96,Illinois,IL,Vermilion County
+17,185,2018,dist_SSP,86.75,Illinois,IL,Wabash County
+17,187,2018,dist_SSP,68.33,Illinois,IL,Warren County
+17,189,2018,dist_SSP,36.8,Illinois,IL,Washington County
+17,191,2018,dist_SSP,85.92,Illinois,IL,Wayne County
+17,193,2018,dist_SSP,99.22,Illinois,IL,White County
+17,195,2018,dist_SSP,77,Illinois,IL,Whiteside County
+17,197,2018,dist_SSP,25.35,Illinois,IL,Will County
+17,199,2018,dist_SSP,72.36,Illinois,IL,Williamson County
+17,201,2018,dist_SSP,46,Illinois,IL,Winnebago County
+17,203,2018,dist_SSP,66.64,Illinois,IL,Woodford County
+18,1,2018,dist_SSP,24.5,Indiana,IN,Adams County
+18,3,2018,dist_SSP,7.37,Indiana,IN,Allen County
+18,5,2018,dist_SSP,30.62,Indiana,IN,Bartholomew County
+18,7,2018,dist_SSP,24.5,Indiana,IN,Benton County
+18,9,2018,dist_SSP,38.5,Indiana,IN,Blackford County
+18,11,2018,dist_SSP,25.6,Indiana,IN,Boone County
+18,13,2018,dist_SSP,12.5,Indiana,IN,Brown County
+18,15,2018,dist_SSP,22,Indiana,IN,Carroll County
+18,17,2018,dist_SSP,38.33,Indiana,IN,Cass County
+18,19,2018,dist_SSP,13.15,Indiana,IN,Clark County
+18,21,2018,dist_SSP,33.56,Indiana,IN,Clay County
+18,23,2018,dist_SSP,22.43,Indiana,IN,Clinton County
+18,25,2018,dist_SSP,38.43,Indiana,IN,Crawford County
+18,27,2018,dist_SSP,41.5,Indiana,IN,Daviess County
+18,29,2018,dist_SSP,25,Indiana,IN,Dearborn County
+18,31,2018,dist_SSP,39.5,Indiana,IN,Decatur County
+18,33,2018,dist_SSP,23.57,Indiana,IN,DeKalb County
+18,35,2018,dist_SSP,35.5,Indiana,IN,Delaware County
+18,37,2018,dist_SSP,56.11,Indiana,IN,Dubois County
+18,39,2018,dist_SSP,55,Indiana,IN,Elkhart County
+18,41,2018,dist_SSP,23.5,Indiana,IN,Fayette County
+18,43,2018,dist_SSP,10.75,Indiana,IN,Floyd County
+18,45,2018,dist_SSP,26.43,Indiana,IN,Fountain County
+18,47,2018,dist_SSP,27.86,Indiana,IN,Franklin County
+18,49,2018,dist_SSP,51.2,Indiana,IN,Fulton County
+18,51,2018,dist_SSP,79,Indiana,IN,Gibson County
+18,53,2018,dist_SSP,44.18,Indiana,IN,Grant County
+18,55,2018,dist_SSP,25.3,Indiana,IN,Greene County
+18,57,2018,dist_SSP,15.62,Indiana,IN,Hamilton County
+18,59,2018,dist_SSP,11.5,Indiana,IN,Hancock County
+18,61,2018,dist_SSP,20.33,Indiana,IN,Harrison County
+18,63,2018,dist_SSP,27.7,Indiana,IN,Hendricks County
+18,65,2018,dist_SSP,26.07,Indiana,IN,Henry County
+18,67,2018,dist_SSP,38.75,Indiana,IN,Howard County
+18,69,2018,dist_SSP,25.25,Indiana,IN,Huntington County
+18,71,2018,dist_SSP,16,Indiana,IN,Jackson County
+18,73,2018,dist_SSP,35.6,Indiana,IN,Jasper County
+18,75,2018,dist_SSP,37.83,Indiana,IN,Jay County
+18,77,2018,dist_SSP,21,Indiana,IN,Jefferson County
+18,79,2018,dist_SSP,22.67,Indiana,IN,Jennings County
+18,81,2018,dist_SSP,21.11,Indiana,IN,Johnson County
+18,83,2018,dist_SSP,52.09,Indiana,IN,Knox County
+18,85,2018,dist_SSP,42.14,Indiana,IN,Kosciusko County
+18,87,2018,dist_SSP,41.71,Indiana,IN,LaGrange County
+18,89,2018,dist_SSP,26.19,Indiana,IN,Lake County
+18,91,2018,dist_SSP,54,Indiana,IN,LaPorte County
+18,93,2018,dist_SSP,18.56,Indiana,IN,Lawrence County
+18,95,2018,dist_SSP,24.71,Indiana,IN,Madison County
+18,97,2018,dist_SSP,11.03,Indiana,IN,Marion County
+18,99,2018,dist_SSP,61,Indiana,IN,Marshall County
+18,101,2018,dist_SSP,32.67,Indiana,IN,Martin County
+18,103,2018,dist_SSP,48.88,Indiana,IN,Miami County
+18,105,2018,dist_SSP,3.91,Indiana,IN,Monroe County
+18,107,2018,dist_SSP,26.45,Indiana,IN,Montgomery County
+18,109,2018,dist_SSP,19.5,Indiana,IN,Morgan County
+18,111,2018,dist_SSP,29.12,Indiana,IN,Newton County
+18,113,2018,dist_SSP,28.67,Indiana,IN,Noble County
+18,115,2018,dist_SSP,27,Indiana,IN,Ohio County
+18,117,2018,dist_SSP,35.25,Indiana,IN,Orange County
+18,119,2018,dist_SSP,17.12,Indiana,IN,Owen County
+18,121,2018,dist_SSP,45.29,Indiana,IN,Parke County
+18,123,2018,dist_SSP,49.56,Indiana,IN,Perry County
+18,125,2018,dist_SSP,64.5,Indiana,IN,Pike County
+18,127,2018,dist_SSP,39.12,Indiana,IN,Porter County
+18,129,2018,dist_SSP,98,Indiana,IN,Posey County
+18,131,2018,dist_SSP,44.8,Indiana,IN,Pulaski County
+18,133,2018,dist_SSP,33.38,Indiana,IN,Putnam County
+18,135,2018,dist_SSP,24.11,Indiana,IN,Randolph County
+18,137,2018,dist_SSP,37.88,Indiana,IN,Ripley County
+18,139,2018,dist_SSP,27.38,Indiana,IN,Rush County
+18,141,2018,dist_SSP,69.85,Indiana,IN,St. Joseph County
+18,143,2018,dist_SSP,6.33,Indiana,IN,Scott County
+18,145,2018,dist_SSP,21.5,Indiana,IN,Shelby County
+18,147,2018,dist_SSP,65.83,Indiana,IN,Spencer County
+18,149,2018,dist_SSP,59,Indiana,IN,Starke County
+18,151,2018,dist_SSP,38.83,Indiana,IN,Steuben County
+18,153,2018,dist_SSP,44.67,Indiana,IN,Sullivan County
+18,155,2018,dist_SSP,28,Indiana,IN,Switzerland County
+18,157,2018,dist_SSP,6.85,Indiana,IN,Tippecanoe County
+18,159,2018,dist_SSP,33.33,Indiana,IN,Tipton County
+18,161,2018,dist_SSP,14.67,Indiana,IN,Union County
+18,163,2018,dist_SSP,88,Indiana,IN,Vanderburgh County
+18,165,2018,dist_SSP,46.14,Indiana,IN,Vermillion County
+18,167,2018,dist_SSP,46.08,Indiana,IN,Vigo County
+18,169,2018,dist_SSP,38.67,Indiana,IN,Wabash County
+18,171,2018,dist_SSP,28.5,Indiana,IN,Warren County
+18,173,2018,dist_SSP,80.33,Indiana,IN,Warrick County
+18,175,2018,dist_SSP,20.8,Indiana,IN,Washington County
+18,177,2018,dist_SSP,10.36,Indiana,IN,Wayne County
+18,179,2018,dist_SSP,20.33,Indiana,IN,Wells County
+18,181,2018,dist_SSP,24.67,Indiana,IN,White County
+18,183,2018,dist_SSP,23.25,Indiana,IN,Whitley County
+19,1,2018,dist_SSP,153.2,Iowa,IA,Adair County
+19,3,2018,dist_SSP,135.5,Iowa,IA,Adams County
+19,5,2018,dist_SSP,37.86,Iowa,IA,Allamakee County
+19,7,2018,dist_SSP,92.67,Iowa,IA,Appanoose County
+19,9,2018,dist_SSP,172.8,Iowa,IA,Audubon County
+19,11,2018,dist_SSP,38.47,Iowa,IA,Benton County
+19,13,2018,dist_SSP,69.8,Iowa,IA,Black Hawk County
+19,15,2018,dist_SSP,128.75,Iowa,IA,Boone County
+19,17,2018,dist_SSP,86.71,Iowa,IA,Bremer County
+19,19,2018,dist_SSP,63.09,Iowa,IA,Buchanan County
+19,21,2018,dist_SSP,109.38,Iowa,IA,Buena Vista County
+19,23,2018,dist_SSP,98.6,Iowa,IA,Butler County
+19,25,2018,dist_SSP,123.25,Iowa,IA,Calhoun County
+19,27,2018,dist_SSP,151.82,Iowa,IA,Carroll County
+19,29,2018,dist_SSP,158.62,Iowa,IA,Cass County
+19,31,2018,dist_SSP,24.38,Iowa,IA,Cedar County
+19,33,2018,dist_SSP,81.7,Iowa,IA,Cerro Gordo County
+19,35,2018,dist_SSP,126.25,Iowa,IA,Cherokee County
+19,37,2018,dist_SSP,80,Iowa,IA,Chickasaw County
+19,39,2018,dist_SSP,125,Iowa,IA,Clarke County
+19,41,2018,dist_SSP,94.25,Iowa,IA,Clay County
+19,43,2018,dist_SSP,64.87,Iowa,IA,Clayton County
+19,45,2018,dist_SSP,53.43,Iowa,IA,Clinton County
+19,47,2018,dist_SSP,158.9,Iowa,IA,Crawford County
+19,49,2018,dist_SSP,130.06,Iowa,IA,Dallas County
+19,51,2018,dist_SSP,75.25,Iowa,IA,Davis County
+19,53,2018,dist_SSP,122.38,Iowa,IA,Decatur County
+19,55,2018,dist_SSP,59.78,Iowa,IA,Delaware County
+19,57,2018,dist_SSP,52.29,Iowa,IA,Des Moines County
+19,59,2018,dist_SSP,76.29,Iowa,IA,Dickinson County
+19,61,2018,dist_SSP,65.29,Iowa,IA,Dubuque County
+19,63,2018,dist_SSP,61.2,Iowa,IA,Emmet County
+19,65,2018,dist_SSP,72.07,Iowa,IA,Fayette County
+19,67,2018,dist_SSP,88.86,Iowa,IA,Floyd County
+19,69,2018,dist_SSP,102.12,Iowa,IA,Franklin County
+19,71,2018,dist_SSP,129.89,Iowa,IA,Fremont County
+19,73,2018,dist_SSP,141.57,Iowa,IA,Greene County
+19,75,2018,dist_SSP,83.38,Iowa,IA,Grundy County
+19,77,2018,dist_SSP,151.22,Iowa,IA,Guthrie County
+19,79,2018,dist_SSP,118.33,Iowa,IA,Hamilton County
+19,81,2018,dist_SSP,74,Iowa,IA,Hancock County
+19,83,2018,dist_SSP,102.2,Iowa,IA,Hardin County
+19,85,2018,dist_SSP,187.2,Iowa,IA,Harrison County
+19,87,2018,dist_SSP,44,Iowa,IA,Henry County
+19,89,2018,dist_SSP,64.2,Iowa,IA,Howard County
+19,91,2018,dist_SSP,92.73,Iowa,IA,Humboldt County
+19,93,2018,dist_SSP,141,Iowa,IA,Ida County
+19,95,2018,dist_SSP,28,Iowa,IA,Iowa County
+19,97,2018,dist_SSP,59.73,Iowa,IA,Jackson County
+19,99,2018,dist_SSP,81.18,Iowa,IA,Jasper County
+19,101,2018,dist_SSP,49.83,Iowa,IA,Jefferson County
+19,103,2018,dist_SSP,7.58,Iowa,IA,Johnson County
+19,105,2018,dist_SSP,35.78,Iowa,IA,Jones County
+19,107,2018,dist_SSP,41.08,Iowa,IA,Keokuk County
+19,109,2018,dist_SSP,63.42,Iowa,IA,Kossuth County
+19,111,2018,dist_SSP,68.44,Iowa,IA,Lee County
+19,113,2018,dist_SSP,30.45,Iowa,IA,Linn County
+19,115,2018,dist_SSP,32.29,Iowa,IA,Louisa County
+19,117,2018,dist_SSP,104,Iowa,IA,Lucas County
+19,119,2018,dist_SSP,123.38,Iowa,IA,Lyon County
+19,121,2018,dist_SSP,128.88,Iowa,IA,Madison County
+19,123,2018,dist_SSP,60.44,Iowa,IA,Mahaska County
+19,125,2018,dist_SSP,84.83,Iowa,IA,Marion County
+19,127,2018,dist_SSP,81.54,Iowa,IA,Marshall County
+19,129,2018,dist_SSP,148.25,Iowa,IA,Mills County
+19,131,2018,dist_SSP,77.25,Iowa,IA,Mitchell County
+19,133,2018,dist_SSP,173.44,Iowa,IA,Monona County
+19,135,2018,dist_SSP,85.33,Iowa,IA,Monroe County
+19,137,2018,dist_SSP,139.6,Iowa,IA,Montgomery County
+19,139,2018,dist_SSP,21.89,Iowa,IA,Muscatine County
+19,141,2018,dist_SSP,109.62,Iowa,IA,O'Brien County
+19,143,2018,dist_SSP,97,Iowa,IA,Osceola County
+19,145,2018,dist_SSP,116.33,Iowa,IA,Page County
+19,147,2018,dist_SSP,81.5,Iowa,IA,Palo Alto County
+19,149,2018,dist_SSP,149.38,Iowa,IA,Plymouth County
+19,151,2018,dist_SSP,101.88,Iowa,IA,Pocahontas County
+19,153,2018,dist_SSP,109.03,Iowa,IA,Polk County
+19,155,2018,dist_SSP,166.38,Iowa,IA,Pottawattamie County
+19,157,2018,dist_SSP,51.38,Iowa,IA,Poweshiek County
+19,159,2018,dist_SSP,118,Iowa,IA,Ringgold County
+19,161,2018,dist_SSP,131.89,Iowa,IA,Sac County
+19,163,2018,dist_SSP,46.47,Iowa,IA,Scott County
+19,165,2018,dist_SSP,178.1,Iowa,IA,Shelby County
+19,167,2018,dist_SSP,130.69,Iowa,IA,Sioux County
+19,169,2018,dist_SSP,107.61,Iowa,IA,Story County
+19,171,2018,dist_SSP,60.85,Iowa,IA,Tama County
+19,173,2018,dist_SSP,117.43,Iowa,IA,Taylor County
+19,175,2018,dist_SSP,136,Iowa,IA,Union County
+19,177,2018,dist_SSP,66.2,Iowa,IA,Van Buren County
+19,179,2018,dist_SSP,64.57,Iowa,IA,Wapello County
+19,181,2018,dist_SSP,108.82,Iowa,IA,Warren County
+19,183,2018,dist_SSP,22.75,Iowa,IA,Washington County
+19,185,2018,dist_SSP,113.62,Iowa,IA,Wayne County
+19,187,2018,dist_SSP,117.71,Iowa,IA,Webster County
+19,189,2018,dist_SSP,51.57,Iowa,IA,Winnebago County
+19,191,2018,dist_SSP,54.71,Iowa,IA,Winneshiek County
+19,193,2018,dist_SSP,160.64,Iowa,IA,Woodbury County
+19,195,2018,dist_SSP,64.57,Iowa,IA,Worth County
+19,197,2018,dist_SSP,98.75,Iowa,IA,Wright County
+20,1,2018,dist_SSP,90.5,Kansas,KS,Allen County
+20,3,2018,dist_SSP,70,Kansas,KS,Anderson County
+20,5,2018,dist_SSP,50.6,Kansas,KS,Atchison County
+20,7,2018,dist_SSP,253.12,Kansas,KS,Barber County
+20,9,2018,dist_SSP,230.29,Kansas,KS,Barton County
+20,11,2018,dist_SSP,82,Kansas,KS,Bourbon County
+20,13,2018,dist_SSP,72.14,Kansas,KS,Brown County
+20,15,2018,dist_SSP,151.88,Kansas,KS,Butler County
+20,17,2018,dist_SSP,120,Kansas,KS,Chase County
+20,19,2018,dist_SSP,138.8,Kansas,KS,Chautauqua County
+20,21,2018,dist_SSP,89.11,Kansas,KS,Cherokee County
+20,23,2018,dist_SSP,171,Kansas,KS,Cheyenne County
+20,25,2018,dist_SSP,249,Kansas,KS,Clark County
+20,27,2018,dist_SSP,138.6,Kansas,KS,Clay County
+20,29,2018,dist_SSP,164.5,Kansas,KS,Cloud County
+20,31,2018,dist_SSP,84,Kansas,KS,Coffey County
+20,33,2018,dist_SSP,277.67,Kansas,KS,Comanche County
+20,35,2018,dist_SSP,169.75,Kansas,KS,Cowley County
+20,37,2018,dist_SSP,102.69,Kansas,KS,Crawford County
+20,39,2018,dist_SSP,241,Kansas,KS,Decatur County
+20,41,2018,dist_SSP,136.38,Kansas,KS,Dickinson County
+20,43,2018,dist_SSP,58.86,Kansas,KS,Doniphan County
+20,45,2018,dist_SSP,36.88,Kansas,KS,Douglas County
+20,47,2018,dist_SSP,267.25,Kansas,KS,Edwards County
+20,49,2018,dist_SSP,146.2,Kansas,KS,Elk County
+20,51,2018,dist_SSP,251.5,Kansas,KS,Ellis County
+20,53,2018,dist_SSP,201.2,Kansas,KS,Ellsworth County
+20,55,2018,dist_SSP,210,Kansas,KS,Finney County
+20,57,2018,dist_SSP,260,Kansas,KS,Ford County
+20,59,2018,dist_SSP,50.62,Kansas,KS,Franklin County
+20,61,2018,dist_SSP,120,Kansas,KS,Geary County
+20,63,2018,dist_SSP,236.6,Kansas,KS,Gove County
+20,65,2018,dist_SSP,265,Kansas,KS,Graham County
+20,67,2018,dist_SSP,180,Kansas,KS,Grant County
+20,69,2018,dist_SSP,227.8,Kansas,KS,Gray County
+20,71,2018,dist_SSP,160,Kansas,KS,Greeley County
+20,73,2018,dist_SSP,121,Kansas,KS,Greenwood County
+20,75,2018,dist_SSP,158.67,Kansas,KS,Hamilton County
+20,77,2018,dist_SSP,226.71,Kansas,KS,Harper County
+20,79,2018,dist_SSP,167.43,Kansas,KS,Harvey County
+20,81,2018,dist_SSP,199.5,Kansas,KS,Haskell County
+20,83,2018,dist_SSP,263.5,Kansas,KS,Hodgeman County
+20,85,2018,dist_SSP,67.89,Kansas,KS,Jackson County
+20,87,2018,dist_SSP,44.11,Kansas,KS,Jefferson County
+20,89,2018,dist_SSP,197.57,Kansas,KS,Jewell County
+20,91,2018,dist_SSP,13,Kansas,KS,Johnson County
+20,93,2018,dist_SSP,190,Kansas,KS,Kearny County
+20,95,2018,dist_SSP,219.86,Kansas,KS,Kingman County
+20,97,2018,dist_SSP,271.67,Kansas,KS,Kiowa County
+20,99,2018,dist_SSP,104.88,Kansas,KS,Labette County
+20,101,2018,dist_SSP,229,Kansas,KS,Lane County
+20,103,2018,dist_SSP,25.14,Kansas,KS,Leavenworth County
+20,105,2018,dist_SSP,190,Kansas,KS,Lincoln County
+20,107,2018,dist_SSP,60.86,Kansas,KS,Linn County
+20,109,2018,dist_SSP,204,Kansas,KS,Logan County
+20,111,2018,dist_SSP,92.62,Kansas,KS,Lyon County
+20,113,2018,dist_SSP,172.75,Kansas,KS,McPherson County
+20,115,2018,dist_SSP,143.55,Kansas,KS,Marion County
+20,117,2018,dist_SSP,115.09,Kansas,KS,Marshall County
+20,119,2018,dist_SSP,226.33,Kansas,KS,Meade County
+20,121,2018,dist_SSP,36.8,Kansas,KS,Miami County
+20,123,2018,dist_SSP,197.67,Kansas,KS,Mitchell County
+20,125,2018,dist_SSP,122.4,Kansas,KS,Montgomery County
+20,127,2018,dist_SSP,113.6,Kansas,KS,Morris County
+20,129,2018,dist_SSP,147,Kansas,KS,Morton County
+20,131,2018,dist_SSP,89.89,Kansas,KS,Nemaha County
+20,133,2018,dist_SSP,110.17,Kansas,KS,Neosho County
+20,135,2018,dist_SSP,260.43,Kansas,KS,Ness County
+20,137,2018,dist_SSP,264,Kansas,KS,Norton County
+20,139,2018,dist_SSP,63.44,Kansas,KS,Osage County
+20,141,2018,dist_SSP,226.5,Kansas,KS,Osborne County
+20,143,2018,dist_SSP,167,Kansas,KS,Ottawa County
+20,145,2018,dist_SSP,262,Kansas,KS,Pawnee County
+20,147,2018,dist_SSP,259.43,Kansas,KS,Phillips County
+20,149,2018,dist_SSP,91.56,Kansas,KS,Pottawatomie County
+20,151,2018,dist_SSP,248.8,Kansas,KS,Pratt County
+20,153,2018,dist_SSP,205,Kansas,KS,Rawlins County
+20,155,2018,dist_SSP,202.77,Kansas,KS,Reno County
+20,157,2018,dist_SSP,170.12,Kansas,KS,Republic County
+20,159,2018,dist_SSP,203.12,Kansas,KS,Rice County
+20,161,2018,dist_SSP,114.5,Kansas,KS,Riley County
+20,163,2018,dist_SSP,257.6,Kansas,KS,Rooks County
+20,165,2018,dist_SSP,257.38,Kansas,KS,Rush County
+20,167,2018,dist_SSP,224.43,Kansas,KS,Russell County
+20,169,2018,dist_SSP,164.83,Kansas,KS,Saline County
+20,171,2018,dist_SSP,210,Kansas,KS,Scott County
+20,173,2018,dist_SSP,177.74,Kansas,KS,Sedgwick County
+20,175,2018,dist_SSP,198.5,Kansas,KS,Seward County
+20,177,2018,dist_SSP,60.08,Kansas,KS,Shawnee County
+20,179,2018,dist_SSP,235.5,Kansas,KS,Sheridan County
+20,181,2018,dist_SSP,169,Kansas,KS,Sherman County
+20,183,2018,dist_SSP,232.67,Kansas,KS,Smith County
+20,185,2018,dist_SSP,234.25,Kansas,KS,Stafford County
+20,187,2018,dist_SSP,153,Kansas,KS,Stanton County
+20,189,2018,dist_SSP,177.5,Kansas,KS,Stevens County
+20,191,2018,dist_SSP,198.17,Kansas,KS,Sumner County
+20,193,2018,dist_SSP,205.8,Kansas,KS,Thomas County
+20,195,2018,dist_SSP,264.67,Kansas,KS,Trego County
+20,197,2018,dist_SSP,86.71,Kansas,KS,Wabaunsee County
+20,199,2018,dist_SSP,165.67,Kansas,KS,Wallace County
+20,201,2018,dist_SSP,142.45,Kansas,KS,Washington County
+20,203,2018,dist_SSP,188,Kansas,KS,Wichita County
+20,205,2018,dist_SSP,119,Kansas,KS,Wilson County
+20,207,2018,dist_SSP,99.75,Kansas,KS,Woodson County
+20,209,2018,dist_SSP,7.25,Kansas,KS,Wyandotte County
+21,1,2018,dist_SSP,7.25,Kentucky,KY,Adair County
+21,3,2018,dist_SSP,29,Kentucky,KY,Allen County
+21,5,2018,dist_SSP,15,Kentucky,KY,Anderson County
+21,7,2018,dist_SSP,113,Kentucky,KY,Ballard County
+21,9,2018,dist_SSP,28.5,Kentucky,KY,Barren County
+21,11,2018,dist_SSP,17.5,Kentucky,KY,Bath County
+21,13,2018,dist_SSP,17.56,Kentucky,KY,Bell County
+21,15,2018,dist_SSP,14.71,Kentucky,KY,Boone County
+21,17,2018,dist_SSP,19.5,Kentucky,KY,Bourbon County
+21,19,2018,dist_SSP,6.75,Kentucky,KY,Boyd County
+21,21,2018,dist_SSP,5.25,Kentucky,KY,Boyle County
+21,23,2018,dist_SSP,11.75,Kentucky,KY,Bracken County
+21,25,2018,dist_SSP,29.67,Kentucky,KY,Breathitt County
+21,27,2018,dist_SSP,43.92,Kentucky,KY,Breckinridge County
+21,29,2018,dist_SSP,19.8,Kentucky,KY,Bullitt County
+21,31,2018,dist_SSP,16,Kentucky,KY,Butler County
+21,33,2018,dist_SSP,80.5,Kentucky,KY,Caldwell County
+21,35,2018,dist_SSP,91.33,Kentucky,KY,Calloway County
+21,37,2018,dist_SSP,7.6,Kentucky,KY,Campbell County
+21,39,2018,dist_SSP,125,Kentucky,KY,Carlisle County
+21,41,2018,dist_SSP,25.67,Kentucky,KY,Carroll County
+21,43,2018,dist_SSP,6,Kentucky,KY,Carter County
+21,45,2018,dist_SSP,20.17,Kentucky,KY,Casey County
+21,47,2018,dist_SSP,57.78,Kentucky,KY,Christian County
+21,49,2018,dist_SSP,0,Kentucky,KY,Clark County
+21,51,2018,dist_SSP,21.33,Kentucky,KY,Clay County
+21,53,2018,dist_SSP,11,Kentucky,KY,Clinton County
+21,55,2018,dist_SSP,95.67,Kentucky,KY,Crittenden County
+21,57,2018,dist_SSP,19,Kentucky,KY,Cumberland County
+21,59,2018,dist_SSP,56.71,Kentucky,KY,Daviess County
+21,61,2018,dist_SSP,17.8,Kentucky,KY,Edmonson County
+21,63,2018,dist_SSP,17,Kentucky,KY,Elliott County
+21,65,2018,dist_SSP,9.5,Kentucky,KY,Estill County
+21,67,2018,dist_SSP,4.2,Kentucky,KY,Fayette County
+21,69,2018,dist_SSP,13,Kentucky,KY,Fleming County
+21,71,2018,dist_SSP,9.38,Kentucky,KY,Floyd County
+21,73,2018,dist_SSP,2,Kentucky,KY,Franklin County
+21,75,2018,dist_SSP,130.5,Kentucky,KY,Fulton County
+21,77,2018,dist_SSP,14,Kentucky,KY,Gallatin County
+21,79,2018,dist_SSP,12,Kentucky,KY,Garrard County
+21,81,2018,dist_SSP,7.2,Kentucky,KY,Grant County
+21,83,2018,dist_SSP,115,Kentucky,KY,Graves County
+21,85,2018,dist_SSP,31,Kentucky,KY,Grayson County
+21,87,2018,dist_SSP,22.33,Kentucky,KY,Green County
+21,89,2018,dist_SSP,8.29,Kentucky,KY,Greenup County
+21,91,2018,dist_SSP,58.5,Kentucky,KY,Hancock County
+21,93,2018,dist_SSP,36.25,Kentucky,KY,Hardin County
+21,95,2018,dist_SSP,35.81,Kentucky,KY,Harlan County
+21,97,2018,dist_SSP,12,Kentucky,KY,Harrison County
+21,99,2018,dist_SSP,29.86,Kentucky,KY,Hart County
+21,101,2018,dist_SSP,77,Kentucky,KY,Henderson County
+21,103,2018,dist_SSP,21.09,Kentucky,KY,Henry County
+21,105,2018,dist_SSP,128.5,Kentucky,KY,Hickman County
+21,107,2018,dist_SSP,60.4,Kentucky,KY,Hopkins County
+21,109,2018,dist_SSP,7.4,Kentucky,KY,Jackson County
+21,111,2018,dist_SSP,6.97,Kentucky,KY,Jefferson County
+21,113,2018,dist_SSP,3.67,Kentucky,KY,Jessamine County
+21,115,2018,dist_SSP,13.59,Kentucky,KY,Johnson County
+21,117,2018,dist_SSP,8.25,Kentucky,KY,Kenton County
+21,119,2018,dist_SSP,23.17,Kentucky,KY,Knott County
+21,121,2018,dist_SSP,6.13,Kentucky,KY,Knox County
+21,123,2018,dist_SSP,34,Kentucky,KY,Larue County
+21,125,2018,dist_SSP,16.17,Kentucky,KY,Laurel County
+21,127,2018,dist_SSP,20.43,Kentucky,KY,Lawrence County
+21,129,2018,dist_SSP,13,Kentucky,KY,Lee County
+21,131,2018,dist_SSP,30.12,Kentucky,KY,Leslie County
+21,133,2018,dist_SSP,30.17,Kentucky,KY,Letcher County
+21,135,2018,dist_SSP,15,Kentucky,KY,Lewis County
+21,137,2018,dist_SSP,16.33,Kentucky,KY,Lincoln County
+21,139,2018,dist_SSP,104,Kentucky,KY,Livingston County
+21,141,2018,dist_SSP,28.2,Kentucky,KY,Logan County
+21,143,2018,dist_SSP,90,Kentucky,KY,Lyon County
+21,145,2018,dist_SSP,116.75,Kentucky,KY,McCracken County
+21,147,2018,dist_SSP,15.86,Kentucky,KY,McCreary County
+21,149,2018,dist_SSP,53.5,Kentucky,KY,McLean County
+21,151,2018,dist_SSP,16.2,Kentucky,KY,Madison County
+21,153,2018,dist_SSP,13.67,Kentucky,KY,Magoffin County
+21,155,2018,dist_SSP,25.88,Kentucky,KY,Marion County
+21,157,2018,dist_SSP,99.25,Kentucky,KY,Marshall County
+21,159,2018,dist_SSP,16.71,Kentucky,KY,Martin County
+21,161,2018,dist_SSP,6.5,Kentucky,KY,Mason County
+21,163,2018,dist_SSP,33.14,Kentucky,KY,Meade County
+21,165,2018,dist_SSP,14.5,Kentucky,KY,Menifee County
+21,167,2018,dist_SSP,5,Kentucky,KY,Mercer County
+21,169,2018,dist_SSP,23.2,Kentucky,KY,Metcalfe County
+21,171,2018,dist_SSP,35.2,Kentucky,KY,Monroe County
+21,173,2018,dist_SSP,11.33,Kentucky,KY,Montgomery County
+21,175,2018,dist_SSP,22.2,Kentucky,KY,Morgan County
+21,177,2018,dist_SSP,36.77,Kentucky,KY,Muhlenberg County
+21,179,2018,dist_SSP,29.78,Kentucky,KY,Nelson County
+21,181,2018,dist_SSP,20.5,Kentucky,KY,Nicholas County
+21,183,2018,dist_SSP,35.08,Kentucky,KY,Ohio County
+21,185,2018,dist_SSP,18.5,Kentucky,KY,Oldham County
+21,187,2018,dist_SSP,19,Kentucky,KY,Owen County
+21,189,2018,dist_SSP,21,Kentucky,KY,Owsley County
+21,191,2018,dist_SSP,6.33,Kentucky,KY,Pendleton County
+21,193,2018,dist_SSP,35.71,Kentucky,KY,Perry County
+21,195,2018,dist_SSP,13.86,Kentucky,KY,Pike County
+21,197,2018,dist_SSP,4.67,Kentucky,KY,Powell County
+21,199,2018,dist_SSP,10.5,Kentucky,KY,Pulaski County
+21,201,2018,dist_SSP,16,Kentucky,KY,Robertson County
+21,203,2018,dist_SSP,16,Kentucky,KY,Rockcastle County
+21,205,2018,dist_SSP,2,Kentucky,KY,Rowan County
+21,207,2018,dist_SSP,5.5,Kentucky,KY,Russell County
+21,209,2018,dist_SSP,12.67,Kentucky,KY,Scott County
+21,211,2018,dist_SSP,16.8,Kentucky,KY,Shelby County
+21,213,2018,dist_SSP,23,Kentucky,KY,Simpson County
+21,215,2018,dist_SSP,23,Kentucky,KY,Spencer County
+21,217,2018,dist_SSP,17.67,Kentucky,KY,Taylor County
+21,219,2018,dist_SSP,41.6,Kentucky,KY,Todd County
+21,221,2018,dist_SSP,75,Kentucky,KY,Trigg County
+21,223,2018,dist_SSP,27,Kentucky,KY,Trimble County
+21,225,2018,dist_SSP,90.75,Kentucky,KY,Union County
+21,227,2018,dist_SSP,10.78,Kentucky,KY,Warren County
+21,229,2018,dist_SSP,13.67,Kentucky,KY,Washington County
+21,231,2018,dist_SSP,18,Kentucky,KY,Wayne County
+21,233,2018,dist_SSP,74.17,Kentucky,KY,Webster County
+21,235,2018,dist_SSP,10.2,Kentucky,KY,Whitley County
+21,237,2018,dist_SSP,14.75,Kentucky,KY,Wolfe County
+21,239,2018,dist_SSP,10.5,Kentucky,KY,Woodford County
+22,1,2018,dist_SSP,74,Louisiana,LA,Acadia Parish
+22,3,2018,dist_SSP,98.33,Louisiana,LA,Allen Parish
+22,5,2018,dist_SSP,29.57,Louisiana,LA,Ascension Parish
+22,7,2018,dist_SSP,43,Louisiana,LA,Assumption Parish
+22,9,2018,dist_SSP,59.42,Louisiana,LA,Avoyelles Parish
+22,11,2018,dist_SSP,122.33,Louisiana,LA,Beauregard Parish
+22,13,2018,dist_SSP,167.83,Louisiana,LA,Bienville Parish
+22,15,2018,dist_SSP,196.62,Louisiana,LA,Bossier Parish
+22,17,2018,dist_SSP,205.91,Louisiana,LA,Caddo Parish
+22,19,2018,dist_SSP,123.86,Louisiana,LA,Calcasieu Parish
+22,21,2018,dist_SSP,116.33,Louisiana,LA,Caldwell Parish
+22,23,2018,dist_SSP,129,Louisiana,LA,Cameron Parish
+22,25,2018,dist_SSP,91.8,Louisiana,LA,Catahoula Parish
+22,27,2018,dist_SSP,187.6,Louisiana,LA,Claiborne Parish
+22,29,2018,dist_SSP,71.33,Louisiana,LA,Concordia Parish
+22,31,2018,dist_SSP,184.88,Louisiana,LA,De Soto Parish
+22,33,2018,dist_SSP,9.91,Louisiana,LA,East Baton Rouge Parish
+22,35,2018,dist_SSP,147,Louisiana,LA,East Carroll Parish
+22,37,2018,dist_SSP,23.33,Louisiana,LA,East Feliciana Parish
+22,39,2018,dist_SSP,71.75,Louisiana,LA,Evangeline Parish
+22,41,2018,dist_SSP,109.8,Louisiana,LA,Franklin Parish
+22,43,2018,dist_SSP,108.17,Louisiana,LA,Grant Parish
+22,45,2018,dist_SSP,51.4,Louisiana,LA,Iberia Parish
+22,47,2018,dist_SSP,20.5,Louisiana,LA,Iberville Parish
+22,49,2018,dist_SSP,145.75,Louisiana,LA,Jackson Parish
+22,51,2018,dist_SSP,9.59,Louisiana,LA,Jefferson Parish
+22,53,2018,dist_SSP,95.57,Louisiana,LA,Jefferson Davis Parish
+22,55,2018,dist_SSP,54.64,Louisiana,LA,Lafayette Parish
+22,57,2018,dist_SSP,34.22,Louisiana,LA,Lafourche Parish
+22,59,2018,dist_SSP,104,Louisiana,LA,LaSalle Parish
+22,61,2018,dist_SSP,162.17,Louisiana,LA,Lincoln Parish
+22,63,2018,dist_SSP,29.44,Louisiana,LA,Livingston Parish
+22,65,2018,dist_SSP,124.5,Louisiana,LA,Madison Parish
+22,67,2018,dist_SSP,160.2,Louisiana,LA,Morehouse Parish
+22,69,2018,dist_SSP,137.73,Louisiana,LA,Natchitoches Parish
+22,71,2018,dist_SSP,3.16,Louisiana,LA,Orleans Parish
+22,73,2018,dist_SSP,146.56,Louisiana,LA,Ouachita Parish
+22,75,2018,dist_SSP,41.5,Louisiana,LA,Plaquemines Parish
+22,77,2018,dist_SSP,20,Louisiana,LA,Pointe Coupee Parish
+22,79,2018,dist_SSP,94,Louisiana,LA,Rapides Parish
+22,81,2018,dist_SSP,164,Louisiana,LA,Red River Parish
+22,83,2018,dist_SSP,134.4,Louisiana,LA,Richland Parish
+22,85,2018,dist_SSP,157.38,Louisiana,LA,Sabine Parish
+22,87,2018,dist_SSP,10,Louisiana,LA,St. Bernard Parish
+22,89,2018,dist_SSP,16.67,Louisiana,LA,St. Charles Parish
+22,91,2018,dist_SSP,32,Louisiana,LA,St. Helena Parish
+22,93,2018,dist_SSP,37.86,Louisiana,LA,St. James Parish
+22,95,2018,dist_SSP,29.4,Louisiana,LA,St. John the Baptist Parish
+22,97,2018,dist_SSP,47.69,Louisiana,LA,St. Landry Parish
+22,99,2018,dist_SSP,44.33,Louisiana,LA,St. Martin Parish
+22,101,2018,dist_SSP,54.71,Louisiana,LA,St. Mary Parish
+22,103,2018,dist_SSP,34.8,Louisiana,LA,St. Tammany Parish
+22,105,2018,dist_SSP,44,Louisiana,LA,Tangipahoa Parish
+22,107,2018,dist_SSP,99,Louisiana,LA,Tensas Parish
+22,109,2018,dist_SSP,49.33,Louisiana,LA,Terrebonne Parish
+22,111,2018,dist_SSP,174.83,Louisiana,LA,Union Parish
+22,113,2018,dist_SSP,72.71,Louisiana,LA,Vermilion Parish
+22,115,2018,dist_SSP,126.89,Louisiana,LA,Vernon Parish
+22,117,2018,dist_SSP,60.75,Louisiana,LA,Washington Parish
+22,119,2018,dist_SSP,195.6,Louisiana,LA,Webster Parish
+22,121,2018,dist_SSP,10,Louisiana,LA,West Baton Rouge Parish
+22,123,2018,dist_SSP,155.25,Louisiana,LA,West Carroll Parish
+22,125,2018,dist_SSP,30.75,Louisiana,LA,West Feliciana Parish
+22,127,2018,dist_SSP,128.8,Louisiana,LA,Winn Parish
+23,1,2018,dist_SSP,291.73,Maine,ME,Androscoggin County
+23,3,2018,dist_SSP,462.82,Maine,ME,Aroostook County
+23,5,2018,dist_SSP,268,Maine,ME,Cumberland County
+23,7,2018,dist_SSP,315.24,Maine,ME,Franklin County
+23,9,2018,dist_SSP,364.9,Maine,ME,Hancock County
+23,11,2018,dist_SSP,315.54,Maine,ME,Kennebec County
+23,13,2018,dist_SSP,325.42,Maine,ME,Knox County
+23,15,2018,dist_SSP,302.92,Maine,ME,Lincoln County
+23,17,2018,dist_SSP,284.16,Maine,ME,Oxford County
+23,19,2018,dist_SSP,385.3,Maine,ME,Penobscot County
+23,21,2018,dist_SSP,374.25,Maine,ME,Piscataquis County
+23,23,2018,dist_SSP,292.25,Maine,ME,Sagadahoc County
+23,25,2018,dist_SSP,344.32,Maine,ME,Somerset County
+23,27,2018,dist_SSP,343.94,Maine,ME,Waldo County
+23,29,2018,dist_SSP,424.03,Maine,ME,Washington County
+23,31,2018,dist_SSP,238.06,Maine,ME,York County
+24,1,2018,dist_SSP,58.6,Maryland,MD,Allegany County
+24,3,2018,dist_SSP,17.75,Maryland,MD,Anne Arundel County
+24,5,2018,dist_SSP,11.88,Maryland,MD,Baltimore County
+24,9,2018,dist_SSP,32.31,Maryland,MD,Calvert County
+24,11,2018,dist_SSP,51.33,Maryland,MD,Caroline County
+24,13,2018,dist_SSP,24.3,Maryland,MD,Carroll County
+24,15,2018,dist_SSP,23.81,Maryland,MD,Cecil County
+24,17,2018,dist_SSP,25.71,Maryland,MD,Charles County
+24,19,2018,dist_SSP,58.06,Maryland,MD,Dorchester County
+24,21,2018,dist_SSP,39.04,Maryland,MD,Frederick County
+24,23,2018,dist_SSP,37,Maryland,MD,Garrett County
+24,25,2018,dist_SSP,25.75,Maryland,MD,Harford County
+24,27,2018,dist_SSP,14.25,Maryland,MD,Howard County
+24,29,2018,dist_SSP,31.78,Maryland,MD,Kent County
+24,31,2018,dist_SSP,15.13,Maryland,MD,Montgomery County
+24,33,2018,dist_SSP,7.51,Maryland,MD,Prince George's County
+24,35,2018,dist_SSP,38.36,Maryland,MD,Queen Anne's County
+24,37,2018,dist_SSP,48.56,Maryland,MD,St. Mary's County
+24,39,2018,dist_SSP,82.1,Maryland,MD,Somerset County
+24,41,2018,dist_SSP,41.07,Maryland,MD,Talbot County
+24,43,2018,dist_SSP,60,Maryland,MD,Washington County
+24,45,2018,dist_SSP,79.19,Maryland,MD,Wicomico County
+24,47,2018,dist_SSP,97.5,Maryland,MD,Worcester County
+24,510,2018,dist_SSP,3.76,Maryland,MD,Baltimore city
+25,1,2018,dist_SSP,186.94,Massachusetts,MA,Barnstable County
+25,3,2018,dist_SSP,104.09,Massachusetts,MA,Berkshire County
+25,5,2018,dist_SSP,150.86,Massachusetts,MA,Bristol County
+25,7,2018,dist_SSP,160.83,Massachusetts,MA,Dukes County
+25,9,2018,dist_SSP,190.65,Massachusetts,MA,Essex County
+25,11,2018,dist_SSP,131.93,Massachusetts,MA,Franklin County
+25,13,2018,dist_SSP,107.18,Massachusetts,MA,Hampden County
+25,15,2018,dist_SSP,116.08,Massachusetts,MA,Hampshire County
+25,17,2018,dist_SSP,168.65,Massachusetts,MA,Middlesex County
+25,19,2018,dist_SSP,191,Massachusetts,MA,Nantucket County
+25,21,2018,dist_SSP,163.02,Massachusetts,MA,Norfolk County
+25,23,2018,dist_SSP,169.73,Massachusetts,MA,Plymouth County
+25,25,2018,dist_SSP,172.97,Massachusetts,MA,Suffolk County
+25,27,2018,dist_SSP,141.05,Massachusetts,MA,Worcester County
+26,1,2018,dist_SSP,115.44,Michigan,MI,Alcona County
+26,3,2018,dist_SSP,143.7,Michigan,MI,Alger County
+26,5,2018,dist_SSP,27.93,Michigan,MI,Allegan County
+26,7,2018,dist_SSP,135,Michigan,MI,Alpena County
+26,9,2018,dist_SSP,139,Michigan,MI,Antrim County
+26,11,2018,dist_SSP,74.14,Michigan,MI,Arenac County
+26,13,2018,dist_SSP,133.8,Michigan,MI,Baraga County
+26,15,2018,dist_SSP,28.88,Michigan,MI,Barry County
+26,17,2018,dist_SSP,47.3,Michigan,MI,Bay County
+26,19,2018,dist_SSP,96.71,Michigan,MI,Benzie County
+26,21,2018,dist_SSP,60.91,Michigan,MI,Berrien County
+26,23,2018,dist_SSP,42.83,Michigan,MI,Branch County
+26,25,2018,dist_SSP,39.17,Michigan,MI,Calhoun County
+26,27,2018,dist_SSP,68,Michigan,MI,Cass County
+26,29,2018,dist_SSP,152.67,Michigan,MI,Charlevoix County
+26,31,2018,dist_SSP,171.67,Michigan,MI,Cheboygan County
+26,33,2018,dist_SSP,207,Michigan,MI,Chippewa County
+26,35,2018,dist_SSP,75.6,Michigan,MI,Clare County
+26,37,2018,dist_SSP,41.67,Michigan,MI,Clinton County
+26,39,2018,dist_SSP,129,Michigan,MI,Crawford County
+26,41,2018,dist_SSP,108.2,Michigan,MI,Delta County
+26,43,2018,dist_SSP,101,Michigan,MI,Dickinson County
+26,45,2018,dist_SSP,37,Michigan,MI,Eaton County
+26,47,2018,dist_SSP,171,Michigan,MI,Emmet County
+26,49,2018,dist_SSP,7.22,Michigan,MI,Genesee County
+26,51,2018,dist_SSP,71.33,Michigan,MI,Gladwin County
+26,53,2018,dist_SSP,98,Michigan,MI,Gogebic County
+26,55,2018,dist_SSP,115.86,Michigan,MI,Grand Traverse County
+26,57,2018,dist_SSP,47.77,Michigan,MI,Gratiot County
+26,59,2018,dist_SSP,23.62,Michigan,MI,Hillsdale County
+26,61,2018,dist_SSP,155.29,Michigan,MI,Houghton County
+26,63,2018,dist_SSP,65.29,Michigan,MI,Huron County
+26,65,2018,dist_SSP,33.37,Michigan,MI,Ingham County
+26,67,2018,dist_SSP,29.67,Michigan,MI,Ionia County
+26,69,2018,dist_SSP,93.62,Michigan,MI,Iosco County
+26,71,2018,dist_SSP,99,Michigan,MI,Iron County
+26,73,2018,dist_SSP,58.33,Michigan,MI,Isabella County
+26,75,2018,dist_SSP,10.22,Michigan,MI,Jackson County
+26,77,2018,dist_SSP,47.44,Michigan,MI,Kalamazoo County
+26,79,2018,dist_SSP,122,Michigan,MI,Kalkaska County
+26,81,2018,dist_SSP,9.43,Michigan,MI,Kent County
+26,83,2018,dist_SSP,182.5,Michigan,MI,Keweenaw County
+26,85,2018,dist_SSP,71,Michigan,MI,Lake County
+26,87,2018,dist_SSP,24.09,Michigan,MI,Lapeer County
+26,89,2018,dist_SSP,113.22,Michigan,MI,Leelanau County
+26,91,2018,dist_SSP,21,Michigan,MI,Lenawee County
+26,93,2018,dist_SSP,24,Michigan,MI,Livingston County
+26,95,2018,dist_SSP,177.5,Michigan,MI,Luce County
+26,97,2018,dist_SSP,181.8,Michigan,MI,Mackinac County
+26,99,2018,dist_SSP,17.89,Michigan,MI,Macomb County
+26,101,2018,dist_SSP,91.6,Michigan,MI,Manistee County
+26,103,2018,dist_SSP,134.08,Michigan,MI,Marquette County
+26,105,2018,dist_SSP,76.57,Michigan,MI,Mason County
+26,107,2018,dist_SSP,51.78,Michigan,MI,Mecosta County
+26,109,2018,dist_SSP,77.83,Michigan,MI,Menominee County
+26,111,2018,dist_SSP,57.17,Michigan,MI,Midland County
+26,113,2018,dist_SSP,98,Michigan,MI,Missaukee County
+26,115,2018,dist_SSP,14.19,Michigan,MI,Monroe County
+26,117,2018,dist_SSP,35.25,Michigan,MI,Montcalm County
+26,119,2018,dist_SSP,136.67,Michigan,MI,Montmorency County
+26,121,2018,dist_SSP,35.31,Michigan,MI,Muskegon County
+26,123,2018,dist_SSP,42.33,Michigan,MI,Newaygo County
+26,125,2018,dist_SSP,18.47,Michigan,MI,Oakland County
+26,127,2018,dist_SSP,59.25,Michigan,MI,Oceana County
+26,129,2018,dist_SSP,94.25,Michigan,MI,Ogemaw County
+26,131,2018,dist_SSP,119.78,Michigan,MI,Ontonagon County
+26,133,2018,dist_SSP,72,Michigan,MI,Osceola County
+26,135,2018,dist_SSP,118.25,Michigan,MI,Oscoda County
+26,137,2018,dist_SSP,146.33,Michigan,MI,Otsego County
+26,139,2018,dist_SSP,21.79,Michigan,MI,Ottawa County
+26,141,2018,dist_SSP,160.17,Michigan,MI,Presque Isle County
+26,143,2018,dist_SSP,104.5,Michigan,MI,Roscommon County
+26,145,2018,dist_SSP,30.58,Michigan,MI,Saginaw County
+26,147,2018,dist_SSP,42.19,Michigan,MI,St. Clair County
+26,149,2018,dist_SSP,59,Michigan,MI,St. Joseph County
+26,151,2018,dist_SSP,54.25,Michigan,MI,Sanilac County
+26,153,2018,dist_SSP,147,Michigan,MI,Schoolcraft County
+26,155,2018,dist_SSP,22.25,Michigan,MI,Shiawassee County
+26,157,2018,dist_SSP,34.79,Michigan,MI,Tuscola County
+26,159,2018,dist_SSP,50.77,Michigan,MI,Van Buren County
+26,161,2018,dist_SSP,8.93,Michigan,MI,Washtenaw County
+26,163,2018,dist_SSP,8.12,Michigan,MI,Wayne County
+26,165,2018,dist_SSP,97.67,Michigan,MI,Wexford County
+27,1,2018,dist_SSP,63.75,Minnesota,MN,Aitkin County
+27,3,2018,dist_SSP,9.08,Minnesota,MN,Anoka County
+27,5,2018,dist_SSP,48,Minnesota,MN,Becker County
+27,7,2018,dist_SSP,94.85,Minnesota,MN,Beltrami County
+27,9,2018,dist_SSP,47,Minnesota,MN,Benton County
+27,11,2018,dist_SSP,98.14,Minnesota,MN,Big Stone County
+27,13,2018,dist_SSP,10.73,Minnesota,MN,Blue Earth County
+27,15,2018,dist_SSP,37.2,Minnesota,MN,Brown County
+27,17,2018,dist_SSP,25,Minnesota,MN,Carlton County
+27,19,2018,dist_SSP,27.42,Minnesota,MN,Carver County
+27,21,2018,dist_SSP,102.67,Minnesota,MN,Cass County
+27,23,2018,dist_SSP,102.4,Minnesota,MN,Chippewa County
+27,25,2018,dist_SSP,31,Minnesota,MN,Chisago County
+27,27,2018,dist_SSP,14.64,Minnesota,MN,Clay County
+27,29,2018,dist_SSP,84.8,Minnesota,MN,Clearwater County
+27,31,2018,dist_SSP,105,Minnesota,MN,Cook County
+27,33,2018,dist_SSP,59.67,Minnesota,MN,Cottonwood County
+27,35,2018,dist_SSP,90.86,Minnesota,MN,Crow Wing County
+27,37,2018,dist_SSP,12.89,Minnesota,MN,Dakota County
+27,39,2018,dist_SSP,56.5,Minnesota,MN,Dodge County
+27,41,2018,dist_SSP,88.3,Minnesota,MN,Douglas County
+27,43,2018,dist_SSP,31.82,Minnesota,MN,Faribault County
+27,45,2018,dist_SSP,47.17,Minnesota,MN,Fillmore County
+27,47,2018,dist_SSP,42.83,Minnesota,MN,Freeborn County
+27,49,2018,dist_SSP,42.5,Minnesota,MN,Goodhue County
+27,51,2018,dist_SSP,71.86,Minnesota,MN,Grant County
+27,53,2018,dist_SSP,6.09,Minnesota,MN,Hennepin County
+27,55,2018,dist_SSP,18.71,Minnesota,MN,Houston County
+27,57,2018,dist_SSP,90.17,Minnesota,MN,Hubbard County
+27,59,2018,dist_SSP,31.5,Minnesota,MN,Isanti County
+27,61,2018,dist_SSP,72.73,Minnesota,MN,Itasca County
+27,63,2018,dist_SSP,65.8,Minnesota,MN,Jackson County
+27,65,2018,dist_SSP,51.33,Minnesota,MN,Kanabec County
+27,67,2018,dist_SSP,79.18,Minnesota,MN,Kandiyohi County
+27,69,2018,dist_SSP,132.22,Minnesota,MN,Kittson County
+27,71,2018,dist_SSP,42.09,Minnesota,MN,Koochiching County
+27,73,2018,dist_SSP,119.4,Minnesota,MN,Lac qui Parle County
+27,75,2018,dist_SSP,47.67,Minnesota,MN,Lake County
+27,77,2018,dist_SSP,93.5,Minnesota,MN,Lake of the Woods County
+27,79,2018,dist_SSP,19.12,Minnesota,MN,Le Sueur County
+27,81,2018,dist_SSP,113.2,Minnesota,MN,Lincoln County
+27,83,2018,dist_SSP,95.6,Minnesota,MN,Lyon County
+27,85,2018,dist_SSP,43.25,Minnesota,MN,McLeod County
+27,87,2018,dist_SSP,57.2,Minnesota,MN,Mahnomen County
+27,89,2018,dist_SSP,105.82,Minnesota,MN,Marshall County
+27,91,2018,dist_SSP,42.7,Minnesota,MN,Martin County
+27,93,2018,dist_SSP,55.17,Minnesota,MN,Meeker County
+27,95,2018,dist_SSP,49.12,Minnesota,MN,Mille Lacs County
+27,97,2018,dist_SSP,73.2,Minnesota,MN,Morrison County
+27,99,2018,dist_SSP,66.21,Minnesota,MN,Mower County
+27,101,2018,dist_SSP,87,Minnesota,MN,Murray County
+27,103,2018,dist_SSP,17.8,Minnesota,MN,Nicollet County
+27,105,2018,dist_SSP,94.27,Minnesota,MN,Nobles County
+27,107,2018,dist_SSP,34.11,Minnesota,MN,Norman County
+27,109,2018,dist_SSP,63.3,Minnesota,MN,Olmsted County
+27,111,2018,dist_SSP,58.95,Minnesota,MN,Otter Tail County
+27,113,2018,dist_SSP,91.33,Minnesota,MN,Pennington County
+27,115,2018,dist_SSP,41.55,Minnesota,MN,Pine County
+27,117,2018,dist_SSP,111.88,Minnesota,MN,Pipestone County
+27,119,2018,dist_SSP,65.53,Minnesota,MN,Polk County
+27,121,2018,dist_SSP,98.2,Minnesota,MN,Pope County
+27,123,2018,dist_SSP,3.85,Minnesota,MN,Ramsey County
+27,125,2018,dist_SSP,79.5,Minnesota,MN,Red Lake County
+27,127,2018,dist_SSP,66.57,Minnesota,MN,Redwood County
+27,129,2018,dist_SSP,61.6,Minnesota,MN,Renville County
+27,131,2018,dist_SSP,33,Minnesota,MN,Rice County
+27,133,2018,dist_SSP,116,Minnesota,MN,Rock County
+27,135,2018,dist_SSP,123,Minnesota,MN,Roseau County
+27,137,2018,dist_SSP,39.84,Minnesota,MN,St. Louis County
+27,139,2018,dist_SSP,23.62,Minnesota,MN,Scott County
+27,141,2018,dist_SSP,26.67,Minnesota,MN,Sherburne County
+27,143,2018,dist_SSP,34.43,Minnesota,MN,Sibley County
+27,145,2018,dist_SSP,62.37,Minnesota,MN,Stearns County
+27,147,2018,dist_SSP,39,Minnesota,MN,Steele County
+27,149,2018,dist_SSP,95,Minnesota,MN,Stevens County
+27,151,2018,dist_SSP,107,Minnesota,MN,Swift County
+27,153,2018,dist_SSP,89.55,Minnesota,MN,Todd County
+27,155,2018,dist_SSP,74.25,Minnesota,MN,Traverse County
+27,157,2018,dist_SSP,47.44,Minnesota,MN,Wabasha County
+27,159,2018,dist_SSP,81.75,Minnesota,MN,Wadena County
+27,161,2018,dist_SSP,20.75,Minnesota,MN,Waseca County
+27,163,2018,dist_SSP,12.59,Minnesota,MN,Washington County
+27,165,2018,dist_SSP,34.43,Minnesota,MN,Watonwan County
+27,167,2018,dist_SSP,38.71,Minnesota,MN,Wilkin County
+27,169,2018,dist_SSP,36.75,Minnesota,MN,Winona County
+27,171,2018,dist_SSP,25.36,Minnesota,MN,Wright County
+27,173,2018,dist_SSP,97.14,Minnesota,MN,Yellow Medicine County
+28,1,2018,dist_SSP,67,Mississippi,MS,Adams County
+28,3,2018,dist_SSP,135.67,Mississippi,MS,Alcorn County
+28,5,2018,dist_SSP,52.67,Mississippi,MS,Amite County
+28,7,2018,dist_SSP,200.4,Mississippi,MS,Attala County
+28,9,2018,dist_SSP,167.5,Mississippi,MS,Benton County
+28,11,2018,dist_SSP,222.93,Mississippi,MS,Bolivar County
+28,13,2018,dist_SSP,212.5,Mississippi,MS,Calhoun County
+28,15,2018,dist_SSP,215.6,Mississippi,MS,Carroll County
+28,17,2018,dist_SSP,199.5,Mississippi,MS,Chickasaw County
+28,19,2018,dist_SSP,221,Mississippi,MS,Choctaw County
+28,21,2018,dist_SSP,95,Mississippi,MS,Claiborne County
+28,23,2018,dist_SSP,163.75,Mississippi,MS,Clarke County
+28,25,2018,dist_SSP,209.5,Mississippi,MS,Clay County
+28,27,2018,dist_SSP,229.89,Mississippi,MS,Coahoma County
+28,29,2018,dist_SSP,103.5,Mississippi,MS,Copiah County
+28,31,2018,dist_SSP,118.33,Mississippi,MS,Covington County
+28,33,2018,dist_SSP,203.88,Mississippi,MS,DeSoto County
+28,35,2018,dist_SSP,101.25,Mississippi,MS,Forrest County
+28,37,2018,dist_SSP,68.25,Mississippi,MS,Franklin County
+28,39,2018,dist_SSP,107,Mississippi,MS,George County
+28,41,2018,dist_SSP,113,Mississippi,MS,Greene County
+28,43,2018,dist_SSP,233.33,Mississippi,MS,Grenada County
+28,45,2018,dist_SSP,43.6,Mississippi,MS,Hancock County
+28,47,2018,dist_SSP,69.09,Mississippi,MS,Harrison County
+28,49,2018,dist_SSP,132.42,Mississippi,MS,Hinds County
+28,51,2018,dist_SSP,188.67,Mississippi,MS,Holmes County
+28,53,2018,dist_SSP,180.6,Mississippi,MS,Humphreys County
+28,55,2018,dist_SSP,161.75,Mississippi,MS,Issaquena County
+28,57,2018,dist_SSP,156.6,Mississippi,MS,Itawamba County
+28,59,2018,dist_SSP,93.29,Mississippi,MS,Jackson County
+28,61,2018,dist_SSP,151.25,Mississippi,MS,Jasper County
+28,63,2018,dist_SSP,81.5,Mississippi,MS,Jefferson County
+28,65,2018,dist_SSP,104.75,Mississippi,MS,Jefferson Davis County
+28,67,2018,dist_SSP,126.86,Mississippi,MS,Jones County
+28,69,2018,dist_SSP,212.75,Mississippi,MS,Kemper County
+28,71,2018,dist_SSP,201.2,Mississippi,MS,Lafayette County
+28,73,2018,dist_SSP,93.25,Mississippi,MS,Lamar County
+28,75,2018,dist_SSP,191.5,Mississippi,MS,Lauderdale County
+28,77,2018,dist_SSP,99.75,Mississippi,MS,Lawrence County
+28,79,2018,dist_SSP,176.67,Mississippi,MS,Leake County
+28,81,2018,dist_SSP,172.44,Mississippi,MS,Lee County
+28,83,2018,dist_SSP,212,Mississippi,MS,Leflore County
+28,85,2018,dist_SSP,79.67,Mississippi,MS,Lincoln County
+28,87,2018,dist_SSP,209,Mississippi,MS,Lowndes County
+28,89,2018,dist_SSP,153.67,Mississippi,MS,Madison County
+28,91,2018,dist_SSP,84.75,Mississippi,MS,Marion County
+28,93,2018,dist_SSP,185,Mississippi,MS,Marshall County
+28,95,2018,dist_SSP,181.43,Mississippi,MS,Monroe County
+28,97,2018,dist_SSP,223.67,Mississippi,MS,Montgomery County
+28,99,2018,dist_SSP,193,Mississippi,MS,Neshoba County
+28,101,2018,dist_SSP,175.86,Mississippi,MS,Newton County
+28,103,2018,dist_SSP,229,Mississippi,MS,Noxubee County
+28,105,2018,dist_SSP,223.25,Mississippi,MS,Oktibbeha County
+28,107,2018,dist_SSP,220.67,Mississippi,MS,Panola County
+28,109,2018,dist_SSP,55.33,Mississippi,MS,Pearl River County
+28,111,2018,dist_SSP,111.33,Mississippi,MS,Perry County
+28,113,2018,dist_SSP,61.8,Mississippi,MS,Pike County
+28,115,2018,dist_SSP,185,Mississippi,MS,Pontotoc County
+28,117,2018,dist_SSP,150,Mississippi,MS,Prentiss County
+28,119,2018,dist_SSP,239.33,Mississippi,MS,Quitman County
+28,121,2018,dist_SSP,136.56,Mississippi,MS,Rankin County
+28,123,2018,dist_SSP,164.25,Mississippi,MS,Scott County
+28,125,2018,dist_SSP,167.2,Mississippi,MS,Sharkey County
+28,127,2018,dist_SSP,122.83,Mississippi,MS,Simpson County
+28,129,2018,dist_SSP,141.25,Mississippi,MS,Smith County
+28,131,2018,dist_SSP,79.67,Mississippi,MS,Stone County
+28,133,2018,dist_SSP,216.8,Mississippi,MS,Sunflower County
+28,135,2018,dist_SSP,238.7,Mississippi,MS,Tallahatchie County
+28,137,2018,dist_SSP,212.67,Mississippi,MS,Tate County
+28,139,2018,dist_SSP,156.17,Mississippi,MS,Tippah County
+28,141,2018,dist_SSP,132.8,Mississippi,MS,Tishomingo County
+28,143,2018,dist_SSP,226.67,Mississippi,MS,Tunica County
+28,145,2018,dist_SSP,176.25,Mississippi,MS,Union County
+28,147,2018,dist_SSP,79.5,Mississippi,MS,Walthall County
+28,149,2018,dist_SSP,130.33,Mississippi,MS,Warren County
+28,151,2018,dist_SSP,187.78,Mississippi,MS,Washington County
+28,153,2018,dist_SSP,139.67,Mississippi,MS,Wayne County
+28,155,2018,dist_SSP,225.86,Mississippi,MS,Webster County
+28,157,2018,dist_SSP,42.67,Mississippi,MS,Wilkinson County
+28,159,2018,dist_SSP,213.5,Mississippi,MS,Winston County
+28,161,2018,dist_SSP,226.75,Mississippi,MS,Yalobusha County
+28,163,2018,dist_SSP,159,Mississippi,MS,Yazoo County
+29,1,2018,dist_SSP,112,Missouri,MO,Adair County
+29,3,2018,dist_SSP,64.88,Missouri,MO,Andrew County
+29,5,2018,dist_SSP,106.4,Missouri,MO,Atchison County
+29,7,2018,dist_SSP,91.38,Missouri,MO,Audrain County
+29,9,2018,dist_SSP,48.73,Missouri,MO,Barry County
+29,11,2018,dist_SSP,102.5,Missouri,MO,Barton County
+29,13,2018,dist_SSP,59.5,Missouri,MO,Bates County
+29,15,2018,dist_SSP,86.8,Missouri,MO,Benton County
+29,17,2018,dist_SSP,82.12,Missouri,MO,Bollinger County
+29,19,2018,dist_SSP,113,Missouri,MO,Boone County
+29,21,2018,dist_SSP,45.91,Missouri,MO,Buchanan County
+29,23,2018,dist_SSP,124.12,Missouri,MO,Butler County
+29,25,2018,dist_SSP,53.14,Missouri,MO,Caldwell County
+29,27,2018,dist_SSP,91.8,Missouri,MO,Callaway County
+29,29,2018,dist_SSP,120.6,Missouri,MO,Camden County
+29,31,2018,dist_SSP,75.92,Missouri,MO,Cape Girardeau County
+29,33,2018,dist_SSP,66.86,Missouri,MO,Carroll County
+29,35,2018,dist_SSP,120.25,Missouri,MO,Carter County
+29,37,2018,dist_SSP,31.23,Missouri,MO,Cass County
+29,39,2018,dist_SSP,98.33,Missouri,MO,Cedar County
+29,41,2018,dist_SSP,88.25,Missouri,MO,Chariton County
+29,43,2018,dist_SSP,82.58,Missouri,MO,Christian County
+29,45,2018,dist_SSP,83.83,Missouri,MO,Clark County
+29,47,2018,dist_SSP,16.56,Missouri,MO,Clay County
+29,49,2018,dist_SSP,38.33,Missouri,MO,Clinton County
+29,51,2018,dist_SSP,112.29,Missouri,MO,Cole County
+29,53,2018,dist_SSP,97.57,Missouri,MO,Cooper County
+29,55,2018,dist_SSP,74.75,Missouri,MO,Crawford County
+29,57,2018,dist_SSP,100.67,Missouri,MO,Dade County
+29,59,2018,dist_SSP,122,Missouri,MO,Dallas County
+29,61,2018,dist_SSP,70.12,Missouri,MO,Daviess County
+29,63,2018,dist_SSP,56.14,Missouri,MO,DeKalb County
+29,65,2018,dist_SSP,98.25,Missouri,MO,Dent County
+29,67,2018,dist_SSP,108,Missouri,MO,Douglas County
+29,69,2018,dist_SSP,151.58,Missouri,MO,Dunklin County
+29,71,2018,dist_SSP,42.95,Missouri,MO,Franklin County
+29,73,2018,dist_SSP,72.17,Missouri,MO,Gasconade County
+29,75,2018,dist_SSP,79.17,Missouri,MO,Gentry County
+29,77,2018,dist_SSP,94.8,Missouri,MO,Greene County
+29,79,2018,dist_SSP,94,Missouri,MO,Grundy County
+29,81,2018,dist_SSP,96.78,Missouri,MO,Harrison County
+29,83,2018,dist_SSP,63,Missouri,MO,Henry County
+29,85,2018,dist_SSP,102.75,Missouri,MO,Hickory County
+29,87,2018,dist_SSP,77.4,Missouri,MO,Holt County
+29,89,2018,dist_SSP,98.8,Missouri,MO,Howard County
+29,91,2018,dist_SSP,132.29,Missouri,MO,Howell County
+29,93,2018,dist_SSP,77.2,Missouri,MO,Iron County
+29,95,2018,dist_SSP,10.12,Missouri,MO,Jackson County
+29,97,2018,dist_SSP,84.44,Missouri,MO,Jasper County
+29,99,2018,dist_SSP,24.56,Missouri,MO,Jefferson County
+29,101,2018,dist_SSP,48.88,Missouri,MO,Johnson County
+29,103,2018,dist_SSP,110.86,Missouri,MO,Knox County
+29,105,2018,dist_SSP,133,Missouri,MO,Laclede County
+29,107,2018,dist_SSP,43.17,Missouri,MO,Lafayette County
+29,109,2018,dist_SSP,73.73,Missouri,MO,Lawrence County
+29,111,2018,dist_SSP,103.88,Missouri,MO,Lewis County
+29,113,2018,dist_SSP,49.9,Missouri,MO,Lincoln County
+29,115,2018,dist_SSP,97.78,Missouri,MO,Linn County
+29,117,2018,dist_SSP,73,Missouri,MO,Livingston County
+29,119,2018,dist_SSP,46.89,Missouri,MO,McDonald County
+29,121,2018,dist_SSP,120,Missouri,MO,Macon County
+29,123,2018,dist_SSP,71,Missouri,MO,Madison County
+29,125,2018,dist_SSP,96.2,Missouri,MO,Maries County
+29,127,2018,dist_SSP,101,Missouri,MO,Marion County
+29,129,2018,dist_SSP,111,Missouri,MO,Mercer County
+29,131,2018,dist_SSP,120.56,Missouri,MO,Miller County
+29,133,2018,dist_SSP,118.2,Missouri,MO,Mississippi County
+29,135,2018,dist_SSP,108.2,Missouri,MO,Moniteau County
+29,137,2018,dist_SSP,111.5,Missouri,MO,Monroe County
+29,139,2018,dist_SSP,69.88,Missouri,MO,Montgomery County
+29,141,2018,dist_SSP,102.75,Missouri,MO,Morgan County
+29,143,2018,dist_SSP,130.08,Missouri,MO,New Madrid County
+29,145,2018,dist_SSP,63.43,Missouri,MO,Newton County
+29,147,2018,dist_SSP,89.93,Missouri,MO,Nodaway County
+29,149,2018,dist_SSP,146.8,Missouri,MO,Oregon County
+29,151,2018,dist_SSP,93,Missouri,MO,Osage County
+29,153,2018,dist_SSP,102.86,Missouri,MO,Ozark County
+29,155,2018,dist_SSP,159.38,Missouri,MO,Pemiscot County
+29,157,2018,dist_SSP,58.8,Missouri,MO,Perry County
+29,159,2018,dist_SSP,75.14,Missouri,MO,Pettis County
+29,161,2018,dist_SSP,104.86,Missouri,MO,Phelps County
+29,163,2018,dist_SSP,71.12,Missouri,MO,Pike County
+29,165,2018,dist_SSP,20.15,Missouri,MO,Platte County
+29,167,2018,dist_SSP,111,Missouri,MO,Polk County
+29,169,2018,dist_SSP,119.38,Missouri,MO,Pulaski County
+29,171,2018,dist_SSP,110.4,Missouri,MO,Putnam County
+29,173,2018,dist_SSP,91.5,Missouri,MO,Ralls County
+29,175,2018,dist_SSP,116.38,Missouri,MO,Randolph County
+29,177,2018,dist_SSP,35.29,Missouri,MO,Ray County
+29,179,2018,dist_SSP,91.71,Missouri,MO,Reynolds County
+29,181,2018,dist_SSP,135.8,Missouri,MO,Ripley County
+29,183,2018,dist_SSP,28.69,Missouri,MO,St. Charles County
+29,185,2018,dist_SSP,82.6,Missouri,MO,St. Clair County
+29,186,2018,dist_SSP,38.67,Missouri,MO,Ste. Genevieve County
+29,187,2018,dist_SSP,50.88,Missouri,MO,St. Francois County
+29,189,2018,dist_SSP,12.27,Missouri,MO,St. Louis County
+29,195,2018,dist_SSP,74.4,Missouri,MO,Saline County
+29,197,2018,dist_SSP,94.6,Missouri,MO,Schuyler County
+29,199,2018,dist_SSP,89.25,Missouri,MO,Scotland County
+29,201,2018,dist_SSP,98.55,Missouri,MO,Scott County
+29,203,2018,dist_SSP,123.67,Missouri,MO,Shannon County
+29,205,2018,dist_SSP,122.5,Missouri,MO,Shelby County
+29,207,2018,dist_SSP,108.44,Missouri,MO,Stoddard County
+29,209,2018,dist_SSP,61.38,Missouri,MO,Stone County
+29,211,2018,dist_SSP,112.38,Missouri,MO,Sullivan County
+29,213,2018,dist_SSP,71.86,Missouri,MO,Taney County
+29,215,2018,dist_SSP,127.13,Missouri,MO,Texas County
+29,217,2018,dist_SSP,84.82,Missouri,MO,Vernon County
+29,219,2018,dist_SSP,51.75,Missouri,MO,Warren County
+29,221,2018,dist_SSP,52.4,Missouri,MO,Washington County
+29,223,2018,dist_SSP,97.7,Missouri,MO,Wayne County
+29,225,2018,dist_SSP,107.8,Missouri,MO,Webster County
+29,227,2018,dist_SSP,96.8,Missouri,MO,Worth County
+29,229,2018,dist_SSP,123.86,Missouri,MO,Wright County
+29,510,2018,dist_SSP,3.32,Missouri,MO,St. Louis city
+30,1,2018,dist_SSP,124.88,Montana,MT,Beaverhead County
+30,3,2018,dist_SSP,229.1,Montana,MT,Big Horn County
+30,5,2018,dist_SSP,171.29,Montana,MT,Blaine County
+30,7,2018,dist_SSP,118.33,Montana,MT,Broadwater County
+30,9,2018,dist_SSP,254.5,Montana,MT,Carbon County
+30,11,2018,dist_SSP,196.33,Montana,MT,Carter County
+30,13,2018,dist_SSP,125,Montana,MT,Cascade County
+30,15,2018,dist_SSP,168.29,Montana,MT,Chouteau County
+30,17,2018,dist_SSP,127,Montana,MT,Custer County
+30,19,2018,dist_SSP,41.25,Montana,MT,Daniels County
+30,21,2018,dist_SSP,61,Montana,MT,Dawson County
+30,23,2018,dist_SSP,69,Montana,MT,Deer Lodge County
+30,25,2018,dist_SSP,139.33,Montana,MT,Fallon County
+30,27,2018,dist_SSP,193.44,Montana,MT,Fergus County
+30,29,2018,dist_SSP,96.33,Montana,MT,Flathead County
+30,31,2018,dist_SSP,158.44,Montana,MT,Gallatin County
+30,33,2018,dist_SSP,116.17,Montana,MT,Garfield County
+30,35,2018,dist_SSP,130.25,Montana,MT,Glacier County
+30,37,2018,dist_SSP,219.5,Montana,MT,Golden Valley County
+30,39,2018,dist_SSP,40.33,Montana,MT,Granite County
+30,41,2018,dist_SSP,203.43,Montana,MT,Hill County
+30,43,2018,dist_SSP,97.8,Montana,MT,Jefferson County
+30,45,2018,dist_SSP,174.17,Montana,MT,Judith Basin County
+30,47,2018,dist_SSP,50.83,Montana,MT,Lake County
+30,49,2018,dist_SSP,81.67,Montana,MT,Lewis and Clark County
+30,51,2018,dist_SSP,179.6,Montana,MT,Liberty County
+30,53,2018,dist_SSP,124.43,Montana,MT,Lincoln County
+30,55,2018,dist_SSP,54.67,Montana,MT,McCone County
+30,57,2018,dist_SSP,137.83,Montana,MT,Madison County
+30,59,2018,dist_SSP,153,Montana,MT,Meagher County
+30,61,2018,dist_SSP,64,Montana,MT,Mineral County
+30,63,2018,dist_SSP,16.54,Montana,MT,Missoula County
+30,65,2018,dist_SSP,182.33,Montana,MT,Musselshell County
+30,67,2018,dist_SSP,194.78,Montana,MT,Park County
+30,69,2018,dist_SSP,161,Montana,MT,Petroleum County
+30,71,2018,dist_SSP,131,Montana,MT,Phillips County
+30,73,2018,dist_SSP,121.6,Montana,MT,Pondera County
+30,75,2018,dist_SSP,198.6,Montana,MT,Powder River County
+30,77,2018,dist_SSP,57.43,Montana,MT,Powell County
+30,79,2018,dist_SSP,98,Montana,MT,Prairie County
+30,81,2018,dist_SSP,48.22,Montana,MT,Ravalli County
+30,83,2018,dist_SSP,55.6,Montana,MT,Richland County
+30,85,2018,dist_SSP,23.67,Montana,MT,Roosevelt County
+30,87,2018,dist_SSP,170.75,Montana,MT,Rosebud County
+30,89,2018,dist_SSP,65.11,Montana,MT,Sanders County
+30,91,2018,dist_SSP,44.1,Montana,MT,Sheridan County
+30,93,2018,dist_SSP,90.17,Montana,MT,Silver Bow County
+30,95,2018,dist_SSP,232.57,Montana,MT,Stillwater County
+30,97,2018,dist_SSP,206,Montana,MT,Sweet Grass County
+30,99,2018,dist_SSP,106.5,Montana,MT,Teton County
+30,101,2018,dist_SSP,159.83,Montana,MT,Toole County
+30,103,2018,dist_SSP,172,Montana,MT,Treasure County
+30,105,2018,dist_SSP,62.7,Montana,MT,Valley County
+30,107,2018,dist_SSP,195.5,Montana,MT,Wheatland County
+30,109,2018,dist_SSP,97,Montana,MT,Wibaux County
+30,111,2018,dist_SSP,222.5,Montana,MT,Yellowstone County
+31,1,2018,dist_SSP,232.5,Nebraska,NE,Adams County
+31,3,2018,dist_SSP,245.29,Nebraska,NE,Antelope County
+31,5,2018,dist_SSP,184,Nebraska,NE,Arthur County
+31,7,2018,dist_SSP,93,Nebraska,NE,Banner County
+31,9,2018,dist_SSP,274,Nebraska,NE,Blaine County
+31,11,2018,dist_SSP,255.8,Nebraska,NE,Boone County
+31,13,2018,dist_SSP,146,Nebraska,NE,Box Butte County
+31,15,2018,dist_SSP,252.8,Nebraska,NE,Boyd County
+31,17,2018,dist_SSP,294,Nebraska,NE,Brown County
+31,19,2018,dist_SSP,268.33,Nebraska,NE,Buffalo County
+31,21,2018,dist_SSP,196.8,Nebraska,NE,Burt County
+31,23,2018,dist_SSP,199.8,Nebraska,NE,Butler County
+31,25,2018,dist_SSP,152.13,Nebraska,NE,Cass County
+31,27,2018,dist_SSP,196.78,Nebraska,NE,Cedar County
+31,29,2018,dist_SSP,178.75,Nebraska,NE,Chase County
+31,31,2018,dist_SSP,261.67,Nebraska,NE,Cherry County
+31,33,2018,dist_SSP,114.8,Nebraska,NE,Cheyenne County
+31,35,2018,dist_SSP,209.82,Nebraska,NE,Clay County
+31,37,2018,dist_SSP,221,Nebraska,NE,Colfax County
+31,39,2018,dist_SSP,207,Nebraska,NE,Cuming County
+31,41,2018,dist_SSP,284,Nebraska,NE,Custer County
+31,43,2018,dist_SSP,174.6,Nebraska,NE,Dakota County
+31,45,2018,dist_SSP,163.25,Nebraska,NE,Dawes County
+31,47,2018,dist_SSP,270.38,Nebraska,NE,Dawson County
+31,49,2018,dist_SSP,148,Nebraska,NE,Deuel County
+31,51,2018,dist_SSP,184.89,Nebraska,NE,Dixon County
+31,53,2018,dist_SSP,205.5,Nebraska,NE,Dodge County
+31,55,2018,dist_SSP,171.55,Nebraska,NE,Douglas County
+31,57,2018,dist_SSP,175.25,Nebraska,NE,Dundy County
+31,59,2018,dist_SSP,187,Nebraska,NE,Fillmore County
+31,61,2018,dist_SSP,244.14,Nebraska,NE,Franklin County
+31,63,2018,dist_SSP,241,Nebraska,NE,Frontier County
+31,65,2018,dist_SSP,265.88,Nebraska,NE,Furnas County
+31,67,2018,dist_SSP,136.58,Nebraska,NE,Gage County
+31,69,2018,dist_SSP,152.33,Nebraska,NE,Garden County
+31,71,2018,dist_SSP,300,Nebraska,NE,Garfield County
+31,73,2018,dist_SSP,273.5,Nebraska,NE,Gosper County
+31,75,2018,dist_SSP,195,Nebraska,NE,Grant County
+31,77,2018,dist_SSP,269,Nebraska,NE,Greeley County
+31,79,2018,dist_SSP,240.17,Nebraska,NE,Hall County
+31,81,2018,dist_SSP,222,Nebraska,NE,Hamilton County
+31,83,2018,dist_SSP,266.2,Nebraska,NE,Harlan County
+31,85,2018,dist_SSP,210,Nebraska,NE,Hayes County
+31,87,2018,dist_SSP,206.5,Nebraska,NE,Hitchcock County
+31,89,2018,dist_SSP,268.22,Nebraska,NE,Holt County
+31,91,2018,dist_SSP,225,Nebraska,NE,Hooker County
+31,93,2018,dist_SSP,255.17,Nebraska,NE,Howard County
+31,95,2018,dist_SSP,152.43,Nebraska,NE,Jefferson County
+31,97,2018,dist_SSP,127.2,Nebraska,NE,Johnson County
+31,99,2018,dist_SSP,253,Nebraska,NE,Kearney County
+31,101,2018,dist_SSP,179.4,Nebraska,NE,Keith County
+31,103,2018,dist_SSP,295,Nebraska,NE,Keya Paha County
+31,105,2018,dist_SSP,80.67,Nebraska,NE,Kimball County
+31,107,2018,dist_SSP,219.12,Nebraska,NE,Knox County
+31,109,2018,dist_SSP,162.19,Nebraska,NE,Lancaster County
+31,111,2018,dist_SSP,219.75,Nebraska,NE,Lincoln County
+31,113,2018,dist_SSP,242,Nebraska,NE,Logan County
+31,115,2018,dist_SSP,299,Nebraska,NE,Loup County
+31,117,2018,dist_SSP,219,Nebraska,NE,McPherson County
+31,119,2018,dist_SSP,238.5,Nebraska,NE,Madison County
+31,121,2018,dist_SSP,233.33,Nebraska,NE,Merrick County
+31,123,2018,dist_SSP,127.25,Nebraska,NE,Morrill County
+31,125,2018,dist_SSP,241.67,Nebraska,NE,Nance County
+31,127,2018,dist_SSP,114.14,Nebraska,NE,Nemaha County
+31,129,2018,dist_SSP,197,Nebraska,NE,Nuckolls County
+31,131,2018,dist_SSP,136.7,Nebraska,NE,Otoe County
+31,133,2018,dist_SSP,114.67,Nebraska,NE,Pawnee County
+31,135,2018,dist_SSP,175.75,Nebraska,NE,Perkins County
+31,137,2018,dist_SSP,274.8,Nebraska,NE,Phelps County
+31,139,2018,dist_SSP,221.5,Nebraska,NE,Pierce County
+31,141,2018,dist_SSP,231.57,Nebraska,NE,Platte County
+31,143,2018,dist_SSP,214.5,Nebraska,NE,Polk County
+31,145,2018,dist_SSP,239.6,Nebraska,NE,Red Willow County
+31,147,2018,dist_SSP,95,Nebraska,NE,Richardson County
+31,149,2018,dist_SSP,293,Nebraska,NE,Rock County
+31,151,2018,dist_SSP,166.38,Nebraska,NE,Saline County
+31,153,2018,dist_SSP,162.58,Nebraska,NE,Sarpy County
+31,155,2018,dist_SSP,183.29,Nebraska,NE,Saunders County
+31,157,2018,dist_SSP,111,Nebraska,NE,Scotts Bluff County
+31,159,2018,dist_SSP,183.78,Nebraska,NE,Seward County
+31,161,2018,dist_SSP,188.14,Nebraska,NE,Sheridan County
+31,163,2018,dist_SSP,273.4,Nebraska,NE,Sherman County
+31,165,2018,dist_SSP,153,Nebraska,NE,Sioux County
+31,167,2018,dist_SSP,217.5,Nebraska,NE,Stanton County
+31,169,2018,dist_SSP,177.27,Nebraska,NE,Thayer County
+31,171,2018,dist_SSP,250,Nebraska,NE,Thomas County
+31,173,2018,dist_SSP,187.5,Nebraska,NE,Thurston County
+31,175,2018,dist_SSP,288,Nebraska,NE,Valley County
+31,177,2018,dist_SSP,188.5,Nebraska,NE,Washington County
+31,179,2018,dist_SSP,208.5,Nebraska,NE,Wayne County
+31,181,2018,dist_SSP,221.2,Nebraska,NE,Webster County
+31,183,2018,dist_SSP,281.5,Nebraska,NE,Wheeler County
+31,185,2018,dist_SSP,203.29,Nebraska,NE,York County
+32,1,2018,dist_SSP,119,Nevada,NV,Churchill County
+32,3,2018,dist_SSP,14.73,Nevada,NV,Clark County
+32,5,2018,dist_SSP,69.22,Nevada,NV,Douglas County
+32,7,2018,dist_SSP,173.64,Nevada,NV,Elko County
+32,9,2018,dist_SSP,114.33,Nevada,NV,Esmeralda County
+32,11,2018,dist_SSP,211,Nevada,NV,Eureka County
+32,13,2018,dist_SSP,181.5,Nevada,NV,Humboldt County
+32,15,2018,dist_SSP,183.5,Nevada,NV,Lander County
+32,17,2018,dist_SSP,107.8,Nevada,NV,Lincoln County
+32,19,2018,dist_SSP,77.17,Nevada,NV,Lyon County
+32,21,2018,dist_SSP,103.75,Nevada,NV,Mineral County
+32,23,2018,dist_SSP,113.2,Nevada,NV,Nye County
+32,27,2018,dist_SSP,132,Nevada,NV,Pershing County
+32,29,2018,dist_SSP,56,Nevada,NV,Storey County
+32,31,2018,dist_SSP,47.12,Nevada,NV,Washoe County
+32,33,2018,dist_SSP,169,Nevada,NV,White Pine County
+32,510,2018,dist_SSP,59.25,Nevada,NV,Carson City
+33,1,2018,dist_SSP,218.23,New Hampshire,NH,Belknap County
+33,3,2018,dist_SSP,244.04,New Hampshire,NH,Carroll County
+33,5,2018,dist_SSP,161.52,New Hampshire,NH,Cheshire County
+33,7,2018,dist_SSP,262.33,New Hampshire,NH,Coos County
+33,9,2018,dist_SSP,222.47,New Hampshire,NH,Grafton County
+33,11,2018,dist_SSP,177.18,New Hampshire,NH,Hillsborough County
+33,13,2018,dist_SSP,199.21,New Hampshire,NH,Merrimack County
+33,15,2018,dist_SSP,201.47,New Hampshire,NH,Rockingham County
+33,17,2018,dist_SSP,219.62,New Hampshire,NH,Strafford County
+33,19,2018,dist_SSP,189.41,New Hampshire,NH,Sullivan County
+34,1,2018,dist_SSP,45.85,New Jersey,NJ,Atlantic County
+34,3,2018,dist_SSP,8.54,New Jersey,NJ,Bergen County
+34,5,2018,dist_SSP,20.67,New Jersey,NJ,Burlington County
+34,7,2018,dist_SSP,10.91,New Jersey,NJ,Camden County
+34,9,2018,dist_SSP,60.4,New Jersey,NJ,Cape May County
+34,11,2018,dist_SSP,38.44,New Jersey,NJ,Cumberland County
+34,13,2018,dist_SSP,12.26,New Jersey,NJ,Essex County
+34,15,2018,dist_SSP,16.65,New Jersey,NJ,Gloucester County
+34,17,2018,dist_SSP,3.31,New Jersey,NJ,Hudson County
+34,19,2018,dist_SSP,40.65,New Jersey,NJ,Hunterdon County
+34,21,2018,dist_SSP,29.68,New Jersey,NJ,Mercer County
+34,23,2018,dist_SSP,24.77,New Jersey,NJ,Middlesex County
+34,25,2018,dist_SSP,27.26,New Jersey,NJ,Monmouth County
+34,27,2018,dist_SSP,27.92,New Jersey,NJ,Morris County
+34,29,2018,dist_SSP,46.97,New Jersey,NJ,Ocean County
+34,31,2018,dist_SSP,16.15,New Jersey,NJ,Passaic County
+34,33,2018,dist_SSP,14.1,New Jersey,NJ,Salem County
+34,35,2018,dist_SSP,33.5,New Jersey,NJ,Somerset County
+34,37,2018,dist_SSP,42.32,New Jersey,NJ,Sussex County
+34,39,2018,dist_SSP,16.69,New Jersey,NJ,Union County
+34,41,2018,dist_SSP,49.93,New Jersey,NJ,Warren County
+35,1,2018,dist_SSP,5.5,New Mexico,NM,Bernalillo County
+35,3,2018,dist_SSP,90.71,New Mexico,NM,Catron County
+35,5,2018,dist_SSP,54.4,New Mexico,NM,Chaves County
+35,6,2018,dist_SSP,41.93,New Mexico,NM,Cibola County
+35,7,2018,dist_SSP,19.88,New Mexico,NM,Colfax County
+35,9,2018,dist_SSP,14.17,New Mexico,NM,Curry County
+35,11,2018,dist_SSP,60.67,New Mexico,NM,De Baca County
+35,13,2018,dist_SSP,16.16,New Mexico,NM,Dona Ana County
+35,15,2018,dist_SSP,23.62,New Mexico,NM,Eddy County
+35,17,2018,dist_SSP,77.69,New Mexico,NM,Grant County
+35,19,2018,dist_SSP,39.67,New Mexico,NM,Guadalupe County
+35,21,2018,dist_SSP,53.67,New Mexico,NM,Harding County
+35,23,2018,dist_SSP,116.25,New Mexico,NM,Hidalgo County
+35,25,2018,dist_SSP,17.6,New Mexico,NM,Lea County
+35,27,2018,dist_SSP,22.56,New Mexico,NM,Lincoln County
+35,28,2018,dist_SSP,15,New Mexico,NM,Los Alamos County
+35,29,2018,dist_SSP,60,New Mexico,NM,Luna County
+35,31,2018,dist_SSP,20.42,New Mexico,NM,McKinley County
+35,33,2018,dist_SSP,24.92,New Mexico,NM,Mora County
+35,35,2018,dist_SSP,30.71,New Mexico,NM,Otero County
+35,37,2018,dist_SSP,52.14,New Mexico,NM,Quay County
+35,39,2018,dist_SSP,27.62,New Mexico,NM,Rio Arriba County
+35,41,2018,dist_SSP,20.88,New Mexico,NM,Roosevelt County
+35,43,2018,dist_SSP,24.61,New Mexico,NM,Sandoval County
+35,45,2018,dist_SSP,25.53,New Mexico,NM,San Juan County
+35,47,2018,dist_SSP,24.67,New Mexico,NM,San Miguel County
+35,49,2018,dist_SSP,9.17,New Mexico,NM,Santa Fe County
+35,51,2018,dist_SSP,24,New Mexico,NM,Sierra County
+35,53,2018,dist_SSP,34,New Mexico,NM,Socorro County
+35,55,2018,dist_SSP,19.74,New Mexico,NM,Taos County
+35,57,2018,dist_SSP,19.12,New Mexico,NM,Torrance County
+35,59,2018,dist_SSP,54.12,New Mexico,NM,Union County
+35,61,2018,dist_SSP,13.2,New Mexico,NM,Valencia County
+36,1,2018,dist_SSP,111.83,New York,NY,Albany County
+36,3,2018,dist_SSP,60.96,New York,NY,Allegany County
+36,5,2018,dist_SSP,1.48,New York,NY,Bronx County
+36,7,2018,dist_SSP,11.09,New York,NY,Broome County
+36,9,2018,dist_SSP,45.68,New York,NY,Cattaraugus County
+36,11,2018,dist_SSP,22.78,New York,NY,Cayuga County
+36,13,2018,dist_SSP,51.18,New York,NY,Chautauqua County
+36,15,2018,dist_SSP,25.07,New York,NY,Chemung County
+36,17,2018,dist_SSP,32.11,New York,NY,Chenango County
+36,19,2018,dist_SSP,171.44,New York,NY,Clinton County
+36,21,2018,dist_SSP,96.7,New York,NY,Columbia County
+36,23,2018,dist_SSP,21.4,New York,NY,Cortland County
+36,25,2018,dist_SSP,57.37,New York,NY,Delaware County
+36,27,2018,dist_SSP,58.88,New York,NY,Dutchess County
+36,29,2018,dist_SSP,12.64,New York,NY,Erie County
+36,31,2018,dist_SSP,144.93,New York,NY,Essex County
+36,33,2018,dist_SSP,145.4,New York,NY,Franklin County
+36,35,2018,dist_SSP,91.57,New York,NY,Fulton County
+36,37,2018,dist_SSP,27.15,New York,NY,Genesee County
+36,39,2018,dist_SSP,94.08,New York,NY,Greene County
+36,41,2018,dist_SSP,95.18,New York,NY,Hamilton County
+36,43,2018,dist_SSP,64.82,New York,NY,Herkimer County
+36,45,2018,dist_SSP,69.46,New York,NY,Jefferson County
+36,47,2018,dist_SSP,2.24,New York,NY,Kings County
+36,49,2018,dist_SSP,62.27,New York,NY,Lewis County
+36,51,2018,dist_SSP,30.5,New York,NY,Livingston County
+36,53,2018,dist_SSP,29.2,New York,NY,Madison County
+36,55,2018,dist_SSP,6.74,New York,NY,Monroe County
+36,57,2018,dist_SSP,89.15,New York,NY,Montgomery County
+36,59,2018,dist_SSP,5.5,New York,NY,Nassau County
+36,61,2018,dist_SSP,0.49,New York,NY,New York County
+36,63,2018,dist_SSP,22.25,New York,NY,Niagara County
+36,65,2018,dist_SSP,41.62,New York,NY,Oneida County
+36,67,2018,dist_SSP,7.95,New York,NY,Onondaga County
+36,69,2018,dist_SSP,25.25,New York,NY,Ontario County
+36,71,2018,dist_SSP,41.21,New York,NY,Orange County
+36,73,2018,dist_SSP,31.12,New York,NY,Orleans County
+36,75,2018,dist_SSP,26.32,New York,NY,Oswego County
+36,77,2018,dist_SSP,58.07,New York,NY,Otsego County
+36,79,2018,dist_SSP,35.25,New York,NY,Putnam County
+36,81,2018,dist_SSP,2.12,New York,NY,Queens County
+36,83,2018,dist_SSP,123.67,New York,NY,Rensselaer County
+36,85,2018,dist_SSP,10.77,New York,NY,Richmond County
+36,87,2018,dist_SSP,17.48,New York,NY,Rockland County
+36,89,2018,dist_SSP,116.29,New York,NY,St. Lawrence County
+36,91,2018,dist_SSP,119.33,New York,NY,Saratoga County
+36,93,2018,dist_SSP,110.69,New York,NY,Schenectady County
+36,95,2018,dist_SSP,84.44,New York,NY,Schoharie County
+36,97,2018,dist_SSP,19.5,New York,NY,Schuyler County
+36,99,2018,dist_SSP,25.86,New York,NY,Seneca County
+36,101,2018,dist_SSP,45.64,New York,NY,Steuben County
+36,103,2018,dist_SSP,39.21,New York,NY,Suffolk County
+36,105,2018,dist_SSP,64.28,New York,NY,Sullivan County
+36,107,2018,dist_SSP,16.46,New York,NY,Tioga County
+36,109,2018,dist_SSP,7.85,New York,NY,Tompkins County
+36,111,2018,dist_SSP,70.09,New York,NY,Ulster County
+36,113,2018,dist_SSP,123.71,New York,NY,Warren County
+36,115,2018,dist_SSP,140.3,New York,NY,Washington County
+36,117,2018,dist_SSP,26.38,New York,NY,Wayne County
+36,119,2018,dist_SSP,14.96,New York,NY,Westchester County
+36,121,2018,dist_SSP,35.33,New York,NY,Wyoming County
+36,123,2018,dist_SSP,32.33,New York,NY,Yates County
+37,1,2018,dist_SSP,20.33,North Carolina,NC,Alamance County
+37,3,2018,dist_SSP,14.67,North Carolina,NC,Alexander County
+37,5,2018,dist_SSP,49.33,North Carolina,NC,Alleghany County
+37,7,2018,dist_SSP,49.29,North Carolina,NC,Anson County
+37,9,2018,dist_SSP,44.45,North Carolina,NC,Ashe County
+37,11,2018,dist_SSP,30.29,North Carolina,NC,Avery County
+37,13,2018,dist_SSP,26.33,North Carolina,NC,Beaufort County
+37,15,2018,dist_SSP,41.86,North Carolina,NC,Bertie County
+37,17,2018,dist_SSP,35.25,North Carolina,NC,Bladen County
+37,19,2018,dist_SSP,80.5,North Carolina,NC,Brunswick County
+37,21,2018,dist_SSP,6.93,North Carolina,NC,Buncombe County
+37,23,2018,dist_SSP,14.5,North Carolina,NC,Burke County
+37,25,2018,dist_SSP,10,North Carolina,NC,Cabarrus County
+37,27,2018,dist_SSP,13.2,North Carolina,NC,Caldwell County
+37,29,2018,dist_SSP,84.67,North Carolina,NC,Camden County
+37,31,2018,dist_SSP,20.53,North Carolina,NC,Carteret County
+37,33,2018,dist_SSP,18.29,North Carolina,NC,Caswell County
+37,35,2018,dist_SSP,11.56,North Carolina,NC,Catawba County
+37,37,2018,dist_SSP,18,North Carolina,NC,Chatham County
+37,39,2018,dist_SSP,30.67,North Carolina,NC,Cherokee County
+37,41,2018,dist_SSP,57.5,North Carolina,NC,Chowan County
+37,43,2018,dist_SSP,27.33,North Carolina,NC,Clay County
+37,45,2018,dist_SSP,33.56,North Carolina,NC,Cleveland County
+37,47,2018,dist_SSP,55.79,North Carolina,NC,Columbus County
+37,49,2018,dist_SSP,14.44,North Carolina,NC,Craven County
+37,51,2018,dist_SSP,7.12,North Carolina,NC,Cumberland County
+37,53,2018,dist_SSP,93,North Carolina,NC,Currituck County
+37,55,2018,dist_SSP,88.29,North Carolina,NC,Dare County
+37,57,2018,dist_SSP,20,North Carolina,NC,Davidson County
+37,59,2018,dist_SSP,21,North Carolina,NC,Davie County
+37,61,2018,dist_SSP,47.25,North Carolina,NC,Duplin County
+37,63,2018,dist_SSP,12.78,North Carolina,NC,Durham County
+37,65,2018,dist_SSP,17.67,North Carolina,NC,Edgecombe County
+37,67,2018,dist_SSP,7.41,North Carolina,NC,Forsyth County
+37,69,2018,dist_SSP,28,North Carolina,NC,Franklin County
+37,71,2018,dist_SSP,28.29,North Carolina,NC,Gaston County
+37,73,2018,dist_SSP,69.17,North Carolina,NC,Gates County
+37,75,2018,dist_SSP,24,North Carolina,NC,Graham County
+37,77,2018,dist_SSP,21.5,North Carolina,NC,Granville County
+37,79,2018,dist_SSP,20,North Carolina,NC,Greene County
+37,81,2018,dist_SSP,8.32,North Carolina,NC,Guilford County
+37,83,2018,dist_SSP,25.12,North Carolina,NC,Halifax County
+37,85,2018,dist_SSP,20.67,North Carolina,NC,Harnett County
+37,87,2018,dist_SSP,22.5,North Carolina,NC,Haywood County
+37,89,2018,dist_SSP,14,North Carolina,NC,Henderson County
+37,91,2018,dist_SSP,54.43,North Carolina,NC,Hertford County
+37,93,2018,dist_SSP,14,North Carolina,NC,Hoke County
+37,95,2018,dist_SSP,53.4,North Carolina,NC,Hyde County
+37,97,2018,dist_SSP,21.5,North Carolina,NC,Iredell County
+37,99,2018,dist_SSP,19.25,North Carolina,NC,Jackson County
+37,101,2018,dist_SSP,36.3,North Carolina,NC,Johnston County
+37,103,2018,dist_SSP,23.5,North Carolina,NC,Jones County
+37,105,2018,dist_SSP,25,North Carolina,NC,Lee County
+37,107,2018,dist_SSP,29.75,North Carolina,NC,Lenoir County
+37,109,2018,dist_SSP,20.6,North Carolina,NC,Lincoln County
+37,111,2018,dist_SSP,27.5,North Carolina,NC,McDowell County
+37,113,2018,dist_SSP,9.8,North Carolina,NC,Macon County
+37,115,2018,dist_SSP,20,North Carolina,NC,Madison County
+37,117,2018,dist_SSP,24.25,North Carolina,NC,Martin County
+37,119,2018,dist_SSP,21.56,North Carolina,NC,Mecklenburg County
+37,121,2018,dist_SSP,27,North Carolina,NC,Mitchell County
+37,123,2018,dist_SSP,27.4,North Carolina,NC,Montgomery County
+37,125,2018,dist_SSP,27.27,North Carolina,NC,Moore County
+37,127,2018,dist_SSP,10.8,North Carolina,NC,Nash County
+37,129,2018,dist_SSP,74.1,North Carolina,NC,New Hanover County
+37,131,2018,dist_SSP,40,North Carolina,NC,Northampton County
+37,133,2018,dist_SSP,31.33,North Carolina,NC,Onslow County
+37,135,2018,dist_SSP,10,North Carolina,NC,Orange County
+37,137,2018,dist_SSP,20.67,North Carolina,NC,Pamlico County
+37,139,2018,dist_SSP,77,North Carolina,NC,Pasquotank County
+37,141,2018,dist_SSP,59,North Carolina,NC,Pender County
+37,143,2018,dist_SSP,66.33,North Carolina,NC,Perquimans County
+37,145,2018,dist_SSP,7.5,North Carolina,NC,Person County
+37,147,2018,dist_SSP,10.75,North Carolina,NC,Pitt County
+37,149,2018,dist_SSP,24,North Carolina,NC,Polk County
+37,151,2018,dist_SSP,9.42,North Carolina,NC,Randolph County
+37,153,2018,dist_SSP,40.83,North Carolina,NC,Richmond County
+37,155,2018,dist_SSP,25,North Carolina,NC,Robeson County
+37,157,2018,dist_SSP,24.86,North Carolina,NC,Rockingham County
+37,159,2018,dist_SSP,14.23,North Carolina,NC,Rowan County
+37,161,2018,dist_SSP,33.27,North Carolina,NC,Rutherford County
+37,163,2018,dist_SSP,29.4,North Carolina,NC,Sampson County
+37,165,2018,dist_SSP,31.4,North Carolina,NC,Scotland County
+37,167,2018,dist_SSP,26,North Carolina,NC,Stanly County
+37,169,2018,dist_SSP,20.33,North Carolina,NC,Stokes County
+37,171,2018,dist_SSP,35.44,North Carolina,NC,Surry County
+37,173,2018,dist_SSP,18,North Carolina,NC,Swain County
+37,175,2018,dist_SSP,23.88,North Carolina,NC,Transylvania County
+37,177,2018,dist_SSP,65,North Carolina,NC,Tyrrell County
+37,179,2018,dist_SSP,35.88,North Carolina,NC,Union County
+37,181,2018,dist_SSP,32.75,North Carolina,NC,Vance County
+37,183,2018,dist_SSP,20.41,North Carolina,NC,Wake County
+37,185,2018,dist_SSP,33.5,North Carolina,NC,Warren County
+37,187,2018,dist_SSP,42.33,North Carolina,NC,Washington County
+37,189,2018,dist_SSP,32.43,North Carolina,NC,Watauga County
+37,191,2018,dist_SSP,39.25,North Carolina,NC,Wayne County
+37,193,2018,dist_SSP,31.75,North Carolina,NC,Wilkes County
+37,195,2018,dist_SSP,21.25,North Carolina,NC,Wilson County
+37,197,2018,dist_SSP,27.6,North Carolina,NC,Yadkin County
+37,199,2018,dist_SSP,19.5,North Carolina,NC,Yancey County
+38,1,2018,dist_SSP,185.5,North Dakota,ND,Adams County
+38,3,2018,dist_SSP,63.92,North Dakota,ND,Barnes County
+38,5,2018,dist_SSP,145,North Dakota,ND,Benson County
+38,7,2018,dist_SSP,113.5,North Dakota,ND,Billings County
+38,9,2018,dist_SSP,196.56,North Dakota,ND,Bottineau County
+38,11,2018,dist_SSP,163.67,North Dakota,ND,Bowman County
+38,13,2018,dist_SSP,126.17,North Dakota,ND,Burke County
+38,15,2018,dist_SSP,178.09,North Dakota,ND,Burleigh County
+38,17,2018,dist_SSP,23.04,North Dakota,ND,Cass County
+38,19,2018,dist_SSP,157.4,North Dakota,ND,Cavalier County
+38,21,2018,dist_SSP,91.67,North Dakota,ND,Dickey County
+38,23,2018,dist_SSP,91.25,North Dakota,ND,Divide County
+38,25,2018,dist_SSP,135,North Dakota,ND,Dunn County
+38,27,2018,dist_SSP,127,North Dakota,ND,Eddy County
+38,29,2018,dist_SSP,165.67,North Dakota,ND,Emmons County
+38,31,2018,dist_SSP,106.5,North Dakota,ND,Foster County
+38,33,2018,dist_SSP,111,North Dakota,ND,Golden Valley County
+38,35,2018,dist_SSP,81.38,North Dakota,ND,Grand Forks County
+38,37,2018,dist_SSP,210.2,North Dakota,ND,Grant County
+38,39,2018,dist_SSP,83.6,North Dakota,ND,Griggs County
+38,41,2018,dist_SSP,172,North Dakota,ND,Hettinger County
+38,43,2018,dist_SSP,143.17,North Dakota,ND,Kidder County
+38,45,2018,dist_SSP,90,North Dakota,ND,LaMoure County
+38,47,2018,dist_SSP,126.67,North Dakota,ND,Logan County
+38,49,2018,dist_SSP,196.08,North Dakota,ND,McHenry County
+38,51,2018,dist_SSP,139.25,North Dakota,ND,McIntosh County
+38,53,2018,dist_SSP,94.29,North Dakota,ND,McKenzie County
+38,55,2018,dist_SSP,187,North Dakota,ND,McLean County
+38,57,2018,dist_SSP,170.8,North Dakota,ND,Mercer County
+38,59,2018,dist_SSP,195.25,North Dakota,ND,Morton County
+38,61,2018,dist_SSP,128,North Dakota,ND,Mountrail County
+38,63,2018,dist_SSP,100.25,North Dakota,ND,Nelson County
+38,65,2018,dist_SSP,202,North Dakota,ND,Oliver County
+38,67,2018,dist_SSP,138.64,North Dakota,ND,Pembina County
+38,69,2018,dist_SSP,179.5,North Dakota,ND,Pierce County
+38,71,2018,dist_SSP,136.7,North Dakota,ND,Ramsey County
+38,73,2018,dist_SSP,48.75,North Dakota,ND,Ransom County
+38,75,2018,dist_SSP,168.25,North Dakota,ND,Renville County
+38,77,2018,dist_SSP,39,North Dakota,ND,Richland County
+38,79,2018,dist_SSP,195.33,North Dakota,ND,Rolette County
+38,81,2018,dist_SSP,64.88,North Dakota,ND,Sargent County
+38,83,2018,dist_SSP,171.75,North Dakota,ND,Sheridan County
+38,85,2018,dist_SSP,197.67,North Dakota,ND,Sioux County
+38,87,2018,dist_SSP,145,North Dakota,ND,Slope County
+38,89,2018,dist_SSP,149.57,North Dakota,ND,Stark County
+38,91,2018,dist_SSP,64.75,North Dakota,ND,Steele County
+38,93,2018,dist_SSP,103.38,North Dakota,ND,Stutsman County
+38,95,2018,dist_SSP,175,North Dakota,ND,Towner County
+38,97,2018,dist_SSP,49.1,North Dakota,ND,Traill County
+38,99,2018,dist_SSP,115.64,North Dakota,ND,Walsh County
+38,101,2018,dist_SSP,168.29,North Dakota,ND,Ward County
+38,103,2018,dist_SSP,145.57,North Dakota,ND,Wells County
+38,105,2018,dist_SSP,81.6,North Dakota,ND,Williams County
+39,1,2018,dist_SSP,21.5,Ohio,OH,Adams County
+39,3,2018,dist_SSP,54,Ohio,OH,Allen County
+39,5,2018,dist_SSP,54.67,Ohio,OH,Ashland County
+39,7,2018,dist_SSP,46.21,Ohio,OH,Ashtabula County
+39,9,2018,dist_SSP,30.4,Ohio,OH,Athens County
+39,11,2018,dist_SSP,50.5,Ohio,OH,Auglaize County
+39,13,2018,dist_SSP,16.48,Ohio,OH,Belmont County
+39,15,2018,dist_SSP,20.4,Ohio,OH,Brown County
+39,17,2018,dist_SSP,21.69,Ohio,OH,Butler County
+39,19,2018,dist_SSP,27,Ohio,OH,Carroll County
+39,21,2018,dist_SSP,26.22,Ohio,OH,Champaign County
+39,23,2018,dist_SSP,12.29,Ohio,OH,Clark County
+39,25,2018,dist_SSP,18.59,Ohio,OH,Clermont County
+39,27,2018,dist_SSP,29.89,Ohio,OH,Clinton County
+39,29,2018,dist_SSP,21.22,Ohio,OH,Columbiana County
+39,31,2018,dist_SSP,56.88,Ohio,OH,Coshocton County
+39,33,2018,dist_SSP,57.88,Ohio,OH,Crawford County
+39,35,2018,dist_SSP,8.38,Ohio,OH,Cuyahoga County
+39,37,2018,dist_SSP,27.69,Ohio,OH,Darke County
+39,39,2018,dist_SSP,33.83,Ohio,OH,Defiance County
+39,41,2018,dist_SSP,18.91,Ohio,OH,Delaware County
+39,43,2018,dist_SSP,44.62,Ohio,OH,Erie County
+39,45,2018,dist_SSP,25.92,Ohio,OH,Fairfield County
+39,47,2018,dist_SSP,28.75,Ohio,OH,Fayette County
+39,49,2018,dist_SSP,6.3,Ohio,OH,Franklin County
+39,51,2018,dist_SSP,29,Ohio,OH,Fulton County
+39,53,2018,dist_SSP,30,Ohio,OH,Gallia County
+39,55,2018,dist_SSP,23.18,Ohio,OH,Geauga County
+39,57,2018,dist_SSP,9.6,Ohio,OH,Greene County
+39,59,2018,dist_SSP,40.64,Ohio,OH,Guernsey County
+39,61,2018,dist_SSP,6.91,Ohio,OH,Hamilton County
+39,63,2018,dist_SSP,46.67,Ohio,OH,Hancock County
+39,65,2018,dist_SSP,56.56,Ohio,OH,Hardin County
+39,67,2018,dist_SSP,23,Ohio,OH,Harrison County
+39,69,2018,dist_SSP,35.5,Ohio,OH,Henry County
+39,71,2018,dist_SSP,37.43,Ohio,OH,Highland County
+39,73,2018,dist_SSP,41.25,Ohio,OH,Hocking County
+39,75,2018,dist_SSP,59.23,Ohio,OH,Holmes County
+39,77,2018,dist_SSP,54.2,Ohio,OH,Huron County
+39,79,2018,dist_SSP,25.4,Ohio,OH,Jackson County
+39,81,2018,dist_SSP,8.27,Ohio,OH,Jefferson County
+39,83,2018,dist_SSP,40.88,Ohio,OH,Knox County
+39,85,2018,dist_SSP,20.25,Ohio,OH,Lake County
+39,87,2018,dist_SSP,10.56,Ohio,OH,Lawrence County
+39,89,2018,dist_SSP,28.47,Ohio,OH,Licking County
+39,91,2018,dist_SSP,40.5,Ohio,OH,Logan County
+39,93,2018,dist_SSP,29.13,Ohio,OH,Lorain County
+39,95,2018,dist_SSP,6.96,Ohio,OH,Lucas County
+39,97,2018,dist_SSP,21.29,Ohio,OH,Madison County
+39,99,2018,dist_SSP,36.85,Ohio,OH,Mahoning County
+39,101,2018,dist_SSP,41.25,Ohio,OH,Marion County
+39,103,2018,dist_SSP,31,Ohio,OH,Medina County
+39,105,2018,dist_SSP,31.5,Ohio,OH,Meigs County
+39,107,2018,dist_SSP,41.4,Ohio,OH,Mercer County
+39,109,2018,dist_SSP,21.55,Ohio,OH,Miami County
+39,111,2018,dist_SSP,28.9,Ohio,OH,Monroe County
+39,113,2018,dist_SSP,14.61,Ohio,OH,Montgomery County
+39,115,2018,dist_SSP,25.25,Ohio,OH,Morgan County
+39,117,2018,dist_SSP,36,Ohio,OH,Morrow County
+39,119,2018,dist_SSP,46.5,Ohio,OH,Muskingum County
+39,121,2018,dist_SSP,30.5,Ohio,OH,Noble County
+39,123,2018,dist_SSP,23.21,Ohio,OH,Ottawa County
+39,125,2018,dist_SSP,27.56,Ohio,OH,Paulding County
+39,127,2018,dist_SSP,40,Ohio,OH,Perry County
+39,129,2018,dist_SSP,20.33,Ohio,OH,Pickaway County
+39,131,2018,dist_SSP,24,Ohio,OH,Pike County
+39,133,2018,dist_SSP,31.81,Ohio,OH,Portage County
+39,135,2018,dist_SSP,17,Ohio,OH,Preble County
+39,137,2018,dist_SSP,46,Ohio,OH,Putnam County
+39,139,2018,dist_SSP,56.92,Ohio,OH,Richland County
+39,141,2018,dist_SSP,35.8,Ohio,OH,Ross County
+39,143,2018,dist_SSP,29,Ohio,OH,Sandusky County
+39,145,2018,dist_SSP,11,Ohio,OH,Scioto County
+39,147,2018,dist_SSP,40.62,Ohio,OH,Seneca County
+39,149,2018,dist_SSP,38.55,Ohio,OH,Shelby County
+39,151,2018,dist_SSP,43.58,Ohio,OH,Stark County
+39,153,2018,dist_SSP,27.25,Ohio,OH,Summit County
+39,155,2018,dist_SSP,44.38,Ohio,OH,Trumbull County
+39,157,2018,dist_SSP,41.82,Ohio,OH,Tuscarawas County
+39,159,2018,dist_SSP,28.33,Ohio,OH,Union County
+39,161,2018,dist_SSP,28.89,Ohio,OH,Van Wert County
+39,163,2018,dist_SSP,42,Ohio,OH,Vinton County
+39,165,2018,dist_SSP,22.75,Ohio,OH,Warren County
+39,167,2018,dist_SSP,14.33,Ohio,OH,Washington County
+39,169,2018,dist_SSP,47.27,Ohio,OH,Wayne County
+39,171,2018,dist_SSP,38.9,Ohio,OH,Williams County
+39,173,2018,dist_SSP,20.19,Ohio,OH,Wood County
+39,175,2018,dist_SSP,53,Ohio,OH,Wyandot County
+40,1,2018,dist_SSP,36,Oklahoma,OK,Adair County
+40,3,2018,dist_SSP,239.38,Oklahoma,OK,Alfalfa County
+40,5,2018,dist_SSP,152.5,Oklahoma,OK,Atoka County
+40,7,2018,dist_SSP,211.6,Oklahoma,OK,Beaver County
+40,9,2018,dist_SSP,213.75,Oklahoma,OK,Beckham County
+40,11,2018,dist_SSP,244.62,Oklahoma,OK,Blaine County
+40,13,2018,dist_SSP,192.58,Oklahoma,OK,Bryan County
+40,15,2018,dist_SSP,247.08,Oklahoma,OK,Caddo County
+40,17,2018,dist_SSP,213.57,Oklahoma,OK,Canadian County
+40,19,2018,dist_SSP,219.44,Oklahoma,OK,Carter County
+40,21,2018,dist_SSP,51.67,Oklahoma,OK,Cherokee County
+40,23,2018,dist_SSP,155.62,Oklahoma,OK,Choctaw County
+40,25,2018,dist_SSP,101.5,Oklahoma,OK,Cimarron County
+40,27,2018,dist_SSP,192.92,Oklahoma,OK,Cleveland County
+40,29,2018,dist_SSP,160.8,Oklahoma,OK,Coal County
+40,31,2018,dist_SSP,259.08,Oklahoma,OK,Comanche County
+40,33,2018,dist_SSP,268,Oklahoma,OK,Cotton County
+40,35,2018,dist_SSP,76.6,Oklahoma,OK,Craig County
+40,37,2018,dist_SSP,126,Oklahoma,OK,Creek County
+40,39,2018,dist_SSP,255.17,Oklahoma,OK,Custer County
+40,41,2018,dist_SSP,49.22,Oklahoma,OK,Delaware County
+40,43,2018,dist_SSP,255.86,Oklahoma,OK,Dewey County
+40,45,2018,dist_SSP,231.25,Oklahoma,OK,Ellis County
+40,47,2018,dist_SSP,211,Oklahoma,OK,Garfield County
+40,49,2018,dist_SSP,199.71,Oklahoma,OK,Garvin County
+40,51,2018,dist_SSP,224,Oklahoma,OK,Grady County
+40,53,2018,dist_SSP,214.43,Oklahoma,OK,Grant County
+40,55,2018,dist_SSP,214.33,Oklahoma,OK,Greer County
+40,57,2018,dist_SSP,195.67,Oklahoma,OK,Harmon County
+40,59,2018,dist_SSP,248.5,Oklahoma,OK,Harper County
+40,61,2018,dist_SSP,79.17,Oklahoma,OK,Haskell County
+40,63,2018,dist_SSP,135.43,Oklahoma,OK,Hughes County
+40,65,2018,dist_SSP,220.88,Oklahoma,OK,Jackson County
+40,67,2018,dist_SSP,249.2,Oklahoma,OK,Jefferson County
+40,69,2018,dist_SSP,183.7,Oklahoma,OK,Johnston County
+40,71,2018,dist_SSP,180.5,Oklahoma,OK,Kay County
+40,73,2018,dist_SSP,216.86,Oklahoma,OK,Kingfisher County
+40,75,2018,dist_SSP,245.57,Oklahoma,OK,Kiowa County
+40,77,2018,dist_SSP,96,Oklahoma,OK,Latimer County
+40,79,2018,dist_SSP,77.35,Oklahoma,OK,Le Flore County
+40,81,2018,dist_SSP,156.4,Oklahoma,OK,Lincoln County
+40,83,2018,dist_SSP,185.38,Oklahoma,OK,Logan County
+40,85,2018,dist_SSP,229.4,Oklahoma,OK,Love County
+40,87,2018,dist_SSP,199.17,Oklahoma,OK,McClain County
+40,89,2018,dist_SSP,135.29,Oklahoma,OK,McCurtain County
+40,91,2018,dist_SSP,96,Oklahoma,OK,McIntosh County
+40,93,2018,dist_SSP,242.43,Oklahoma,OK,Major County
+40,95,2018,dist_SSP,206.33,Oklahoma,OK,Marshall County
+40,97,2018,dist_SSP,64.56,Oklahoma,OK,Mayes County
+40,99,2018,dist_SSP,202,Oklahoma,OK,Murray County
+40,101,2018,dist_SSP,78.42,Oklahoma,OK,Muskogee County
+40,103,2018,dist_SSP,177.83,Oklahoma,OK,Noble County
+40,105,2018,dist_SSP,103.2,Oklahoma,OK,Nowata County
+40,107,2018,dist_SSP,132.6,Oklahoma,OK,Okfuskee County
+40,109,2018,dist_SSP,193.29,Oklahoma,OK,Oklahoma County
+40,111,2018,dist_SSP,108.25,Oklahoma,OK,Okmulgee County
+40,113,2018,dist_SSP,132.55,Oklahoma,OK,Osage County
+40,115,2018,dist_SSP,73,Oklahoma,OK,Ottawa County
+40,117,2018,dist_SSP,141.57,Oklahoma,OK,Pawnee County
+40,119,2018,dist_SSP,159.5,Oklahoma,OK,Payne County
+40,121,2018,dist_SSP,117.38,Oklahoma,OK,Pittsburg County
+40,123,2018,dist_SSP,168,Oklahoma,OK,Pontotoc County
+40,125,2018,dist_SSP,169,Oklahoma,OK,Pottawatomie County
+40,127,2018,dist_SSP,126.4,Oklahoma,OK,Pushmataha County
+40,129,2018,dist_SSP,213.5,Oklahoma,OK,Roger Mills County
+40,131,2018,dist_SSP,89.57,Oklahoma,OK,Rogers County
+40,133,2018,dist_SSP,152.17,Oklahoma,OK,Seminole County
+40,135,2018,dist_SSP,51.12,Oklahoma,OK,Sequoyah County
+40,137,2018,dist_SSP,235.29,Oklahoma,OK,Stephens County
+40,139,2018,dist_SSP,168.14,Oklahoma,OK,Texas County
+40,141,2018,dist_SSP,248.43,Oklahoma,OK,Tillman County
+40,143,2018,dist_SSP,103.25,Oklahoma,OK,Tulsa County
+40,145,2018,dist_SSP,78.14,Oklahoma,OK,Wagoner County
+40,147,2018,dist_SSP,113.57,Oklahoma,OK,Washington County
+40,149,2018,dist_SSP,245.2,Oklahoma,OK,Washita County
+40,151,2018,dist_SSP,265,Oklahoma,OK,Woods County
+40,153,2018,dist_SSP,257.6,Oklahoma,OK,Woodward County
+41,1,2018,dist_SSP,103.36,Oregon,OR,Baker County
+41,3,2018,dist_SSP,10.14,Oregon,OR,Benton County
+41,5,2018,dist_SSP,17.04,Oregon,OR,Clackamas County
+41,7,2018,dist_SSP,54.43,Oregon,OR,Clatsop County
+41,9,2018,dist_SSP,19.88,Oregon,OR,Columbia County
+41,11,2018,dist_SSP,36.75,Oregon,OR,Coos County
+41,13,2018,dist_SSP,38.5,Oregon,OR,Crook County
+41,15,2018,dist_SSP,43.17,Oregon,OR,Curry County
+41,17,2018,dist_SSP,20.14,Oregon,OR,Deschutes County
+41,19,2018,dist_SSP,22.88,Oregon,OR,Douglas County
+41,21,2018,dist_SSP,55.5,Oregon,OR,Gilliam County
+41,23,2018,dist_SSP,88.9,Oregon,OR,Grant County
+41,25,2018,dist_SSP,139.67,Oregon,OR,Harney County
+41,27,2018,dist_SSP,43,Oregon,OR,Hood River County
+41,29,2018,dist_SSP,16.07,Oregon,OR,Jackson County
+41,31,2018,dist_SSP,25.67,Oregon,OR,Jefferson County
+41,33,2018,dist_SSP,17,Oregon,OR,Josephine County
+41,35,2018,dist_SSP,66.71,Oregon,OR,Klamath County
+41,37,2018,dist_SSP,97.38,Oregon,OR,Lake County
+41,39,2018,dist_SSP,20.85,Oregon,OR,Lane County
+41,41,2018,dist_SSP,37.75,Oregon,OR,Lincoln County
+41,43,2018,dist_SSP,24.43,Oregon,OR,Linn County
+41,45,2018,dist_SSP,157.27,Oregon,OR,Malheur County
+41,47,2018,dist_SSP,32.08,Oregon,OR,Marion County
+41,49,2018,dist_SSP,28,Oregon,OR,Morrow County
+41,51,2018,dist_SSP,4.73,Oregon,OR,Multnomah County
+41,53,2018,dist_SSP,31.86,Oregon,OR,Polk County
+41,55,2018,dist_SSP,71.6,Oregon,OR,Sherman County
+41,57,2018,dist_SSP,56.46,Oregon,OR,Tillamook County
+41,59,2018,dist_SSP,21.92,Oregon,OR,Umatilla County
+41,61,2018,dist_SSP,55.14,Oregon,OR,Union County
+41,63,2018,dist_SSP,67,Oregon,OR,Wallowa County
+41,65,2018,dist_SSP,61.86,Oregon,OR,Wasco County
+41,67,2018,dist_SSP,14.71,Oregon,OR,Washington County
+41,69,2018,dist_SSP,66.33,Oregon,OR,Wheeler County
+41,71,2018,dist_SSP,31.4,Oregon,OR,Yamhill County
+42,1,2018,dist_SSP,48.54,Pennsylvania,PA,Adams County
+42,3,2018,dist_SSP,8.09,Pennsylvania,PA,Allegheny County
+42,5,2018,dist_SSP,36.77,Pennsylvania,PA,Armstrong County
+42,7,2018,dist_SSP,17.15,Pennsylvania,PA,Beaver County
+42,9,2018,dist_SSP,81.33,Pennsylvania,PA,Bedford County
+42,11,2018,dist_SSP,46.56,Pennsylvania,PA,Berks County
+42,13,2018,dist_SSP,83,Pennsylvania,PA,Blair County
+42,15,2018,dist_SSP,35.86,Pennsylvania,PA,Bradford County
+42,17,2018,dist_SSP,24.11,Pennsylvania,PA,Bucks County
+42,19,2018,dist_SSP,32.19,Pennsylvania,PA,Butler County
+42,21,2018,dist_SSP,64.61,Pennsylvania,PA,Cambria County
+42,23,2018,dist_SSP,107.67,Pennsylvania,PA,Cameron County
+42,25,2018,dist_SSP,69.6,Pennsylvania,PA,Carbon County
+42,27,2018,dist_SSP,111.04,Pennsylvania,PA,Centre County
+42,29,2018,dist_SSP,19.41,Pennsylvania,PA,Chester County
+42,31,2018,dist_SSP,58.48,Pennsylvania,PA,Clarion County
+42,33,2018,dist_SSP,88,Pennsylvania,PA,Clearfield County
+42,35,2018,dist_SSP,100.93,Pennsylvania,PA,Clinton County
+42,37,2018,dist_SSP,78.18,Pennsylvania,PA,Columbia County
+42,39,2018,dist_SSP,73.65,Pennsylvania,PA,Crawford County
+42,41,2018,dist_SSP,65.84,Pennsylvania,PA,Cumberland County
+42,43,2018,dist_SSP,73.36,Pennsylvania,PA,Dauphin County
+42,45,2018,dist_SSP,10.84,Pennsylvania,PA,Delaware County
+42,47,2018,dist_SSP,94.33,Pennsylvania,PA,Elk County
+42,49,2018,dist_SSP,77.73,Pennsylvania,PA,Erie County
+42,51,2018,dist_SSP,23.23,Pennsylvania,PA,Fayette County
+42,53,2018,dist_SSP,80.83,Pennsylvania,PA,Forest County
+42,55,2018,dist_SSP,69.4,Pennsylvania,PA,Franklin County
+42,57,2018,dist_SSP,87.82,Pennsylvania,PA,Fulton County
+42,59,2018,dist_SSP,16.96,Pennsylvania,PA,Greene County
+42,61,2018,dist_SSP,95.48,Pennsylvania,PA,Huntingdon County
+42,63,2018,dist_SSP,47.73,Pennsylvania,PA,Indiana County
+42,65,2018,dist_SSP,65.17,Pennsylvania,PA,Jefferson County
+42,67,2018,dist_SSP,93.3,Pennsylvania,PA,Juniata County
+42,69,2018,dist_SSP,52.67,Pennsylvania,PA,Lackawanna County
+42,71,2018,dist_SSP,40.88,Pennsylvania,PA,Lancaster County
+42,73,2018,dist_SSP,34.25,Pennsylvania,PA,Lawrence County
+42,75,2018,dist_SSP,60.18,Pennsylvania,PA,Lebanon County
+42,77,2018,dist_SSP,46.94,Pennsylvania,PA,Lehigh County
+42,79,2018,dist_SSP,69.75,Pennsylvania,PA,Luzerne County
+42,81,2018,dist_SSP,77.5,Pennsylvania,PA,Lycoming County
+42,83,2018,dist_SSP,75.68,Pennsylvania,PA,McKean County
+42,85,2018,dist_SSP,56.26,Pennsylvania,PA,Mercer County
+42,87,2018,dist_SSP,102.45,Pennsylvania,PA,Mifflin County
+42,89,2018,dist_SSP,69.34,Pennsylvania,PA,Monroe County
+42,91,2018,dist_SSP,16.57,Pennsylvania,PA,Montgomery County
+42,93,2018,dist_SSP,86.33,Pennsylvania,PA,Montour County
+42,95,2018,dist_SSP,52.77,Pennsylvania,PA,Northampton County
+42,97,2018,dist_SSP,88.67,Pennsylvania,PA,Northumberland County
+42,99,2018,dist_SSP,81.5,Pennsylvania,PA,Perry County
+42,101,2018,dist_SSP,4.23,Pennsylvania,PA,Philadelphia County
+42,103,2018,dist_SSP,63.64,Pennsylvania,PA,Pike County
+42,105,2018,dist_SSP,78.4,Pennsylvania,PA,Potter County
+42,107,2018,dist_SSP,74.65,Pennsylvania,PA,Schuylkill County
+42,109,2018,dist_SSP,101,Pennsylvania,PA,Snyder County
+42,111,2018,dist_SSP,51.47,Pennsylvania,PA,Somerset County
+42,113,2018,dist_SSP,56.56,Pennsylvania,PA,Sullivan County
+42,115,2018,dist_SSP,28.87,Pennsylvania,PA,Susquehanna County
+42,117,2018,dist_SSP,57.86,Pennsylvania,PA,Tioga County
+42,119,2018,dist_SSP,99.23,Pennsylvania,PA,Union County
+42,121,2018,dist_SSP,65.71,Pennsylvania,PA,Venango County
+42,123,2018,dist_SSP,76.94,Pennsylvania,PA,Warren County
+42,125,2018,dist_SSP,18.48,Pennsylvania,PA,Washington County
+42,127,2018,dist_SSP,51.83,Pennsylvania,PA,Wayne County
+42,129,2018,dist_SSP,24.72,Pennsylvania,PA,Westmoreland County
+42,131,2018,dist_SSP,42.56,Pennsylvania,PA,Wyoming County
+42,133,2018,dist_SSP,42.1,Pennsylvania,PA,York County
+44,1,2018,dist_SSP,139.67,Rhode Island,RI,Bristol County
+44,3,2018,dist_SSP,127.5,Rhode Island,RI,Kent County
+44,5,2018,dist_SSP,134.5,Rhode Island,RI,Newport County
+44,7,2018,dist_SSP,136.08,Rhode Island,RI,Providence County
+44,9,2018,dist_SSP,115.2,Rhode Island,RI,Washington County
+45,1,2018,dist_SSP,47.4,South Carolina,SC,Abbeville County
+45,3,2018,dist_SSP,101.39,South Carolina,SC,Aiken County
+45,5,2018,dist_SSP,141.75,South Carolina,SC,Allendale County
+45,7,2018,dist_SSP,31.75,South Carolina,SC,Anderson County
+45,9,2018,dist_SSP,138.75,South Carolina,SC,Bamberg County
+45,11,2018,dist_SSP,122.5,South Carolina,SC,Barnwell County
+45,13,2018,dist_SSP,200.14,South Carolina,SC,Beaufort County
+45,15,2018,dist_SSP,138.67,South Carolina,SC,Berkeley County
+45,17,2018,dist_SSP,128.5,South Carolina,SC,Calhoun County
+45,19,2018,dist_SSP,163.4,South Carolina,SC,Charleston County
+45,21,2018,dist_SSP,43.67,South Carolina,SC,Cherokee County
+45,23,2018,dist_SSP,59.86,South Carolina,SC,Chester County
+45,25,2018,dist_SSP,62.12,South Carolina,SC,Chesterfield County
+45,27,2018,dist_SSP,111,South Carolina,SC,Clarendon County
+45,29,2018,dist_SSP,166.2,South Carolina,SC,Colleton County
+45,31,2018,dist_SSP,73.17,South Carolina,SC,Darlington County
+45,33,2018,dist_SSP,48.86,South Carolina,SC,Dillon County
+45,35,2018,dist_SSP,154.67,South Carolina,SC,Dorchester County
+45,37,2018,dist_SSP,84.2,South Carolina,SC,Edgefield County
+45,39,2018,dist_SSP,76.5,South Carolina,SC,Fairfield County
+45,41,2018,dist_SSP,81.09,South Carolina,SC,Florence County
+45,43,2018,dist_SSP,111,South Carolina,SC,Georgetown County
+45,45,2018,dist_SSP,9.1,South Carolina,SC,Greenville County
+45,47,2018,dist_SSP,55.17,South Carolina,SC,Greenwood County
+45,49,2018,dist_SSP,164.55,South Carolina,SC,Hampton County
+45,51,2018,dist_SSP,81.12,South Carolina,SC,Horry County
+45,53,2018,dist_SSP,184.8,South Carolina,SC,Jasper County
+45,55,2018,dist_SSP,80.71,South Carolina,SC,Kershaw County
+45,57,2018,dist_SSP,55.25,South Carolina,SC,Lancaster County
+45,59,2018,dist_SSP,41.44,South Carolina,SC,Laurens County
+45,61,2018,dist_SSP,91.67,South Carolina,SC,Lee County
+45,63,2018,dist_SSP,94.71,South Carolina,SC,Lexington County
+45,65,2018,dist_SSP,73.83,South Carolina,SC,McCormick County
+45,67,2018,dist_SSP,70,South Carolina,SC,Marion County
+45,69,2018,dist_SSP,46.83,South Carolina,SC,Marlboro County
+45,71,2018,dist_SSP,65.5,South Carolina,SC,Newberry County
+45,73,2018,dist_SSP,33,South Carolina,SC,Oconee County
+45,75,2018,dist_SSP,132.47,South Carolina,SC,Orangeburg County
+45,77,2018,dist_SSP,22.2,South Carolina,SC,Pickens County
+45,79,2018,dist_SSP,99.89,South Carolina,SC,Richland County
+45,81,2018,dist_SSP,74,South Carolina,SC,Saluda County
+45,83,2018,dist_SSP,25.53,South Carolina,SC,Spartanburg County
+45,85,2018,dist_SSP,106.64,South Carolina,SC,Sumter County
+45,87,2018,dist_SSP,47.2,South Carolina,SC,Union County
+45,89,2018,dist_SSP,105.43,South Carolina,SC,Williamsburg County
+45,91,2018,dist_SSP,46.25,South Carolina,SC,York County
+46,3,2018,dist_SSP,229.67,South Dakota,SD,Aurora County
+46,5,2018,dist_SSP,182.12,South Dakota,SD,Beadle County
+46,7,2018,dist_SSP,246.67,South Dakota,SD,Bennett County
+46,9,2018,dist_SSP,209.8,South Dakota,SD,Bon Homme County
+46,11,2018,dist_SSP,139.57,South Dakota,SD,Brookings County
+46,13,2018,dist_SSP,117.57,South Dakota,SD,Brown County
+46,15,2018,dist_SSP,241.67,South Dakota,SD,Brule County
+46,17,2018,dist_SSP,225.5,South Dakota,SD,Buffalo County
+46,19,2018,dist_SSP,248.75,South Dakota,SD,Butte County
+46,21,2018,dist_SSP,178,South Dakota,SD,Campbell County
+46,23,2018,dist_SSP,237,South Dakota,SD,Charles Mix County
+46,25,2018,dist_SSP,143.67,South Dakota,SD,Clark County
+46,27,2018,dist_SSP,171.33,South Dakota,SD,Clay County
+46,29,2018,dist_SSP,128.5,South Dakota,SD,Codington County
+46,31,2018,dist_SSP,218,South Dakota,SD,Corson County
+46,33,2018,dist_SSP,225.6,South Dakota,SD,Custer County
+46,35,2018,dist_SSP,207.67,South Dakota,SD,Davison County
+46,37,2018,dist_SSP,106.71,South Dakota,SD,Day County
+46,39,2018,dist_SSP,134.83,South Dakota,SD,Deuel County
+46,41,2018,dist_SSP,234.57,South Dakota,SD,Dewey County
+46,43,2018,dist_SSP,228.4,South Dakota,SD,Douglas County
+46,45,2018,dist_SSP,155.75,South Dakota,SD,Edmunds County
+46,47,2018,dist_SSP,201.6,South Dakota,SD,Fall River County
+46,49,2018,dist_SSP,170,South Dakota,SD,Faulk County
+46,51,2018,dist_SSP,116.88,South Dakota,SD,Grant County
+46,53,2018,dist_SSP,266.43,South Dakota,SD,Gregory County
+46,55,2018,dist_SSP,286.33,South Dakota,SD,Haakon County
+46,57,2018,dist_SSP,151,South Dakota,SD,Hamlin County
+46,59,2018,dist_SSP,193.5,South Dakota,SD,Hand County
+46,61,2018,dist_SSP,190.33,South Dakota,SD,Hanson County
+46,63,2018,dist_SSP,199.5,South Dakota,SD,Harding County
+46,65,2018,dist_SSP,228.33,South Dakota,SD,Hughes County
+46,67,2018,dist_SSP,197.17,South Dakota,SD,Hutchinson County
+46,69,2018,dist_SSP,213.67,South Dakota,SD,Hyde County
+46,71,2018,dist_SSP,272.2,South Dakota,SD,Jackson County
+46,73,2018,dist_SSP,206,South Dakota,SD,Jerauld County
+46,75,2018,dist_SSP,278,South Dakota,SD,Jones County
+46,77,2018,dist_SSP,167.29,South Dakota,SD,Kingsbury County
+46,79,2018,dist_SSP,154.43,South Dakota,SD,Lake County
+46,81,2018,dist_SSP,261.57,South Dakota,SD,Lawrence County
+46,83,2018,dist_SSP,146.5,South Dakota,SD,Lincoln County
+46,85,2018,dist_SSP,251.33,South Dakota,SD,Lyman County
+46,87,2018,dist_SSP,172.4,South Dakota,SD,McCook County
+46,89,2018,dist_SSP,133.75,South Dakota,SD,McPherson County
+46,91,2018,dist_SSP,87.17,South Dakota,SD,Marshall County
+46,93,2018,dist_SSP,267.67,South Dakota,SD,Meade County
+46,95,2018,dist_SSP,287,South Dakota,SD,Mellette County
+46,97,2018,dist_SSP,182.5,South Dakota,SD,Miner County
+46,99,2018,dist_SSP,142.42,South Dakota,SD,Minnehaha County
+46,101,2018,dist_SSP,134.25,South Dakota,SD,Moody County
+46,102,2018,dist_SSP,222.14,South Dakota,SD,Oglala Lakota County
+46,103,2018,dist_SSP,261.08,South Dakota,SD,Pennington County
+46,105,2018,dist_SSP,222.4,South Dakota,SD,Perkins County
+46,107,2018,dist_SSP,189.5,South Dakota,SD,Potter County
+46,109,2018,dist_SSP,89,South Dakota,SD,Roberts County
+46,111,2018,dist_SSP,204.67,South Dakota,SD,Sanborn County
+46,115,2018,dist_SSP,149.6,South Dakota,SD,Spink County
+46,117,2018,dist_SSP,256,South Dakota,SD,Stanley County
+46,119,2018,dist_SSP,214.5,South Dakota,SD,Sully County
+46,121,2018,dist_SSP,280.8,South Dakota,SD,Todd County
+46,123,2018,dist_SSP,280.8,South Dakota,SD,Tripp County
+46,125,2018,dist_SSP,165.62,South Dakota,SD,Turner County
+46,127,2018,dist_SSP,163,South Dakota,SD,Union County
+46,129,2018,dist_SSP,190.4,South Dakota,SD,Walworth County
+46,135,2018,dist_SSP,185.71,South Dakota,SD,Yankton County
+46,137,2018,dist_SSP,278.33,South Dakota,SD,Ziebach County
+47,1,2018,dist_SSP,39.29,Tennessee,TN,Anderson County
+47,3,2018,dist_SSP,46.25,Tennessee,TN,Bedford County
+47,5,2018,dist_SSP,73.75,Tennessee,TN,Benton County
+47,7,2018,dist_SSP,89,Tennessee,TN,Bledsoe County
+47,9,2018,dist_SSP,48,Tennessee,TN,Blount County
+47,11,2018,dist_SSP,82.33,Tennessee,TN,Bradley County
+47,13,2018,dist_SSP,19.17,Tennessee,TN,Campbell County
+47,15,2018,dist_SSP,42.75,Tennessee,TN,Cannon County
+47,17,2018,dist_SSP,97,Tennessee,TN,Carroll County
+47,19,2018,dist_SSP,12,Tennessee,TN,Carter County
+47,21,2018,dist_SSP,21.4,Tennessee,TN,Cheatham County
+47,23,2018,dist_SSP,112.25,Tennessee,TN,Chester County
+47,25,2018,dist_SSP,24.38,Tennessee,TN,Claiborne County
+47,27,2018,dist_SSP,34,Tennessee,TN,Clay County
+47,29,2018,dist_SSP,37.33,Tennessee,TN,Cocke County
+47,31,2018,dist_SSP,59.2,Tennessee,TN,Coffee County
+47,33,2018,dist_SSP,137.17,Tennessee,TN,Crockett County
+47,35,2018,dist_SSP,65,Tennessee,TN,Cumberland County
+47,37,2018,dist_SSP,6.06,Tennessee,TN,Davidson County
+47,39,2018,dist_SSP,85.25,Tennessee,TN,Decatur County
+47,41,2018,dist_SSP,47,Tennessee,TN,DeKalb County
+47,43,2018,dist_SSP,35.14,Tennessee,TN,Dickson County
+47,45,2018,dist_SSP,146.71,Tennessee,TN,Dyer County
+47,47,2018,dist_SSP,168.12,Tennessee,TN,Fayette County
+47,49,2018,dist_SSP,41.75,Tennessee,TN,Fentress County
+47,51,2018,dist_SSP,80.25,Tennessee,TN,Franklin County
+47,53,2018,dist_SSP,122.25,Tennessee,TN,Gibson County
+47,55,2018,dist_SSP,74.43,Tennessee,TN,Giles County
+47,57,2018,dist_SSP,45.33,Tennessee,TN,Grainger County
+47,59,2018,dist_SSP,28.86,Tennessee,TN,Greene County
+47,61,2018,dist_SSP,79.88,Tennessee,TN,Grundy County
+47,63,2018,dist_SSP,48.8,Tennessee,TN,Hamblen County
+47,65,2018,dist_SSP,99.54,Tennessee,TN,Hamilton County
+47,67,2018,dist_SSP,42.5,Tennessee,TN,Hancock County
+47,69,2018,dist_SSP,144.11,Tennessee,TN,Hardeman County
+47,71,2018,dist_SSP,108.38,Tennessee,TN,Hardin County
+47,73,2018,dist_SSP,32.57,Tennessee,TN,Hawkins County
+47,75,2018,dist_SSP,150,Tennessee,TN,Haywood County
+47,77,2018,dist_SSP,97.86,Tennessee,TN,Henderson County
+47,79,2018,dist_SSP,88.29,Tennessee,TN,Henry County
+47,81,2018,dist_SSP,46.33,Tennessee,TN,Hickman County
+47,83,2018,dist_SSP,58,Tennessee,TN,Houston County
+47,85,2018,dist_SSP,60.25,Tennessee,TN,Humphreys County
+47,87,2018,dist_SSP,51,Tennessee,TN,Jackson County
+47,89,2018,dist_SSP,53.8,Tennessee,TN,Jefferson County
+47,91,2018,dist_SSP,32.6,Tennessee,TN,Johnson County
+47,93,2018,dist_SSP,51.62,Tennessee,TN,Knox County
+47,95,2018,dist_SSP,150,Tennessee,TN,Lake County
+47,97,2018,dist_SSP,159.5,Tennessee,TN,Lauderdale County
+47,99,2018,dist_SSP,77.38,Tennessee,TN,Lawrence County
+47,101,2018,dist_SSP,64,Tennessee,TN,Lewis County
+47,103,2018,dist_SSP,72.33,Tennessee,TN,Lincoln County
+47,105,2018,dist_SSP,61.8,Tennessee,TN,Loudon County
+47,107,2018,dist_SSP,68.83,Tennessee,TN,McMinn County
+47,109,2018,dist_SSP,120.22,Tennessee,TN,McNairy County
+47,111,2018,dist_SSP,44,Tennessee,TN,Macon County
+47,113,2018,dist_SSP,124.75,Tennessee,TN,Madison County
+47,115,2018,dist_SSP,98.17,Tennessee,TN,Marion County
+47,117,2018,dist_SSP,49.25,Tennessee,TN,Marshall County
+47,119,2018,dist_SSP,46,Tennessee,TN,Maury County
+47,121,2018,dist_SSP,79,Tennessee,TN,Meigs County
+47,123,2018,dist_SSP,53.5,Tennessee,TN,Monroe County
+47,125,2018,dist_SSP,40.38,Tennessee,TN,Montgomery County
+47,127,2018,dist_SSP,65,Tennessee,TN,Moore County
+47,129,2018,dist_SSP,46.38,Tennessee,TN,Morgan County
+47,131,2018,dist_SSP,136.29,Tennessee,TN,Obion County
+47,133,2018,dist_SSP,38.11,Tennessee,TN,Overton County
+47,135,2018,dist_SSP,70.5,Tennessee,TN,Perry County
+47,137,2018,dist_SSP,24.5,Tennessee,TN,Pickett County
+47,139,2018,dist_SSP,61.89,Tennessee,TN,Polk County
+47,141,2018,dist_SSP,53.86,Tennessee,TN,Putnam County
+47,143,2018,dist_SSP,86.6,Tennessee,TN,Rhea County
+47,145,2018,dist_SSP,57.5,Tennessee,TN,Roane County
+47,147,2018,dist_SSP,24.5,Tennessee,TN,Robertson County
+47,149,2018,dist_SSP,28.5,Tennessee,TN,Rutherford County
+47,151,2018,dist_SSP,26.57,Tennessee,TN,Scott County
+47,153,2018,dist_SSP,90,Tennessee,TN,Sequatchie County
+47,155,2018,dist_SSP,44.5,Tennessee,TN,Sevier County
+47,157,2018,dist_SSP,192,Tennessee,TN,Shelby County
+47,159,2018,dist_SSP,44.3,Tennessee,TN,Smith County
+47,161,2018,dist_SSP,61.4,Tennessee,TN,Stewart County
+47,163,2018,dist_SSP,16,Tennessee,TN,Sullivan County
+47,165,2018,dist_SSP,25.43,Tennessee,TN,Sumner County
+47,167,2018,dist_SSP,175.29,Tennessee,TN,Tipton County
+47,169,2018,dist_SSP,36,Tennessee,TN,Trousdale County
+47,171,2018,dist_SSP,14.33,Tennessee,TN,Unicoi County
+47,173,2018,dist_SSP,36,Tennessee,TN,Union County
+47,175,2018,dist_SSP,79,Tennessee,TN,Van Buren County
+47,177,2018,dist_SSP,65.25,Tennessee,TN,Warren County
+47,179,2018,dist_SSP,7,Tennessee,TN,Washington County
+47,181,2018,dist_SSP,91.17,Tennessee,TN,Wayne County
+47,183,2018,dist_SSP,111,Tennessee,TN,Weakley County
+47,185,2018,dist_SSP,69.5,Tennessee,TN,White County
+47,187,2018,dist_SSP,23.27,Tennessee,TN,Williamson County
+47,189,2018,dist_SSP,24,Tennessee,TN,Wilson County
+48,1,2018,dist_SSP,278.88,Texas,TX,Anderson County
+48,3,2018,dist_SSP,52,Texas,TX,Andrews County
+48,5,2018,dist_SSP,210,Texas,TX,Angelina County
+48,7,2018,dist_SSP,389.5,Texas,TX,Aransas County
+48,9,2018,dist_SSP,268.2,Texas,TX,Archer County
+48,11,2018,dist_SSP,107.5,Texas,TX,Armstrong County
+48,13,2018,dist_SSP,389.78,Texas,TX,Atascosa County
+48,15,2018,dist_SSP,306,Texas,TX,Austin County
+48,17,2018,dist_SSP,31.67,Texas,TX,Bailey County
+48,19,2018,dist_SSP,323.4,Texas,TX,Bandera County
+48,21,2018,dist_SSP,364.12,Texas,TX,Bastrop County
+48,23,2018,dist_SSP,235,Texas,TX,Baylor County
+48,25,2018,dist_SSP,420.33,Texas,TX,Bee County
+48,27,2018,dist_SSP,360.67,Texas,TX,Bell County
+48,29,2018,dist_SSP,369.54,Texas,TX,Bexar County
+48,31,2018,dist_SSP,341.25,Texas,TX,Blanco County
+48,33,2018,dist_SSP,111,Texas,TX,Borden County
+48,35,2018,dist_SSP,339,Texas,TX,Bosque County
+48,37,2018,dist_SSP,178.11,Texas,TX,Bowie County
+48,39,2018,dist_SSP,268,Texas,TX,Brazoria County
+48,41,2018,dist_SSP,304.86,Texas,TX,Brazos County
+48,43,2018,dist_SSP,187.8,Texas,TX,Brewster County
+48,45,2018,dist_SSP,120,Texas,TX,Briscoe County
+48,47,2018,dist_SSP,487,Texas,TX,Brooks County
+48,49,2018,dist_SSP,271.43,Texas,TX,Brown County
+48,51,2018,dist_SSP,316,Texas,TX,Burleson County
+48,53,2018,dist_SSP,342,Texas,TX,Burnet County
+48,55,2018,dist_SSP,388.29,Texas,TX,Caldwell County
+48,57,2018,dist_SSP,349.25,Texas,TX,Calhoun County
+48,59,2018,dist_SSP,241,Texas,TX,Callahan County
+48,61,2018,dist_SSP,492.44,Texas,TX,Cameron County
+48,63,2018,dist_SSP,215.5,Texas,TX,Camp County
+48,65,2018,dist_SSP,133,Texas,TX,Carson County
+48,67,2018,dist_SSP,202.2,Texas,TX,Cass County
+48,69,2018,dist_SSP,56.75,Texas,TX,Castro County
+48,71,2018,dist_SSP,210,Texas,TX,Chambers County
+48,73,2018,dist_SSP,247.5,Texas,TX,Cherokee County
+48,75,2018,dist_SSP,164.5,Texas,TX,Childress County
+48,77,2018,dist_SSP,274.25,Texas,TX,Clay County
+48,79,2018,dist_SSP,46,Texas,TX,Cochran County
+48,81,2018,dist_SSP,184.25,Texas,TX,Coke County
+48,83,2018,dist_SSP,239.6,Texas,TX,Coleman County
+48,85,2018,dist_SSP,244.54,Texas,TX,Collin County
+48,87,2018,dist_SSP,173.67,Texas,TX,Collingsworth County
+48,89,2018,dist_SSP,323.83,Texas,TX,Colorado County
+48,91,2018,dist_SSP,366.71,Texas,TX,Comal County
+48,93,2018,dist_SSP,291.4,Texas,TX,Comanche County
+48,95,2018,dist_SSP,232,Texas,TX,Concho County
+48,97,2018,dist_SSP,246.86,Texas,TX,Cooke County
+48,99,2018,dist_SSP,341.1,Texas,TX,Coryell County
+48,101,2018,dist_SSP,172,Texas,TX,Cottle County
+48,103,2018,dist_SSP,106,Texas,TX,Crane County
+48,105,2018,dist_SSP,195.5,Texas,TX,Crockett County
+48,107,2018,dist_SSP,115.33,Texas,TX,Crosby County
+48,109,2018,dist_SSP,84,Texas,TX,Culberson County
+48,111,2018,dist_SSP,106.33,Texas,TX,Dallam County
+48,113,2018,dist_SSP,268.54,Texas,TX,Dallas County
+48,115,2018,dist_SSP,77,Texas,TX,Dawson County
+48,117,2018,dist_SSP,58.5,Texas,TX,Deaf Smith County
+48,119,2018,dist_SSP,200.17,Texas,TX,Delta County
+48,121,2018,dist_SSP,259.46,Texas,TX,Denton County
+48,123,2018,dist_SSP,388.5,Texas,TX,DeWitt County
+48,125,2018,dist_SSP,143.75,Texas,TX,Dickens County
+48,127,2018,dist_SSP,370.75,Texas,TX,Dimmit County
+48,129,2018,dist_SSP,142.67,Texas,TX,Donley County
+48,131,2018,dist_SSP,460.6,Texas,TX,Duval County
+48,133,2018,dist_SSP,270.5,Texas,TX,Eastland County
+48,135,2018,dist_SSP,83.78,Texas,TX,Ector County
+48,137,2018,dist_SSP,274.5,Texas,TX,Edwards County
+48,139,2018,dist_SSP,296.38,Texas,TX,Ellis County
+48,141,2018,dist_SSP,33.47,Texas,TX,El Paso County
+48,143,2018,dist_SSP,306,Texas,TX,Erath County
+48,145,2018,dist_SSP,343,Texas,TX,Falls County
+48,147,2018,dist_SSP,203.71,Texas,TX,Fannin County
+48,149,2018,dist_SSP,340.11,Texas,TX,Fayette County
+48,151,2018,dist_SSP,177.25,Texas,TX,Fisher County
+48,153,2018,dist_SSP,117.25,Texas,TX,Floyd County
+48,155,2018,dist_SSP,202,Texas,TX,Foard County
+48,157,2018,dist_SSP,277.48,Texas,TX,Fort Bend County
+48,159,2018,dist_SSP,209.5,Texas,TX,Franklin County
+48,161,2018,dist_SSP,307.83,Texas,TX,Freestone County
+48,163,2018,dist_SSP,372.25,Texas,TX,Frio County
+48,165,2018,dist_SSP,49.67,Texas,TX,Gaines County
+48,167,2018,dist_SSP,234.47,Texas,TX,Galveston County
+48,169,2018,dist_SSP,122,Texas,TX,Garza County
+48,171,2018,dist_SSP,313,Texas,TX,Gillespie County
+48,173,2018,dist_SSP,132,Texas,TX,Glasscock County
+48,175,2018,dist_SSP,392.25,Texas,TX,Goliad County
+48,177,2018,dist_SSP,386.5,Texas,TX,Gonzales County
+48,179,2018,dist_SSP,153.33,Texas,TX,Gray County
+48,181,2018,dist_SSP,219.82,Texas,TX,Grayson County
+48,183,2018,dist_SSP,242.11,Texas,TX,Gregg County
+48,185,2018,dist_SSP,280.71,Texas,TX,Grimes County
+48,187,2018,dist_SSP,386.71,Texas,TX,Guadalupe County
+48,189,2018,dist_SSP,83.17,Texas,TX,Hale County
+48,191,2018,dist_SSP,149.25,Texas,TX,Hall County
+48,193,2018,dist_SSP,313.5,Texas,TX,Hamilton County
+48,195,2018,dist_SSP,156.33,Texas,TX,Hansford County
+48,197,2018,dist_SSP,206,Texas,TX,Hardeman County
+48,199,2018,dist_SSP,192,Texas,TX,Hardin County
+48,201,2018,dist_SSP,253.92,Texas,TX,Harris County
+48,203,2018,dist_SSP,226.14,Texas,TX,Harrison County
+48,205,2018,dist_SSP,106,Texas,TX,Hartley County
+48,207,2018,dist_SSP,207,Texas,TX,Haskell County
+48,209,2018,dist_SSP,371.29,Texas,TX,Hays County
+48,211,2018,dist_SSP,194,Texas,TX,Hemphill County
+48,213,2018,dist_SSP,278.55,Texas,TX,Henderson County
+48,215,2018,dist_SSP,515.93,Texas,TX,Hidalgo County
+48,217,2018,dist_SSP,325.8,Texas,TX,Hill County
+48,219,2018,dist_SSP,63.71,Texas,TX,Hockley County
+48,221,2018,dist_SSP,319.25,Texas,TX,Hood County
+48,223,2018,dist_SSP,212.75,Texas,TX,Hopkins County
+48,225,2018,dist_SSP,251.33,Texas,TX,Houston County
+48,227,2018,dist_SSP,122.25,Texas,TX,Howard County
+48,229,2018,dist_SSP,62,Texas,TX,Hudspeth County
+48,231,2018,dist_SSP,226.33,Texas,TX,Hunt County
+48,233,2018,dist_SSP,130.75,Texas,TX,Hutchinson County
+48,235,2018,dist_SSP,174,Texas,TX,Irion County
+48,237,2018,dist_SSP,295.5,Texas,TX,Jack County
+48,239,2018,dist_SSP,338.57,Texas,TX,Jackson County
+48,241,2018,dist_SSP,166.8,Texas,TX,Jasper County
+48,243,2018,dist_SSP,117,Texas,TX,Jeff Davis County
+48,245,2018,dist_SSP,176.59,Texas,TX,Jefferson County
+48,247,2018,dist_SSP,478,Texas,TX,Jim Hogg County
+48,249,2018,dist_SSP,456,Texas,TX,Jim Wells County
+48,251,2018,dist_SSP,309.36,Texas,TX,Johnson County
+48,253,2018,dist_SSP,206.33,Texas,TX,Jones County
+48,255,2018,dist_SSP,412.43,Texas,TX,Karnes County
+48,257,2018,dist_SSP,266.62,Texas,TX,Kaufman County
+48,259,2018,dist_SSP,342,Texas,TX,Kendall County
+48,261,2018,dist_SSP,468,Texas,TX,Kenedy County
+48,263,2018,dist_SSP,150,Texas,TX,Kent County
+48,265,2018,dist_SSP,305.67,Texas,TX,Kerr County
+48,267,2018,dist_SSP,262,Texas,TX,Kimble County
+48,269,2018,dist_SSP,169,Texas,TX,King County
+48,271,2018,dist_SSP,291,Texas,TX,Kinney County
+48,273,2018,dist_SSP,455,Texas,TX,Kleberg County
+48,275,2018,dist_SSP,210,Texas,TX,Knox County
+48,277,2018,dist_SSP,182.55,Texas,TX,Lamar County
+48,279,2018,dist_SSP,54,Texas,TX,Lamb County
+48,281,2018,dist_SSP,326.33,Texas,TX,Lampasas County
+48,283,2018,dist_SSP,398.75,Texas,TX,La Salle County
+48,285,2018,dist_SSP,357.8,Texas,TX,Lavaca County
+48,287,2018,dist_SSP,339.4,Texas,TX,Lee County
+48,289,2018,dist_SSP,289.62,Texas,TX,Leon County
+48,291,2018,dist_SSP,211.22,Texas,TX,Liberty County
+48,293,2018,dist_SSP,324.14,Texas,TX,Limestone County
+48,295,2018,dist_SSP,210,Texas,TX,Lipscomb County
+48,297,2018,dist_SSP,429.5,Texas,TX,Live Oak County
+48,299,2018,dist_SSP,318,Texas,TX,Llano County
+48,301,2018,dist_SSP,60,Texas,TX,Loving County
+48,303,2018,dist_SSP,90.05,Texas,TX,Lubbock County
+48,305,2018,dist_SSP,92.67,Texas,TX,Lynn County
+48,307,2018,dist_SSP,260.33,Texas,TX,McCulloch County
+48,309,2018,dist_SSP,352.08,Texas,TX,McLennan County
+48,311,2018,dist_SSP,420.5,Texas,TX,McMullen County
+48,313,2018,dist_SSP,280,Texas,TX,Madison County
+48,315,2018,dist_SSP,219,Texas,TX,Marion County
+48,317,2018,dist_SSP,97.25,Texas,TX,Martin County
+48,319,2018,dist_SSP,287.75,Texas,TX,Mason County
+48,321,2018,dist_SSP,309.67,Texas,TX,Matagorda County
+48,323,2018,dist_SSP,330,Texas,TX,Maverick County
+48,325,2018,dist_SSP,353.56,Texas,TX,Medina County
+48,327,2018,dist_SSP,248,Texas,TX,Menard County
+48,329,2018,dist_SSP,94.6,Texas,TX,Midland County
+48,331,2018,dist_SSP,343.86,Texas,TX,Milam County
+48,333,2018,dist_SSP,296.67,Texas,TX,Mills County
+48,335,2018,dist_SSP,149.67,Texas,TX,Mitchell County
+48,337,2018,dist_SSP,263.14,Texas,TX,Montague County
+48,339,2018,dist_SSP,253.43,Texas,TX,Montgomery County
+48,341,2018,dist_SSP,124.75,Texas,TX,Moore County
+48,343,2018,dist_SSP,203.5,Texas,TX,Morris County
+48,345,2018,dist_SSP,140.33,Texas,TX,Motley County
+48,347,2018,dist_SSP,215.36,Texas,TX,Nacogdoches County
+48,349,2018,dist_SSP,304.42,Texas,TX,Navarro County
+48,351,2018,dist_SSP,151,Texas,TX,Newton County
+48,353,2018,dist_SSP,180.4,Texas,TX,Nolan County
+48,355,2018,dist_SSP,423.2,Texas,TX,Nueces County
+48,357,2018,dist_SSP,180.33,Texas,TX,Ochiltree County
+48,359,2018,dist_SSP,75.75,Texas,TX,Oldham County
+48,361,2018,dist_SSP,160.75,Texas,TX,Orange County
+48,363,2018,dist_SSP,295,Texas,TX,Palo Pinto County
+48,365,2018,dist_SSP,215.6,Texas,TX,Panola County
+48,367,2018,dist_SSP,305.2,Texas,TX,Parker County
+48,369,2018,dist_SSP,27.75,Texas,TX,Parmer County
+48,371,2018,dist_SSP,138.6,Texas,TX,Pecos County
+48,373,2018,dist_SSP,217.12,Texas,TX,Polk County
+48,375,2018,dist_SSP,96.27,Texas,TX,Potter County
+48,377,2018,dist_SSP,170.67,Texas,TX,Presidio County
+48,379,2018,dist_SSP,235.5,Texas,TX,Rains County
+48,381,2018,dist_SSP,85.38,Texas,TX,Randall County
+48,383,2018,dist_SSP,150,Texas,TX,Reagan County
+48,385,2018,dist_SSP,298.67,Texas,TX,Real County
+48,387,2018,dist_SSP,173,Texas,TX,Red River County
+48,389,2018,dist_SSP,77.8,Texas,TX,Reeves County
+48,391,2018,dist_SSP,386.8,Texas,TX,Refugio County
+48,393,2018,dist_SSP,168,Texas,TX,Roberts County
+48,395,2018,dist_SSP,318.8,Texas,TX,Robertson County
+48,397,2018,dist_SSP,249.25,Texas,TX,Rockwall County
+48,399,2018,dist_SSP,211.2,Texas,TX,Runnels County
+48,401,2018,dist_SSP,237.86,Texas,TX,Rusk County
+48,403,2018,dist_SSP,168.5,Texas,TX,Sabine County
+48,405,2018,dist_SSP,182.5,Texas,TX,San Augustine County
+48,407,2018,dist_SSP,235,Texas,TX,San Jacinto County
+48,409,2018,dist_SSP,415,Texas,TX,San Patricio County
+48,411,2018,dist_SSP,299,Texas,TX,San Saba County
+48,413,2018,dist_SSP,211,Texas,TX,Schleicher County
+48,415,2018,dist_SSP,141,Texas,TX,Scurry County
+48,417,2018,dist_SSP,243,Texas,TX,Shackelford County
+48,419,2018,dist_SSP,195.4,Texas,TX,Shelby County
+48,421,2018,dist_SSP,138,Texas,TX,Sherman County
+48,423,2018,dist_SSP,259.25,Texas,TX,Smith County
+48,425,2018,dist_SSP,328.67,Texas,TX,Somervell County
+48,427,2018,dist_SSP,510,Texas,TX,Starr County
+48,429,2018,dist_SSP,267,Texas,TX,Stephens County
+48,431,2018,dist_SSP,155,Texas,TX,Sterling County
+48,433,2018,dist_SSP,187.5,Texas,TX,Stonewall County
+48,435,2018,dist_SSP,232,Texas,TX,Sutton County
+48,437,2018,dist_SSP,85,Texas,TX,Swisher County
+48,439,2018,dist_SSP,286.62,Texas,TX,Tarrant County
+48,441,2018,dist_SSP,209.07,Texas,TX,Taylor County
+48,443,2018,dist_SSP,193.5,Texas,TX,Terrell County
+48,445,2018,dist_SSP,59.33,Texas,TX,Terry County
+48,447,2018,dist_SSP,244.5,Texas,TX,Throckmorton County
+48,449,2018,dist_SSP,197.75,Texas,TX,Titus County
+48,451,2018,dist_SSP,200.62,Texas,TX,Tom Green County
+48,453,2018,dist_SSP,374.38,Texas,TX,Travis County
+48,455,2018,dist_SSP,236.5,Texas,TX,Trinity County
+48,457,2018,dist_SSP,186.12,Texas,TX,Tyler County
+48,459,2018,dist_SSP,229.4,Texas,TX,Upshur County
+48,461,2018,dist_SSP,129.67,Texas,TX,Upton County
+48,463,2018,dist_SSP,319.67,Texas,TX,Uvalde County
+48,465,2018,dist_SSP,247.75,Texas,TX,Val Verde County
+48,467,2018,dist_SSP,253.14,Texas,TX,Van Zandt County
+48,469,2018,dist_SSP,366.4,Texas,TX,Victoria County
+48,471,2018,dist_SSP,253,Texas,TX,Walker County
+48,473,2018,dist_SSP,287.2,Texas,TX,Waller County
+48,475,2018,dist_SSP,88,Texas,TX,Ward County
+48,477,2018,dist_SSP,306.75,Texas,TX,Washington County
+48,479,2018,dist_SSP,436,Texas,TX,Webb County
+48,481,2018,dist_SSP,307.17,Texas,TX,Wharton County
+48,483,2018,dist_SSP,184.6,Texas,TX,Wheeler County
+48,485,2018,dist_SSP,270.36,Texas,TX,Wichita County
+48,487,2018,dist_SSP,232.5,Texas,TX,Wilbarger County
+48,489,2018,dist_SSP,484.33,Texas,TX,Willacy County
+48,491,2018,dist_SSP,367.05,Texas,TX,Williamson County
+48,493,2018,dist_SSP,401.5,Texas,TX,Wilson County
+48,495,2018,dist_SSP,68.5,Texas,TX,Winkler County
+48,497,2018,dist_SSP,280.5,Texas,TX,Wise County
+48,499,2018,dist_SSP,233.5,Texas,TX,Wood County
+48,501,2018,dist_SSP,35,Texas,TX,Yoakum County
+48,503,2018,dist_SSP,269.8,Texas,TX,Young County
+48,505,2018,dist_SSP,475,Texas,TX,Zapata County
+48,507,2018,dist_SSP,346,Texas,TX,Zavala County
+49,1,2018,dist_SSP,171.5,Utah,UT,Beaver County
+49,3,2018,dist_SSP,72.39,Utah,UT,Box Elder County
+49,5,2018,dist_SSP,72.18,Utah,UT,Cache County
+49,7,2018,dist_SSP,97.17,Utah,UT,Carbon County
+49,9,2018,dist_SSP,119.5,Utah,UT,Daggett County
+49,11,2018,dist_SSP,18.27,Utah,UT,Davis County
+49,13,2018,dist_SSP,82.92,Utah,UT,Duchesne County
+49,15,2018,dist_SSP,108.22,Utah,UT,Emery County
+49,17,2018,dist_SSP,182.33,Utah,UT,Garfield County
+49,19,2018,dist_SSP,48.33,Utah,UT,Grand County
+49,21,2018,dist_SSP,156.5,Utah,UT,Iron County
+49,23,2018,dist_SSP,68,Utah,UT,Juab County
+49,25,2018,dist_SSP,149.57,Utah,UT,Kane County
+49,27,2018,dist_SSP,106.4,Utah,UT,Millard County
+49,29,2018,dist_SSP,30,Utah,UT,Morgan County
+49,31,2018,dist_SSP,166.6,Utah,UT,Piute County
+49,33,2018,dist_SSP,76.5,Utah,UT,Rich County
+49,35,2018,dist_SSP,6.87,Utah,UT,Salt Lake County
+49,37,2018,dist_SSP,88.14,Utah,UT,San Juan County
+49,39,2018,dist_SSP,95.53,Utah,UT,Sanpete County
+49,41,2018,dist_SSP,137.67,Utah,UT,Sevier County
+49,43,2018,dist_SSP,28.62,Utah,UT,Summit County
+49,45,2018,dist_SSP,43.25,Utah,UT,Tooele County
+49,47,2018,dist_SSP,102.43,Utah,UT,Uintah County
+49,49,2018,dist_SSP,35.82,Utah,UT,Utah County
+49,51,2018,dist_SSP,29.67,Utah,UT,Wasatch County
+49,53,2018,dist_SSP,121.55,Utah,UT,Washington County
+49,55,2018,dist_SSP,154.5,Utah,UT,Wayne County
+49,57,2018,dist_SSP,34.78,Utah,UT,Weber County
+50,1,2018,dist_SSP,165.88,Vermont,VT,Addison County
+50,3,2018,dist_SSP,149.12,Vermont,VT,Bennington County
+50,5,2018,dist_SSP,224.29,Vermont,VT,Caledonia County
+50,7,2018,dist_SSP,181.44,Vermont,VT,Chittenden County
+50,9,2018,dist_SSP,249.45,Vermont,VT,Essex County
+50,11,2018,dist_SSP,204.25,Vermont,VT,Franklin County
+50,13,2018,dist_SSP,186.2,Vermont,VT,Grand Isle County
+50,15,2018,dist_SSP,207.36,Vermont,VT,Lamoille County
+50,17,2018,dist_SSP,202.29,Vermont,VT,Orange County
+50,19,2018,dist_SSP,230.36,Vermont,VT,Orleans County
+50,21,2018,dist_SSP,162.44,Vermont,VT,Rutland County
+50,23,2018,dist_SSP,198.62,Vermont,VT,Washington County
+50,25,2018,dist_SSP,155.78,Vermont,VT,Windham County
+50,27,2018,dist_SSP,184.77,Vermont,VT,Windsor County
+51,1,2018,dist_SSP,103,Virginia,VA,Accomack County
+51,3,2018,dist_SSP,100.46,Virginia,VA,Albemarle County
+51,5,2018,dist_SSP,69.2,Virginia,VA,Alleghany County
+51,7,2018,dist_SSP,82,Virginia,VA,Amelia County
+51,9,2018,dist_SSP,80.25,Virginia,VA,Amherst County
+51,11,2018,dist_SSP,64.67,Virginia,VA,Appomattox County
+51,13,2018,dist_SSP,4.55,Virginia,VA,Arlington County
+51,15,2018,dist_SSP,96.94,Virginia,VA,Augusta County
+51,17,2018,dist_SSP,73.2,Virginia,VA,Bath County
+51,19,2018,dist_SSP,72,Virginia,VA,Bedford County
+51,21,2018,dist_SSP,62.5,Virginia,VA,Bland County
+51,23,2018,dist_SSP,77.75,Virginia,VA,Botetourt County
+51,25,2018,dist_SSP,52.92,Virginia,VA,Brunswick County
+51,27,2018,dist_SSP,31.42,Virginia,VA,Buchanan County
+51,29,2018,dist_SSP,88.5,Virginia,VA,Buckingham County
+51,31,2018,dist_SSP,55.86,Virginia,VA,Campbell County
+51,33,2018,dist_SSP,56.33,Virginia,VA,Caroline County
+51,35,2018,dist_SSP,50,Virginia,VA,Carroll County
+51,36,2018,dist_SSP,103,Virginia,VA,Charles City County
+51,37,2018,dist_SSP,46.3,Virginia,VA,Charlotte County
+51,41,2018,dist_SSP,97.31,Virginia,VA,Chesterfield County
+51,43,2018,dist_SSP,52.4,Virginia,VA,Clarke County
+51,45,2018,dist_SSP,60,Virginia,VA,Craig County
+51,47,2018,dist_SSP,58.38,Virginia,VA,Culpeper County
+51,49,2018,dist_SSP,92,Virginia,VA,Cumberland County
+51,51,2018,dist_SSP,30,Virginia,VA,Dickenson County
+51,53,2018,dist_SSP,78.29,Virginia,VA,Dinwiddie County
+51,57,2018,dist_SSP,63.89,Virginia,VA,Essex County
+51,59,2018,dist_SSP,14.11,Virginia,VA,Fairfax County
+51,61,2018,dist_SSP,44.94,Virginia,VA,Fauquier County
+51,63,2018,dist_SSP,59.6,Virginia,VA,Floyd County
+51,65,2018,dist_SSP,97,Virginia,VA,Fluvanna County
+51,67,2018,dist_SSP,60.4,Virginia,VA,Franklin County
+51,69,2018,dist_SSP,68.5,Virginia,VA,Frederick County
+51,71,2018,dist_SSP,54.22,Virginia,VA,Giles County
+51,73,2018,dist_SSP,108.67,Virginia,VA,Gloucester County
+51,75,2018,dist_SSP,93.25,Virginia,VA,Goochland County
+51,77,2018,dist_SSP,58.83,Virginia,VA,Grayson County
+51,79,2018,dist_SSP,88.75,Virginia,VA,Greene County
+51,81,2018,dist_SSP,50.67,Virginia,VA,Greensville County
+51,83,2018,dist_SSP,25.67,Virginia,VA,Halifax County
+51,85,2018,dist_SSP,80.5,Virginia,VA,Hanover County
+51,87,2018,dist_SSP,91.64,Virginia,VA,Henrico County
+51,89,2018,dist_SSP,41.62,Virginia,VA,Henry County
+51,91,2018,dist_SSP,69.4,Virginia,VA,Highland County
+51,93,2018,dist_SSP,88.83,Virginia,VA,Isle of Wight County
+51,95,2018,dist_SSP,104,Virginia,VA,James City County
+51,97,2018,dist_SSP,79.1,Virginia,VA,King and Queen County
+51,99,2018,dist_SSP,38.5,Virginia,VA,King George County
+51,101,2018,dist_SSP,80,Virginia,VA,King William County
+51,103,2018,dist_SSP,85.8,Virginia,VA,Lancaster County
+51,105,2018,dist_SSP,41.12,Virginia,VA,Lee County
+51,107,2018,dist_SSP,32.71,Virginia,VA,Loudoun County
+51,109,2018,dist_SSP,80,Virginia,VA,Louisa County
+51,111,2018,dist_SSP,55.33,Virginia,VA,Lunenburg County
+51,113,2018,dist_SSP,74.86,Virginia,VA,Madison County
+51,115,2018,dist_SSP,104.65,Virginia,VA,Mathews County
+51,117,2018,dist_SSP,36.6,Virginia,VA,Mecklenburg County
+51,119,2018,dist_SSP,89.18,Virginia,VA,Middlesex County
+51,121,2018,dist_SSP,68.17,Virginia,VA,Montgomery County
+51,125,2018,dist_SSP,95.54,Virginia,VA,Nelson County
+51,127,2018,dist_SSP,94.2,Virginia,VA,New Kent County
+51,131,2018,dist_SSP,115.83,Virginia,VA,Northampton County
+51,133,2018,dist_SSP,73.43,Virginia,VA,Northumberland County
+51,135,2018,dist_SSP,71,Virginia,VA,Nottoway County
+51,137,2018,dist_SSP,66.33,Virginia,VA,Orange County
+51,139,2018,dist_SSP,81.5,Virginia,VA,Page County
+51,141,2018,dist_SSP,39.14,Virginia,VA,Patrick County
+51,143,2018,dist_SSP,37.57,Virginia,VA,Pittsylvania County
+51,145,2018,dist_SSP,97,Virginia,VA,Powhatan County
+51,147,2018,dist_SSP,66.71,Virginia,VA,Prince Edward County
+51,149,2018,dist_SSP,85.25,Virginia,VA,Prince George County
+51,153,2018,dist_SSP,27.44,Virginia,VA,Prince William County
+51,155,2018,dist_SSP,65.33,Virginia,VA,Pulaski County
+51,157,2018,dist_SSP,62.86,Virginia,VA,Rappahannock County
+51,159,2018,dist_SSP,68.67,Virginia,VA,Richmond County
+51,161,2018,dist_SSP,75.5,Virginia,VA,Roanoke County
+51,163,2018,dist_SSP,93.9,Virginia,VA,Rockbridge County
+51,165,2018,dist_SSP,92.29,Virginia,VA,Rockingham County
+51,167,2018,dist_SSP,43.17,Virginia,VA,Russell County
+51,169,2018,dist_SSP,30,Virginia,VA,Scott County
+51,171,2018,dist_SSP,81.67,Virginia,VA,Shenandoah County
+51,173,2018,dist_SSP,59.2,Virginia,VA,Smyth County
+51,175,2018,dist_SSP,63.38,Virginia,VA,Southampton County
+51,177,2018,dist_SSP,56.2,Virginia,VA,Spotsylvania County
+51,179,2018,dist_SSP,40.75,Virginia,VA,Stafford County
+51,181,2018,dist_SSP,95.4,Virginia,VA,Surry County
+51,183,2018,dist_SSP,74.5,Virginia,VA,Sussex County
+51,185,2018,dist_SSP,54.06,Virginia,VA,Tazewell County
+51,187,2018,dist_SSP,61,Virginia,VA,Warren County
+51,191,2018,dist_SSP,37,Virginia,VA,Washington County
+51,193,2018,dist_SSP,54.8,Virginia,VA,Westmoreland County
+51,195,2018,dist_SSP,38.71,Virginia,VA,Wise County
+51,197,2018,dist_SSP,69.75,Virginia,VA,Wythe County
+51,199,2018,dist_SSP,112,Virginia,VA,York County
+51,510,2018,dist_SSP,5.67,Virginia,VA,Alexandria city
+51,520,2018,dist_SSP,24,Virginia,VA,Bristol city
+51,530,2018,dist_SSP,94,Virginia,VA,Buena Vista city
+51,540,2018,dist_SSP,105.5,Virginia,VA,Charlottesville city
+51,550,2018,dist_SSP,99.33,Virginia,VA,Chesapeake city
+51,570,2018,dist_SSP,93,Virginia,VA,Colonial Heights city
+51,590,2018,dist_SSP,30.5,Virginia,VA,Danville city
+51,610,2018,dist_SSP,8,Virginia,VA,Falls Church city
+51,620,2018,dist_SSP,67,Virginia,VA,Franklin city
+51,630,2018,dist_SSP,47,Virginia,VA,Fredericksburg city
+51,640,2018,dist_SSP,54,Virginia,VA,Galax city
+51,650,2018,dist_SSP,110,Virginia,VA,Hampton city
+51,660,2018,dist_SSP,98,Virginia,VA,Harrisonburg city
+51,670,2018,dist_SSP,94,Virginia,VA,Hopewell city
+51,680,2018,dist_SSP,68.75,Virginia,VA,Lynchburg city
+51,683,2018,dist_SSP,27,Virginia,VA,Manassas city
+51,700,2018,dist_SSP,105.25,Virginia,VA,Newport News city
+51,710,2018,dist_SSP,106.43,Virginia,VA,Norfolk city
+51,720,2018,dist_SSP,38,Virginia,VA,Norton city
+51,730,2018,dist_SSP,84,Virginia,VA,Petersburg city
+51,735,2018,dist_SSP,114,Virginia,VA,Poquoson city
+51,740,2018,dist_SSP,101.57,Virginia,VA,Portsmouth city
+51,750,2018,dist_SSP,70,Virginia,VA,Radford city
+51,760,2018,dist_SSP,94.12,Virginia,VA,Richmond city
+51,770,2018,dist_SSP,79.71,Virginia,VA,Roanoke city
+51,775,2018,dist_SSP,75,Virginia,VA,Salem city
+51,790,2018,dist_SSP,99,Virginia,VA,Staunton city
+51,800,2018,dist_SSP,88.14,Virginia,VA,Suffolk city
+51,810,2018,dist_SSP,111,Virginia,VA,Virginia Beach city
+51,820,2018,dist_SSP,110,Virginia,VA,Waynesboro city
+51,830,2018,dist_SSP,108,Virginia,VA,Williamsburg city
+51,840,2018,dist_SSP,64,Virginia,VA,Winchester city
+53,1,2018,dist_SSP,55.6,Washington,WA,Adams County
+53,3,2018,dist_SSP,53,Washington,WA,Asotin County
+53,5,2018,dist_SSP,24.5,Washington,WA,Benton County
+53,7,2018,dist_SSP,38,Washington,WA,Chelan County
+53,9,2018,dist_SSP,39.22,Washington,WA,Clallam County
+53,11,2018,dist_SSP,8.74,Washington,WA,Clark County
+53,13,2018,dist_SSP,28,Washington,WA,Columbia County
+53,15,2018,dist_SSP,14.2,Washington,WA,Cowlitz County
+53,17,2018,dist_SSP,50.86,Washington,WA,Douglas County
+53,19,2018,dist_SSP,86,Washington,WA,Ferry County
+53,21,2018,dist_SSP,42.6,Washington,WA,Franklin County
+53,23,2018,dist_SSP,42,Washington,WA,Garfield County
+53,25,2018,dist_SSP,55.31,Washington,WA,Grant County
+53,27,2018,dist_SSP,44.2,Washington,WA,Grays Harbor County
+53,29,2018,dist_SSP,4.38,Washington,WA,Island County
+53,31,2018,dist_SSP,15.57,Washington,WA,Jefferson County
+53,33,2018,dist_SSP,8.66,Washington,WA,King County
+53,35,2018,dist_SSP,7.35,Washington,WA,Kitsap County
+53,37,2018,dist_SSP,11,Washington,WA,Kittitas County
+53,39,2018,dist_SSP,64.64,Washington,WA,Klickitat County
+53,41,2018,dist_SSP,29.5,Washington,WA,Lewis County
+53,43,2018,dist_SSP,46.08,Washington,WA,Lincoln County
+53,45,2018,dist_SSP,23.56,Washington,WA,Mason County
+53,47,2018,dist_SSP,88.47,Washington,WA,Okanogan County
+53,49,2018,dist_SSP,55.82,Washington,WA,Pacific County
+53,51,2018,dist_SSP,63.5,Washington,WA,Pend Oreille County
+53,53,2018,dist_SSP,8.89,Washington,WA,Pierce County
+53,55,2018,dist_SSP,20.78,Washington,WA,San Juan County
+53,57,2018,dist_SSP,11.93,Washington,WA,Skagit County
+53,59,2018,dist_SSP,35.75,Washington,WA,Skamania County
+53,61,2018,dist_SSP,12.79,Washington,WA,Snohomish County
+53,63,2018,dist_SSP,11.81,Washington,WA,Spokane County
+53,65,2018,dist_SSP,46.84,Washington,WA,Stevens County
+53,67,2018,dist_SSP,10,Washington,WA,Thurston County
+53,69,2018,dist_SSP,34.25,Washington,WA,Wahkiakum County
+53,71,2018,dist_SSP,14,Washington,WA,Walla Walla County
+53,73,2018,dist_SSP,13.27,Washington,WA,Whatcom County
+53,75,2018,dist_SSP,47.29,Washington,WA,Whitman County
+53,77,2018,dist_SSP,36.82,Washington,WA,Yakima County
+54,1,2018,dist_SSP,23.17,West Virginia,WV,Barbour County
+54,3,2018,dist_SSP,64.11,West Virginia,WV,Berkeley County
+54,5,2018,dist_SSP,21.3,West Virginia,WV,Boone County
+54,7,2018,dist_SSP,24.55,West Virginia,WV,Braxton County
+54,9,2018,dist_SSP,8.33,West Virginia,WV,Brooke County
+54,11,2018,dist_SSP,8.7,West Virginia,WV,Cabell County
+54,13,2018,dist_SSP,33,West Virginia,WV,Calhoun County
+54,15,2018,dist_SSP,27.31,West Virginia,WV,Clay County
+54,17,2018,dist_SSP,16.25,West Virginia,WV,Doddridge County
+54,19,2018,dist_SSP,9.23,West Virginia,WV,Fayette County
+54,21,2018,dist_SSP,20.33,West Virginia,WV,Gilmer County
+54,23,2018,dist_SSP,51.86,West Virginia,WV,Grant County
+54,25,2018,dist_SSP,32.94,West Virginia,WV,Greenbrier County
+54,27,2018,dist_SSP,74.53,West Virginia,WV,Hampshire County
+54,29,2018,dist_SSP,2.2,West Virginia,WV,Hancock County
+54,31,2018,dist_SSP,71.71,West Virginia,WV,Hardy County
+54,33,2018,dist_SSP,6.35,West Virginia,WV,Harrison County
+54,35,2018,dist_SSP,28.82,West Virginia,WV,Jackson County
+54,37,2018,dist_SSP,52.75,West Virginia,WV,Jefferson County
+54,39,2018,dist_SSP,10.86,West Virginia,WV,Kanawha County
+54,41,2018,dist_SSP,9.11,West Virginia,WV,Lewis County
+54,43,2018,dist_SSP,18.54,West Virginia,WV,Lincoln County
+54,45,2018,dist_SSP,35.17,West Virginia,WV,Logan County
+54,47,2018,dist_SSP,45.75,West Virginia,WV,McDowell County
+54,49,2018,dist_SSP,14.36,West Virginia,WV,Marion County
+54,51,2018,dist_SSP,11.88,West Virginia,WV,Marshall County
+54,53,2018,dist_SSP,31.15,West Virginia,WV,Mason County
+54,55,2018,dist_SSP,43.29,West Virginia,WV,Mercer County
+54,57,2018,dist_SSP,55.5,West Virginia,WV,Mineral County
+54,59,2018,dist_SSP,27.89,West Virginia,WV,Mingo County
+54,61,2018,dist_SSP,8.22,West Virginia,WV,Monongalia County
+54,63,2018,dist_SSP,46.11,West Virginia,WV,Monroe County
+54,65,2018,dist_SSP,80.5,West Virginia,WV,Morgan County
+54,67,2018,dist_SSP,25.79,West Virginia,WV,Nicholas County
+54,69,2018,dist_SSP,3.25,West Virginia,WV,Ohio County
+54,71,2018,dist_SSP,66.29,West Virginia,WV,Pendleton County
+54,73,2018,dist_SSP,15,West Virginia,WV,Pleasants County
+54,75,2018,dist_SSP,53.73,West Virginia,WV,Pocahontas County
+54,77,2018,dist_SSP,19.23,West Virginia,WV,Preston County
+54,79,2018,dist_SSP,18.91,West Virginia,WV,Putnam County
+54,81,2018,dist_SSP,22.1,West Virginia,WV,Raleigh County
+54,83,2018,dist_SSP,38.62,West Virginia,WV,Randolph County
+54,85,2018,dist_SSP,23.3,West Virginia,WV,Ritchie County
+54,87,2018,dist_SSP,28,West Virginia,WV,Roane County
+54,89,2018,dist_SSP,30.78,West Virginia,WV,Summers County
+54,91,2018,dist_SSP,16.6,West Virginia,WV,Taylor County
+54,93,2018,dist_SSP,42.6,West Virginia,WV,Tucker County
+54,95,2018,dist_SSP,26.75,West Virginia,WV,Tyler County
+54,97,2018,dist_SSP,21.17,West Virginia,WV,Upshur County
+54,99,2018,dist_SSP,14.85,West Virginia,WV,Wayne County
+54,101,2018,dist_SSP,34.78,West Virginia,WV,Webster County
+54,103,2018,dist_SSP,23.3,West Virginia,WV,Wetzel County
+54,105,2018,dist_SSP,24.25,West Virginia,WV,Wirt County
+54,107,2018,dist_SSP,9,West Virginia,WV,Wood County
+54,109,2018,dist_SSP,35.59,West Virginia,WV,Wyoming County
+55,1,2018,dist_SSP,55.4,Wisconsin,WI,Adams County
+55,3,2018,dist_SSP,69,Wisconsin,WI,Ashland County
+55,5,2018,dist_SSP,51.62,Wisconsin,WI,Barron County
+55,7,2018,dist_SSP,44.1,Wisconsin,WI,Bayfield County
+55,9,2018,dist_SSP,7.47,Wisconsin,WI,Brown County
+55,11,2018,dist_SSP,28.4,Wisconsin,WI,Buffalo County
+55,13,2018,dist_SSP,49.2,Wisconsin,WI,Burnett County
+55,15,2018,dist_SSP,14.75,Wisconsin,WI,Calumet County
+55,17,2018,dist_SSP,27.33,Wisconsin,WI,Chippewa County
+55,19,2018,dist_SSP,41.73,Wisconsin,WI,Clark County
+55,21,2018,dist_SSP,23.42,Wisconsin,WI,Columbia County
+55,23,2018,dist_SSP,40.22,Wisconsin,WI,Crawford County
+55,25,2018,dist_SSP,8.75,Wisconsin,WI,Dane County
+55,27,2018,dist_SSP,31.67,Wisconsin,WI,Dodge County
+55,29,2018,dist_SSP,54.5,Wisconsin,WI,Door County
+55,31,2018,dist_SSP,16.4,Wisconsin,WI,Douglas County
+55,33,2018,dist_SSP,27.2,Wisconsin,WI,Dunn County
+55,35,2018,dist_SSP,11.57,Wisconsin,WI,Eau Claire County
+55,37,2018,dist_SSP,82.67,Wisconsin,WI,Florence County
+55,39,2018,dist_SSP,15.71,Wisconsin,WI,Fond du Lac County
+55,41,2018,dist_SSP,62.6,Wisconsin,WI,Forest County
+55,43,2018,dist_SSP,62.3,Wisconsin,WI,Grant County
+55,45,2018,dist_SSP,31,Wisconsin,WI,Green County
+55,47,2018,dist_SSP,29.29,Wisconsin,WI,Green Lake County
+55,49,2018,dist_SSP,40,Wisconsin,WI,Iowa County
+55,51,2018,dist_SSP,85.86,Wisconsin,WI,Iron County
+55,53,2018,dist_SSP,36.25,Wisconsin,WI,Jackson County
+55,55,2018,dist_SSP,29.5,Wisconsin,WI,Jefferson County
+55,57,2018,dist_SSP,47.62,Wisconsin,WI,Juneau County
+55,59,2018,dist_SSP,11.45,Wisconsin,WI,Kenosha County
+55,61,2018,dist_SSP,21,Wisconsin,WI,Kewaunee County
+55,63,2018,dist_SSP,9.12,Wisconsin,WI,La Crosse County
+55,65,2018,dist_SSP,45.33,Wisconsin,WI,Lafayette County
+55,67,2018,dist_SSP,37.56,Wisconsin,WI,Langlade County
+55,69,2018,dist_SSP,33.25,Wisconsin,WI,Lincoln County
+55,71,2018,dist_SSP,26.62,Wisconsin,WI,Manitowoc County
+55,73,2018,dist_SSP,14.33,Wisconsin,WI,Marathon County
+55,75,2018,dist_SSP,60.23,Wisconsin,WI,Marinette County
+55,77,2018,dist_SSP,40.5,Wisconsin,WI,Marquette County
+55,78,2018,dist_SSP,37.5,Wisconsin,WI,Menominee County
+55,79,2018,dist_SSP,4.67,Wisconsin,WI,Milwaukee County
+55,81,2018,dist_SSP,29.57,Wisconsin,WI,Monroe County
+55,83,2018,dist_SSP,35.18,Wisconsin,WI,Oconto County
+55,85,2018,dist_SSP,57.62,Wisconsin,WI,Oneida County
+55,87,2018,dist_SSP,8.8,Wisconsin,WI,Outagamie County
+55,89,2018,dist_SSP,22.12,Wisconsin,WI,Ozaukee County
+55,91,2018,dist_SSP,30.75,Wisconsin,WI,Pepin County
+55,93,2018,dist_SSP,32.82,Wisconsin,WI,Pierce County
+55,95,2018,dist_SSP,44.77,Wisconsin,WI,Polk County
+55,97,2018,dist_SSP,28.55,Wisconsin,WI,Portage County
+55,99,2018,dist_SSP,65.12,Wisconsin,WI,Price County
+55,101,2018,dist_SSP,12.69,Wisconsin,WI,Racine County
+55,103,2018,dist_SSP,44.5,Wisconsin,WI,Richland County
+55,105,2018,dist_SSP,32.33,Wisconsin,WI,Rock County
+55,107,2018,dist_SSP,54.25,Wisconsin,WI,Rusk County
+55,109,2018,dist_SSP,30.45,Wisconsin,WI,St. Croix County
+55,111,2018,dist_SSP,35.31,Wisconsin,WI,Sauk County
+55,113,2018,dist_SSP,66.71,Wisconsin,WI,Sawyer County
+55,115,2018,dist_SSP,27.15,Wisconsin,WI,Shawano County
+55,117,2018,dist_SSP,34.57,Wisconsin,WI,Sheboygan County
+55,119,2018,dist_SSP,44.17,Wisconsin,WI,Taylor County
+55,121,2018,dist_SSP,25.55,Wisconsin,WI,Trempealeau County
+55,123,2018,dist_SSP,20.64,Wisconsin,WI,Vernon County
+55,125,2018,dist_SSP,80.75,Wisconsin,WI,Vilas County
+55,127,2018,dist_SSP,36.17,Wisconsin,WI,Walworth County
+55,129,2018,dist_SSP,51.29,Wisconsin,WI,Washburn County
+55,131,2018,dist_SSP,25.91,Wisconsin,WI,Washington County
+55,133,2018,dist_SSP,18,Wisconsin,WI,Waukesha County
+55,135,2018,dist_SSP,30.5,Wisconsin,WI,Waupaca County
+55,137,2018,dist_SSP,38.25,Wisconsin,WI,Waushara County
+55,139,2018,dist_SSP,9.85,Wisconsin,WI,Winnebago County
+55,141,2018,dist_SSP,38.08,Wisconsin,WI,Wood County
+56,1,2018,dist_SSP,63.5,Wyoming,WY,Albany County
+56,3,2018,dist_SSP,287.62,Wyoming,WY,Big Horn County
+56,5,2018,dist_SSP,237.33,Wyoming,WY,Campbell County
+56,7,2018,dist_SSP,123.09,Wyoming,WY,Carbon County
+56,9,2018,dist_SSP,158.33,Wyoming,WY,Converse County
+56,11,2018,dist_SSP,252.86,Wyoming,WY,Crook County
+56,13,2018,dist_SSP,227.73,Wyoming,WY,Fremont County
+56,15,2018,dist_SSP,103.25,Wyoming,WY,Goshen County
+56,17,2018,dist_SSP,270,Wyoming,WY,Hot Springs County
+56,19,2018,dist_SSP,232.33,Wyoming,WY,Johnson County
+56,21,2018,dist_SSP,48.67,Wyoming,WY,Laramie County
+56,23,2018,dist_SSP,136.75,Wyoming,WY,Lincoln County
+56,25,2018,dist_SSP,185.92,Wyoming,WY,Natrona County
+56,27,2018,dist_SSP,160.2,Wyoming,WY,Niobrara County
+56,29,2018,dist_SSP,267.5,Wyoming,WY,Park County
+56,31,2018,dist_SSP,105.8,Wyoming,WY,Platte County
+56,33,2018,dist_SSP,255.5,Wyoming,WY,Sheridan County
+56,35,2018,dist_SSP,176.83,Wyoming,WY,Sublette County
+56,37,2018,dist_SSP,147.73,Wyoming,WY,Sweetwater County
+56,39,2018,dist_SSP,209.43,Wyoming,WY,Teton County
+56,41,2018,dist_SSP,82.5,Wyoming,WY,Uinta County
+56,43,2018,dist_SSP,266,Wyoming,WY,Washakie County
+56,45,2018,dist_SSP,231.25,Wyoming,WY,Weston County
+72,1,2018,dist_SSP,46,Puerto Rico,PR,Adjuntas Municipio
+72,3,2018,dist_SSP,72,Puerto Rico,PR,Aguada Municipio
+72,5,2018,dist_SSP,67.5,Puerto Rico,PR,Aguadilla Municipio
+72,7,2018,dist_SSP,10,Puerto Rico,PR,Aguas Buenas Municipio
+72,9,2018,dist_SSP,20.5,Puerto Rico,PR,Aibonito Municipio
+72,11,2018,dist_SSP,69,Puerto Rico,PR,Anasco Municipio
+72,13,2018,dist_SSP,37.5,Puerto Rico,PR,Arecibo Municipio
+72,15,2018,dist_SSP,27,Puerto Rico,PR,Arroyo Municipio
+72,17,2018,dist_SSP,32,Puerto Rico,PR,Barceloneta Municipio
+72,19,2018,dist_SSP,20,Puerto Rico,PR,Barranquitas Municipio
+72,21,2018,dist_SSP,6,Puerto Rico,PR,Bayamon Municipio
+72,23,2018,dist_SSP,75,Puerto Rico,PR,Cabo Rojo Municipio
+72,25,2018,dist_SSP,12,Puerto Rico,PR,Caguas Municipio
+72,27,2018,dist_SSP,51,Puerto Rico,PR,Camuy Municipio
+72,29,2018,dist_SSP,13,Puerto Rico,PR,Canovanas Municipio
+72,31,2018,dist_SSP,6.4,Puerto Rico,PR,Carolina Municipio
+72,33,2018,dist_SSP,5,Puerto Rico,PR,Catano Municipio
+72,35,2018,dist_SSP,20,Puerto Rico,PR,Cayey Municipio
+72,37,2018,dist_SSP,27,Puerto Rico,PR,Ceiba Municipio
+72,39,2018,dist_SSP,29,Puerto Rico,PR,Ciales Municipio
+72,41,2018,dist_SSP,16,Puerto Rico,PR,Cidra Municipio
+72,43,2018,dist_SSP,27,Puerto Rico,PR,Coamo Municipio
+72,45,2018,dist_SSP,15,Puerto Rico,PR,Comerio Municipio
+72,47,2018,dist_SSP,17,Puerto Rico,PR,Corozal Municipio
+72,49,2018,dist_SSP,51,Puerto Rico,PR,Culebra Municipio
+72,51,2018,dist_SSP,12.5,Puerto Rico,PR,Dorado Municipio
+72,53,2018,dist_SSP,27,Puerto Rico,PR,Fajardo Municipio
+72,54,2018,dist_SSP,33,Puerto Rico,PR,Florida Municipio
+72,55,2018,dist_SSP,62,Puerto Rico,PR,Guanica Municipio
+72,57,2018,dist_SSP,26,Puerto Rico,PR,Guayama Municipio
+72,59,2018,dist_SSP,52,Puerto Rico,PR,Guayanilla Municipio
+72,61,2018,dist_SSP,2.83,Puerto Rico,PR,Guaynabo Municipio
+72,63,2018,dist_SSP,11,Puerto Rico,PR,Gurabo Municipio
+72,65,2018,dist_SSP,48,Puerto Rico,PR,Hatillo Municipio
+72,67,2018,dist_SSP,70,Puerto Rico,PR,Hormigueros Municipio
+72,69,2018,dist_SSP,25,Puerto Rico,PR,Humacao Municipio
+72,71,2018,dist_SSP,61,Puerto Rico,PR,Isabela Municipio
+72,73,2018,dist_SSP,36,Puerto Rico,PR,Jayuya Municipio
+72,75,2018,dist_SSP,36,Puerto Rico,PR,Juana Diaz Municipio
+72,77,2018,dist_SSP,16,Puerto Rico,PR,Juncos Municipio
+72,79,2018,dist_SSP,68,Puerto Rico,PR,Lajas Municipio
+72,81,2018,dist_SSP,51.5,Puerto Rico,PR,Lares Municipio
+72,83,2018,dist_SSP,61,Puerto Rico,PR,Las Marias Municipio
+72,85,2018,dist_SSP,19,Puerto Rico,PR,Las Piedras Municipio
+72,87,2018,dist_SSP,11,Puerto Rico,PR,Loiza Municipio
+72,89,2018,dist_SSP,23,Puerto Rico,PR,Luquillo Municipio
+72,91,2018,dist_SSP,27,Puerto Rico,PR,Manati Municipio
+72,93,2018,dist_SSP,58,Puerto Rico,PR,Maricao Municipio
+72,95,2018,dist_SSP,28,Puerto Rico,PR,Maunabo Municipio
+72,97,2018,dist_SSP,71.5,Puerto Rico,PR,Mayaguez Municipio
+72,99,2018,dist_SSP,66,Puerto Rico,PR,Moca Municipio
+72,101,2018,dist_SSP,23,Puerto Rico,PR,Morovis Municipio
+72,103,2018,dist_SSP,23,Puerto Rico,PR,Naguabo Municipio
+72,105,2018,dist_SSP,13,Puerto Rico,PR,Naranjito Municipio
+72,107,2018,dist_SSP,26,Puerto Rico,PR,Orocovis Municipio
+72,109,2018,dist_SSP,24,Puerto Rico,PR,Patillas Municipio
+72,111,2018,dist_SSP,47,Puerto Rico,PR,Penuelas Municipio
+72,113,2018,dist_SSP,42.57,Puerto Rico,PR,Ponce Municipio
+72,115,2018,dist_SSP,56,Puerto Rico,PR,Quebradillas Municipio
+72,117,2018,dist_SSP,75,Puerto Rico,PR,Rincon Municipio
+72,119,2018,dist_SSP,17,Puerto Rico,PR,Rio Grande Municipio
+72,121,2018,dist_SSP,61,Puerto Rico,PR,Sabana Grande Municipio
+72,123,2018,dist_SSP,30,Puerto Rico,PR,Salinas Municipio
+72,125,2018,dist_SSP,66,Puerto Rico,PR,San German Municipio
+72,127,2018,dist_SSP,2.39,Puerto Rico,PR,San Juan Municipio
+72,129,2018,dist_SSP,18,Puerto Rico,PR,San Lorenzo Municipio
+72,131,2018,dist_SSP,58,Puerto Rico,PR,San Sebastian Municipio
+72,133,2018,dist_SSP,34,Puerto Rico,PR,Santa Isabel Municipio
+72,135,2018,dist_SSP,11,Puerto Rico,PR,Toa Alta Municipio
+72,137,2018,dist_SSP,9.33,Puerto Rico,PR,Toa Baja Municipio
+72,139,2018,dist_SSP,6,Puerto Rico,PR,Trujillo Alto Municipio
+72,141,2018,dist_SSP,42,Puerto Rico,PR,Utuado Municipio
+72,143,2018,dist_SSP,17,Puerto Rico,PR,Vega Alta Municipio
+72,145,2018,dist_SSP,21,Puerto Rico,PR,Vega Baja Municipio
+72,147,2018,dist_SSP,45,Puerto Rico,PR,Vieques Municipio
+72,149,2018,dist_SSP,32,Puerto Rico,PR,Villalba Municipio
+72,151,2018,dist_SSP,25,Puerto Rico,PR,Yabucoa Municipio
+72,153,2018,dist_SSP,56,Puerto Rico,PR,Yauco Municipio
