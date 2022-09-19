@@ -6,4 +6,4 @@
 
 Open the .rproj file to open this folder in R Studio and work with the code and data files.
 
-These files can also be downloaded from the publisher page for this book under the References tab: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567
+These files can also be downloaded from the publisher page for this book under the Resources tab: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567
